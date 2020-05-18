@@ -1,0 +1,1 @@
+max q len=20 max d len=100 vocab size=12922 train size=23464 validation size=2974 test size=6524

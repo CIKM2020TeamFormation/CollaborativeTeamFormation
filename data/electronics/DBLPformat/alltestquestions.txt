@@ -1,0 +1,177 @@
+need basic electronics books diodes transistors current etc starting electronics want something read holiday suggestions good beginners books 
+trying minimize interference sensor project anyone recommend good shielded wire solder board 
+language vhdl relevant know project good really student ee languages started least write fingers learning wondering programs get would simple 
+write quite appeared match important converting reflow ovens toaster temperature parts ups reflowing attempting skillets smt read profile components pattern 
+sent serial arduino visualizing sensor suggest preferred graphing interested realtime connected macbook would osx data bunch example sensors software via 
+microcontroller tell items keep secret concept demoboard let us answer pictures arduino multiple hearing possible arduino family known please include 
+source purpose spice circuit freeware circuit spice know simulation analog simulator open integrated circuit anyone emphasis simulator program electronic general 
+would micros contemplating avrs bus series feet several separated talking much seen project bus let spi seems communicate like require 
+prototyping way found figured aimed better small software stripboard project layout must simple paper matrix matrix drawing board board following 
+comparable get linux cheap could gates wonder core soft fpgas microprocessors know fpgas contain exist expensive microblaze leaving capability running 
+home nasty careful warnings etch come photoresist pretty chemicals chloride hobbyist developer pcbs solutions note making wearing ferric kinds extremely 
+developer humanoid robot camera visual ask arduino humanoid robot consists experience would suitable develop arduino like however developer capability arduino 
+xc boot seen byte cool bootrst eeprom projects fuse preserve bootsz high byte reset vector eesave lot presentation bootsz chip 
+connector route ground placed pcb gnd isolated right esd connected protection plane chip high shield connected usb gnd usb shield 
+circuit information parent one coming circuit parent designing data form sd circuit log card plugs daughter supply card daughter store 
+salvaged determine without power connector potentiometer broken distance right much destroying kω cm potentiometer circuit left take picture way edit 
+cell project compactness due batteries cell currently differ aa projects batteries physical using look appearance batteries would next like apart 
+current controlled power due requirements source apparently small audio regulated building order minimum amp clean design needs parts szekeres varient 
+needs complicated long ok think persistence electronic life make circuits circuits experts circuits electronic important much work time difficult creating 
+large hole capacitors typically electrolytic sometimes foam pad bottom like one picture pad 
+expose project intended microcontrollers fj pic wire support ga boundary jtag testing scan jtag dspic product hackers gp fj port 
+use simple line questions arduino line efficient voltage arduino oscilloscope power make safely want connect wave mains hz mains power 
+using microcontroller seen recently arduinos played atmel kit increasing arduino microcontroller users use use questions avrs using instead development restrictions 
+question scientific voodoo improved quality explanation seen place hifi expensive sorry interested audio electrical discussions sound cables magic wrong guess 
+decide line series upon micro power ti need ram project use low controller value consumption prefer size selecting flash msp 
+unity configured gain practical signal using noninverting example might buffer connected input input amp input also op difference inverting feedback 
+three phase electricity wave offset degrees pi rad phases closer together affect frequency phases degrees chosen 
+newbie question someone confirm resistor useless true false mean anything resistor alone something done sorry know question newbie 
+flow across circuits capacitors dc dc think capacitors means steady play capacitor allow circuits capacitor current important impossible reading role 
+specially kind dictionaries battery trained batteries person batteries name implies somehow maintenance afaik operation specialty require services say flooded attendant 
+setup magnetic weaker field force stronger equally connect electromagnet strong capacity equal battery watt reach distance used battery would battery 
+likely high amps sustained order used designs carry far thickness thickness microns need copper pcb high currents pcbs high oz 
+one frequencies way frequencies multiple send idea set super different called possible times positioning overlapping different function pic read frequency 
+tesla walton issues instead want see generator cockcroft building everyone see voltage get coil someone cockcroft making walton high generator 
+terms however generally ide beta found fan started incomplete alpha new circuit visuals alternatives official nicer projects arduino big looking 
+solution touch reliable robotically human styluses still want screen done experiments even seems gloves found iphone without intervention work rely 
+ah open keep running like deep server cycle window experiment generally panel watts charged bedroom solar watt battery small via 
+lightsquared government likely transmitters test frequency products bleed bands affected lightsquared receivers adjacent recent onto gps gps wrong shows frequency 
+beagleboard voltage motors problem drive help levels dc least xm outputs needs gpio difference using outputs supply logic ic gpio 
+related generator se day part box stackoverflow featured question pondering funny today question induction appeared phase long questions yesterday sites 
+something seems use immediately clock board microcontroller watch speed clock keep like fpga one oscillator think run traces problems going 
+using dc power supply connect positive line electronic board connect negative actually happens 
+example pick place machine accidentally drops component realize grab identical replacement reason think save time 
+values determined values two resistors exactly resistor understand output ratio output picking output need voltage resistor consider basis voltage current 
+heater electrophysiology tubes nickel setup tube wire build nichrome based wrap plan length chromium solutions nichrome research around heat trying 
+bit look way using way root square one table given use possible may number logic digital looking combination sequential calculate 
+measurements controller making measured read adc lt precision lt temperature using voltage junction cold thermocouple opamp based thermocouple ic compensation 
+whatever efficiency either random wide users rationale domestic supply hz selected hz companies utility struck could hz involved chosen world 
+went engineer like least figured wrong yesterday see working power take monitor still gets see get anything display stopped apart 
+help light actual since debouncing using control pusbutton schematic drive level leds hef bp leds capacitor connected pushbutton using clock 
+one etc freeze nop eternal continuously processor power embedded happens return consumption reaches long everything final statement nops execution sky 
+right negative right effects problems board space manufacturing come layer understand angle cause avoided pcb multi much traces angle via 
+separated delays level consumption hours met voltage voltage beep buzzer long timer want couple power measurements important take simple need 
+stm discovery board would like able program linux easiest way 
+switch interval want air run minutes every minutes place minute actually make night switch whole want continuous stay conditioner want 
+looking best rc time constant reason pwm convert digital signal analog based duty cycle frequency parameters pwm frequency khz 
+sparkfun page bluetooth recently achieve sparkfun arduino tested setup ridiculously item said purchased used info says expensive contacted module range 
+understand trying example readanalogvoltage nub cc first tutorial potentiometer arduino variation nominal en nano arduino http total recently electronics got 
+like got plenty warts connectors rca rca tons terms small led google power wall connector reference wikipedia searching passing luck 
+max pulse vdc pulses isolator purpose ms protect get count opto external electrical pin meter schematics signal width want max 
+embedded like starting kept applications already using developer software rtos model software embedded wondering uml programming diagrams using desktop since 
+build alarm changed trouble figuring lock wire little detect circuit use least power cable idle batteries trying science way cut 
+want know basic fundamental difference fm radio nowadays fm radio replaced become popular 
+monitor switched collector pulses finger time rate explain currently dismantled transistor let made via emitter transistor heart wired base heart 
+source would aa total fa motor permanent specification dc power magnet theoretically rechargeable batteries following assume happen case start cases 
+pins also uf capacitors uf power decoupling mbps phy ethernet usual case pushed using ceramics using terribly tantalum closer bulk 
+graduated ee cs probably grasp degree appeals like interesting feel really mit good anyways noticed got classes watching circuits basics 
+counter coming count spec ns min dspic pulse fj board microcontroller attempting least asynchronous pulse width asynchronous comparator current high 
+done part designing max part got electronics thing stuck possibly analog buck circuit regulator actually select much never inductor regulator 
+pull watts ohm amount enough push power like know supply around double receiving juice rails getting fact speaker make amplifier 
+voltage long fuse reaction rating know use reading elsewhere current speed replacing rating one higher used rated example fuse safe 
+know assigned soon layer board laying allegro contains sized someone fpga task using board receive schematics less else pcb arm 
+times arduino every water drips plants watering water track basically outside building day couple sometimes might hose get system runs 
+picture shown output controlled based control drain source way connected problem 
+polarity already rectifier wave rectifier recently idea full dc considered introduced protect reverse even using damage dc devices using order 
+understand antennas radiate signal understand basics antenna wavelength electron field simply understand current go wire negative pole please explain 
+fb mean guess kind protective device like fu fuse comprehensive online guide kind symbols 
+parts manufacture laen pcb typically units bga metric service specified problems based one eagle using using cad prototyping bga lay 
+following communications ratio signal signal across facing ambiguity professor ratio ratio power sn unable college noise course came resolve started 
+printing fabricate touches however want pcb design add license electronics basically personal building project gerbers btw house supplied logo silkscreen 
+end forces current resistance power flowing beginning voltage determined amount people rudimentary understanding circuit charge source talk extremely flow voltage 
+reading go section th technical electrical topic topic load open read confusing load terminals approach wikipedia starts circuited section line 
+opens one working criminal continue switch trying say develop switch alarm switch let transistor sort closed time sets want opens 
+options complement digital complement form dac simply data data input form straight output adc binary devices code representing advantages two 
+understand place output bad based guess try microcontroller using debug consume printf valuable pins seen project time thing predefined could 
+came across capacitors kit wondering type buy use button debouncing circuits unless reading wrong nf nf respectively thanks travis 
+discarded example whose unused puzzle ip system protocol certain information states internet say version packets neither specification type always discarded 
+junctions concepts side currents pn donors studying excess impurities across side junctions diffusion come since understand together accdeptor excess came 
+divider wondering question circuit slightly short question voltage modified schematic divider previous voltage follow created using circuitlab originally simulate vout 
+drive instead better control plugging inverter motor performance allows system power using ac simply understand advantages rectifier speed much mains 
+use fritzing create layer pcb also real life maximum limit layers use create pcbs layers 
+pcb house gps something prefer complicated chip quintuple high mosfet grounding order channel checking using power side chip bear control 
+pulses degrees angle using attached seconds crystal stepper hz stepper needle nicely want divides step motor every watch display produce 
+quite leds create new lights need know white led knowledge much emit order technology yes actually find fascinating read light 
+finding solved circuit possible found unusual resistance study know faced never even bizarre mean self problem problems equivalent problem trying 
+schematic circuit diagram circuit three simulate circuitlab using equal question student capacitance school capacitors created anything forgive wrong please following 
+charger charger nicd described battery avr posted purpose sla bead note regarding circuit ferrite application related battery question another inductor 
+pcb mine like copper holes however possible plating side size surrounds pcb perfect project interconnected use individual would holes back 
+seen pcbs components sketched seem mounted board see image playstation transformer drawn done circuits 
+levels voltage voltage high low transform circuit state diodes high passives three would ideally simple use tri circuit divider output 
+big argument last night vague conclusions current frequency less hz considered dc would still resemble wave 
+breadboard least certain laws kirchhoff series thinks path considering read electrons however resistor case applies resistance track flow current part 
+designs fix looking order make going fixes pass two emc products modified cases radiated emissions testing need failed apply unfortunately 
+realize attached chassis aside ground seem ground pcb digital obvious safety ground connect duplicate may answers thread explain chassis one 
+device ninja board anything assuming low powered devices static sensitive still solder voltage damage nothing possible short frequently tempted going 
+big well adapter producing wondering know alternative apple call power lets technology smaller considering would power heavy adaptors brick power 
+received usart_rx_vect able clear rxc udr interrupt byte pinstate ucsr usart read currently code usart received isr ocr byte cli 
+module tempting contacts cards modules today times really eraser ram cleaning way easy gold rams clean really network thinking copper 
+circuits sheets usually designing decoupling data values components give capacitors lot see give schematic various using time ic example usually 
+fails need contrast without connected another pull pull question resistors one resistors uart side need lines spi pull communication resistors 
+something thats line part came said across interview related said interesting interview capacitance horowitz paul words question one less adafruit 
+lines significantly separated ic edge realized leaving pcb question fairly consider curious sure middle pcb although close start good following 
+wired expecting lcd lcd system matrix least hack pins starting qe monitor monitor row driver trying teared driver columnn vg 
+solenoid protect plc fuse fast ob several installed card acting solenoid vdc output output plc years automation plc rockewell wired 
+bug removing two populated many sot fix hardware pcbs many putting design across pads wire component board manufactured problem found 
+consider hardware team take months develop hardware time need software ready question write software test without hardware standard followed 
+articles stages capacitor talking two idea several came across capacitors separating understood explanation capacitors jumping dc charged studying fully block 
+put required low count volts minimum anything low cheap low area cost component way looking voltage load may pcb component 
+able great dark modify nixie would works change tube great fun like based assembled bright conditions kit tubes clock clock 
+diameter layer inner drill use two board asked designing via traces know select outer circuit well problem size mil diameters 
+direct tight might tie kind two anything mount solution small view requirements elegant project parts distance would measure points need 
+back gate gate getting happen input back input get output input input could gives output gives bring output gate get 
+current dissipated one required package using pak current mc results projects available circuit supply generate logic supply vdc mc power 
+solder components together started learn circuit board 
+whose part two silkscreen numbers reason board board fine one layout displayed parts sent finikshing fab numbers parts showing diodes 
+sometimes correct might question know everything make broad forum ask tried stackexchange closed know sure knowing downvoted whether question want 
+making main think bit button solved would issues press hardware loop unreliable sampling good problem interrupt deal connected button bounces 
+nowadays really circuits circuit developed variables solve rule laws physicists day still calculate us powerful every electronic help problems behavior 
+book others flow explain explanation flow used potential difference short phrase places high charge circuit along many googled author explain 
+reference studying series two battery commonly ion phone cell confused chip eb li used negative terminal mosfets batteries circuit protection 
+outermost conductors materials one electrons atoms electrical process constantly called conducting loosely exchange bound time often described materials charges different 
+project outlet finding signals relay wifi device building controlled trouble first nd used relay latching suitable relay maximum using capstone 
+say transformer secondary reason vac single simple primary tube cannot roles swapped vacuum transformer rated phase old practical primary days 
+seen resistor regarding series parallel goes display vs watch usage segment sorts lot working nothing found work similar combination leds 
+using isolate collector least state iv result want open optoisolator less circuit around change get lm comparator ltspice want following 
+atmega vcc pins connect vcc pins power supply power mcu use rest vcc pins mcu power peripherals leds 
+resides currently humidity weather live common organized advised components michigan forth certain extremes goes garage recently temperature store assortments back 
+connect capacitors problem resulting much ic decoupling capacitors place ic decoupling opposite two approaches possible threads power talk close completely 
+smps basically life square buck generated wave electronics professor spent time application theory specific vocabulary domain power passed converter switch 
+taking signal circuit ground side going mcu scoping output output signal outputting high mcu_ls always base missing pulled enough transistor 
+input accept voltage switches ever inputs work permanent input stm fixed plc switched time dc limit inputs building switches inputs 
+however lm low supply regular says lm amplifier bob watching pease opamp legendary negative video output add distortion resistor rail 
+even peripheral packets bit application returns using detection zeros therefore pass error spi peripheral bits containing parity ones data plus 
+sense current question transformer transformers loop makes completing rogoski couple rogowski seen coils system conductor measure around coils current coil 
+begin increment clk program epm reg begin counter trigger_count posedge trigger trigger_state reg always running altera sometimes trigger_state simple trigger_state 
+searching make transistors resources ever seen things opinion textbooks made based however work transistors lot trying tutorial various non possible 
+consumption reaches appliances way know watts arrives consumption kwh monthly bill account household exact want approximate house know taking want 
+pictures electrician consider tied following good earth neutral still give design electronics able day engineer reason situations case two dad 
+essentially nothing given small see configurations given mean draw amperage well 
+wall way fet outlet questions powered trying two lamp microcontroller use arduino trying current ac control lamp exact use control 
+electron conventional place actually says opposite flow takes electrical current flow current conventional direction electron easily concept moves professor understood 
+built built market micro usb personally fpgas fpgas usb reasons usb perceive interfaces shortage companies interfaces profitable controllers technical appear 
+know wonder airsoft descriptive could came linear hall aftermarket enough title works trigger stop across brilliant gun pcb design controller 
+model moll mathrm obviously frac mathrm say frac v_ i_ mathrm let models left beta_ model ebers extends mathrm i_ 
+repair error components veriti reasonably time trying batch report expensive failed lab must several pieces equipment thermocyclers bad bought abi 
+chip capacitor reference still electrolytic built works design well basing path corporation one design used happy signal compressor capacitor based 
+speed mbit mhz differential like mhz scope could full high mhz usb upgrade probe testing test looking tek speed goal 
+uhs pairs looking differences coded digital sd usb bitstream protocol transmitted sata ii link differential pcie using struck serial usually 
+projects specific getting space wanted manufacturer something one suitable looked save looking small type dies bare adc package found tssop 
+rectangles exposed lpc today nxp dev look board components points curious noticed test bottom think mbed like may copper meant 
+two floor mhz mhz mhz failed peaks emc mhz mhz spikes harmonics noise measured times mhz dbuv especially quasi easily 
+cannot applying change ways stack prevent articles keyword exchange objects determined reading adc answers using volatile optimizations compiler reading compiler 
+could open one jumper across come design design came include jumpers closed libraries solder symbols closed get solder might across 
+sound outputs built keyboard using astable lm chip chain audio multivibrator synthesizer powered circuits prototype amplifier speaker connected dc whose 
+droppers halogen mcu designed europe lamp controlled mains hz driving capacitors capacitive power vac ago western dimmer years rated uses 
+braun would device home old cosmophon wanting fun virtually uncertain ol use long technical good knowledge bmf power microphone completely 
+author two article phase missing voltage talks higher neutral times phase phase voltage magic system following phases paragraph individual wire 
+overflow main heap sram hence stm allocates work declare arrays heap mcu vc size allocation forth outside determines working heap 
+length parsing sheet unit wave_length states siglent data kpts data first arbitrary kilo generation kpts wave chunk sds waveform oscilloscope 
+taken added figure circuit amp using signal working microcontroller voltage page crowbar protection general amplify directly tl input fine op 
+come across schematic datasheet bus switch exactly triangular symbol mean looks lot like gate third leg confusing 
+voltage volts order power required stupid like video sound one question leds confirmation around want might leds watched using youtube 
+slide two measured multimeter consisting holders ohm two including switch batteries battery led circuit resistor battery current built simple holders 
+professor need problem since kirchhoffs recent exam problem node concerning i_c nodes cancel currents combine understanding concerned simple marked laws 
+see use pros switch discharging inductive diode however closed protect fig open circuit cons commonly literature freewheel kick goes would 
+phase microprocessor requirement related shows unique mode released classic various using intel characteristics process nmos two process fabricated clock enhancement 
+understand whenever opto using circuit activated zero struggling via feeds design current detector says cross mains turns exactly description considering 
