@@ -1,0 +1,1295 @@
+43 20th-century 265 military 129 israel 101 war 94 middle-east 92 world-war-two 86 soviet-union 80 germany 77 world-war-one 60 ancient-history 57 19th-century 54 government 51 diplomacy 51 warfare 47 technology 45 weapons 45 sword 40 american-civil-war 37 confederacy 37 nationalism 33 nation-states 33 post-communist-era 33 moldova 33 imperial-germany 33 historiography 30 resource 30 espionage 30 accuracy 30 british-empire 29 colonization 29 africa 29 travel 29 1940s 23 zionism 23 religion 22 ancient-greece 21 alexander-the-great 21 hellenistic-greece 21 macedon 21 naval 21 cold-war 21 submarine 21 united-kingdom 19 economy 16 trade 16 poland 16 polish-bolshevik-war 16 international-relations 14 italy 14 roman-republic 14 civil-war 14 cavalry 14 japan 13 nuclear 13 nazi-germany 11 sources 10 napoleonic-wars 7 europe 6 sociology 6 sex 6 byzantine-empire 5
+18 england 48 middle-ages 36 proof 36 europe 12 political-history 12 democracy 12 13th-century 12 technology 9 byzantine-empire 9 weapons 9 20th-century 6 world-war-one 6
+68 language 71 native-americans 50 15th-century 50 age-of-discovery 50 christopher-columbus 50 holy-roman-empire 49 ancient-history 27 political-history 23 ancient-greece 23 democracy 23 roman-republic 23 classical-antiquity 23 franks 22 latin-language 22 espionage 22 government 22 roman-empire 22 kingdom 22 economy 22 trade 22 20th-century 21 world-war-two 21 military 21 nazi-germany 21 republic-of-ireland 21 india 5 sources 5
+31 holy-roman-empire 27 language 20 20th-century 5 world-war-two 5 japan 5 soviet-union 5
+1385 holy-roman-empire 16 language 16
+8063 holy-roman-empire 5 language 5
+20 world-war-two 59 20th-century 59 holy-roman-empire 14 technology 11 weapons 11 resource 11 japan 10 soviet-union 10 germany 8 poland 8 geography 8 thailand 8
+16 religion 17 arabia 17 islam 17 roman-republic 8 caesar 8 1st-century 8 technology 5 weapons 5 resource 5
+49 china 48 europe 34 political-history 32 war 30 england 29 middle-ages 22 roman-republic 21 warfare 18 military 15 15th-century 15 ancient-china 14 france 14 strategy 11 alexander-the-great 11 macedon 11 hellenistic-greece 11 colonization 10 caesar 9 1st-century 9 ancient-history 8 war-elephants 8 weapons 8 ancient-greece 7 democracy 7 classical-antiquity 7 adaptability 7 battle 7 roman-empire 5 ancient-rome 5
+4935 europe 648 middle-ages 616 united-states 571 ancient-history 524 military 471 historiography 422 united-kingdom 421 world-war-two 421 international-relations 419 china 397 cultural-history 379 japan 377 political-history 366 ancient-rome 332 war 320 social-history 299 england 294 everyday-life 235 industrial-revolution 224 industrial-history 224 language 219 science 216 roman-empire 187 family 183 germany 182 early-medieval 179 cold-war 161 writing 160 spain 157 british-empire 154 law 154 13th-century 151 20th-century 147 racism 141 ancient-greece 138 colonization 131 britain 125 food 124 nuclear-weapons 122 social-class 121 17th-century 118 christianity 117 world-war-one 117 disease 115 monarchy 115 poland 114 records 111 soviet-union 110 ancient-china 104 nazi-germany 104 ancient-egypt 104 sexuality 104 austria-hungary 103 royalty 103 children 100 spaceflight 97 marriage 96 agriculture 95 france 91 art 91 women 89 asia 84 sweden 84 construction 83 electricity 83 economics 81 18th-century 80 vietnam-war 77 sociology 77 imperialism 76 titles 74 technology 73 india 70 religion 70 1910s 69 falklands-war 67 tactics 67 identification 66 19th-century 64 trade 62 currency 62 political-geography 62 geography 61 government 60 warfare 57 ukraine 56 feudalism 56 nuclear 55 classical-antiquity 55 north-america 54 mesoamerica 54 aztec 54 battle 54 fashion 53 gender 53 nobility 48 genealogy 48 korean-war 47 greek-mythology 47 canada 46 names 46 death 46 statistics 46 israel 46 palestine 46 1960s 46 manorialism 46 contemporary-history 45 armour 45 combat 45 jews 43 russia 43 chartered-companies 42 siege 42 surname 40 naval 40 hitler 40 american-civil-war 39 civil-war 39 economy 39 korea 39 vietnam 39 slavery 38 demography 37 american-revolution 37 age-of-discovery 36 netherlands 36 dutch-empire 36 carthage 35 punic-wars 35 crime 34 mathematics 34 latin-language 32 romania 32 weapons 31 1930s 31 prussia 29 mongol-empire 29 15th-century 29 black-death 28 olympics 28 1980s 28 music 27 anglo-saxons 27 alcohol 26 prohibition 26 navy 26 coins 26 australia 25 aboriginals 25 new-zealand 25 buddhism 24 artillery 22 austria 21 americas 21 clothing 21 historical-techniques 21 persia 21 greco-persian-wars 21 royal-succession 20 diplomacy 20 castles 20 transportation 19 railroads 19 astronomy 19 vikings 19 terminology 19 heraldry 18 nationalism 18 national-symbols 18 needham 18 ceremony 18 chivalry 18 roman-republic 17 hundred-years-war 17 catholic-church 17 dday 15 physics 15 aircraft 15 exploration 14 portugal 14 bronze-age 14 mediterranean 14 literature 14 imperial-germany 14 1920s 13 meiji-restoration 12 nutrition 12 quotes 12 the-balkans 12 alexander-the-great 11 hellenistic-greece 11 macedon 11 native-americans 11 anthropology 11 migration 11 health 11 chronology 10 date 10 timeline 10 protestant-church 10 calvinism 10 rulers 10 holy-roman-empire 9 french-revolution 9 french-empire 9 habsburg 9 building 9 labour-history 9 norman 8 bible 7 crusades 5 africa 5 libya 5
+120 world-war-two 1132 united-states 943 20th-century 426 nazi-germany 362 united-kingdom 339 military 329 europe 293 soviet-union 244 19th-century 244 china 234 japan 231 political-history 222 world-war-one 203 germany 193 colonization 176 british-empire 175 international-relations 167 warfare 163 war 161 middle-ages 158 russia 153 france 152 naval 148 economy 125 slavery 123 women 118 canada 103 italy 99 social-history 98 spain 97 ancient-history 94 voting 94 ireland 92 american-civil-war 91 18th-century 88 tactics 84 jews 80 africa 78 north-africa 77 hitler 75 social-class 74 strategy 71 american-revolution 68 britain 65 north-america 65 roman-empire 64 independence 62 age-of-discovery 60 weapons 59 civil-war 59 alaska 59 cuba 57 demography 55 mongol-empire 53 monarchy 52 exploration 51 cultural-history 51 law 51 trade 50 india 50 communism 49 england 48 napoleonic-wars 48 australia 47 cold-war 47 judaism 46 crusades 44 south-america 44 middle-east 44 portugal 42 royalty 42 post-war 42 imperial-germany 38 economics 38 revolution 37 modern 37 population 37 turkey 36 us-constitution 36 new-world 35 aircraft 34 agriculture 33 conscription 33 richard-i 32 saladin 32 12th-century 32 language 32 ethnicity 32 dday 31 food 31 ancient-rome 31 spanish-empire 30 tanks 29 great-britain 29 colonial-america 29 poland 28 president 28 ww2-pacific-theater 28 switzerland 27 abraham-lincoln 27 french-empire 26 americas 26 greece 26 death-penalty 26 german-unification 25 diplomacy 25 holocaust 25 atlantic-slave-trade 25 dutch-empire 24 napoleon 23 confederacy 23 mexico 23 thailand 23 political-geography 23 catalonia 23 scotland 23 records 22 democracy 21 argentina 21 yugoslavia 21 invasion 21 1st-century 20 austria 20 classical-antiquity 20 ancient-egypt 20 navy 20 vikings 19 political-party 19 ukraine 19 1940s 19 ottoman-empire 19 family 19 contemporary-history 19 washington-state 19 civil-rights 19 islam 19 egypt 19 libya 19 cavalry 18 diplomatic-history 18 public-finance 18 history-of-ideas 17 roman-republic 17 korea 17 french-revolution 17 habsburg 17 education 17 historiography 17 sweden 17 prussia 17 feudalism 17 john-f-kennedy 16 mercantilism 16 immigration 16 dictatorship 16 rulers 16 versailles 16 crime 16 philosophy-of-war 15 defense 15 ancient-greece 15 clothing 15 uniform 15 population-transfer 15 1960s 15 united-nations 15 banking 15 battle 15 alcohol 15 renaissance 15 treaties 14 industrial-revolution 14 inheritance 14 14th-century 13 vietnam-war 13 16th-century 13 modernisation 13 sword 13 government 12 antarctica 12 falklands-war 12 isolationism 12 precolumbian-contact 12 nautical 12 disasters 12 stalingrad 12 travel 12 archaeology 12 reformation 12 adaptability 11 south-east-asia 11 17th-century 11 marriage 11 witchcraft 11 victorian 11 childbirth 11 treaty 11 brazil 11 siege 10 alexander-the-great 10 civilizations 10 colony 10 holy-roman-empire 10 1970s 10 south-africa 10 anthropology 10 scandinavia 10 terminology 9 syria 9 quotes 9 the-balkans 9 churchill 9 black-death 8 espionage 8 sociology 8 crowd-psychology 8 spanish-civil-war 8 fascism 8 samurai 8 george-washington 8 morals 8 sexuality 8 denmark 8 norway 8 russian-revolution 8 new-york 8 iron-age 8 assyrian-empire 8 republic-of-ireland 7 war-elephants 7 everyday-life 7 election 7 war-crime 7 great-depression 7 romania 7 moldova 7 combat 7 maps 7 age-of-sail 7 literature 6 book 6 philippines 6 medicine 6 religion 6 pope 6 heraldry 6 nobility 6 asia 6 hungary 6 czechoslovakia 6 ships 6 mesoamerica 6 aztec 6 weimar-republic 6 ancient-china 6 medieval-japan 6 geography 6 cartography 6 nationalism 5 belgium 5 nation-states 5 hellenistic-greece 5 macedon 5 pakistan 5 bohemia 5 early-modern 5 imperialism 5 popular-culture 5 nuclear-weapons 5 finance 5 prohibition 5 native-americans 5 austria-hungary 5 racism 5 1920s 5 vietnam 5 indochina 5 4th-century 5 california 5 piracy 5 interwar 5 catholic-church 5 sex 5 money 5 coins 5 reference 5 netherlands 5 israel 5 stalin 5 place-names 5 decolonization 5 sino-japanese-war 5 cities 5 castles 5
+26454 middle-ages 377 world-war-two 301 united-states 290 ancient-history 275 political-history 211 ships 193 military 157 navy 152 submarine 152 communism 141 american-civil-war 132 ancient-greece 126 confederacy 125 travel 122 nazi-germany 115 rulers 109 death 98 conflict 98 ancient-rome 92 20th-century 91 food 88 naval 85 colonization 83 science 82 early-modern 78 warfare 76 engineering 76 slavery 74 shops 73 sparta 69 hitler 68 united-kingdom 67 law 63 armour 62 women 62 gender 62 everyday-life 60 economy 59 colonial-america 56 education 56 spanish-empire 56 portuguese-empire 56 agriculture 55 native-americans 54 new-world 54 migration 54 alaska 54 modern 54 monarchy 51 statistics 51 incarceration 51 government 51 dictatorship 51 feudalism 50 diplomacy 49 treaty 49 europe 47 technology 47 britain 46 soviet-union 43 england 43 africa 42 germany 42 mesopotamia 42 ancient-babylon 42 code-of-hammurabi 42 industrial-history 41 natural-resources 41 american-revolution 40 south-africa 39 gold 39 secrecy 39 spaceflight 37 nuclear-weapons 37 vietnam-war 37 15th-century 36 hundred-years-war 36 writing 36 climate 36 crusades 34 inn 34 lodge 34 persia 33 greco-persian-wars 33 cuba 32 language 32 world-war-one 31 ancient-egypt 29 catholic-church 28 papacy 28 records 27 trade 27 geography 26 symbols 25 clothing 23 art 23 names 23 14th-century 23 currency 23 numismatics 23 islam 22 ethiopia 22 asia 21 espionage 21 assassination 21 czechoslovakia 21 cia 21 immigration 21 people 20 revolution 18 furniture 18 early-medieval 17 animals 17 netherlands 17 kingdom 17 imperialism 17 apartheid 17 medieval-china 16 reference 16 fascism 16 spanish-civil-war 16 john-f-kennedy 15 cultural-history 15 mongol-empire 15 ottoman-empire 14 habsburg 14 social-history 14 hygiene 14 titles 14 great-britain 14 royal-succession 14 literature 14 philosophy 14 world 14 famous-people 13 health 13 julius-caesar 13 caesar 13 imperators 13 france 13 transportation 12 construction 12 india 12 sports 12 roman-republic 12 classical-antiquity 12 rome 12 vikings 11 labour-history 11 battle 11 disease 10 muslims 10 bronze-age 10 greek-dark-ages 10 dorians 10 finance 10 age-of-sail 10 date 10 caribbean 10 piracy 10 british-empire 9 middle-east 9 money 9 international-relations 9 racism 9 sexuality 9 victorian 9 photography 8 libya 8 music 8 folklore 8 historiography 7 athens 7 atlantic-slave-trade 7 coins 7 book 7 maya 7 ireland 6 political-geography 6 place-names 6 toponymy 6 napoleonic-wars 6 population-transfer 6 nobility 6 german 5 18th-century 5 16th-century 5 malta 5
+12 holy-roman-empire 27
+5 20th-century 16 world-war-two 16 dday 16 england 14 middle-ages 14 proof 14 war 14 military 14 cavalry 14
+103 technology 66 byzantine-empire 59 middle-ages 52 ancient-history 51 weapons 50 warfare 44 cultural-history 39 15th-century 30 crusades 30 religion 26 ancient-rome 26 military 24 law 24 france 22 sword 21 colonization 19 research 18 crime 18 19th-century 17 napoleonic-wars 17 science 16 classical-antiquity 16 independence 15 united-kingdom 14 spain 14 new-world 14 portugal 14 social-history 13 gladiators 12 historiography 11 research-techniques 11 14th-century 9 business-history 9 tradition 8 human-sacrifice 8 vikings 8 sweden 8 norway 8 norse-mythology 8 roman-republic 7 caesar 7 1st-century 7 europe 7 language 7 food 7 clothing 7 england 6 proof 6 18th-century 6 french-revolution 6 diplomatic-history 6 sociology 6 crowd-psychology 6 terminology 6 civilizations 6 roman-empire 6 sources 6 united-states 6 international-relations 6 20th-century 5 world-war-two 5 germany 5 soviet-union 5 nazi-germany 5
+577 world-war-two 12 20th-century 12
+2917 soviet-union 43 20th-century 26 ancient-greece 25 democracy 24 russia 20 athens 18 voting 18 germany 16 colonization 16 warfare 15 weapons 15 movies 14 music 14 emigration 14 economics 13 election 12 antisemitism 11 economy 8 communism 8 world-war-two 7 sports 7 religion 6 ancient-history 6 political-history 5 history-of-ideas 5 united-kingdom 5 1940s 5 currency 5 infantry 5
+8 20th-century 10 world-war-two 10 dday 10
+62 19th-century 61 united-states 44 american-civil-war 44 world-war-two 43 japan 37 20th-century 23 iceland 23 britain 23 warfare 20 nuclear 20 military 18 adaptability 18 meiji-restoration 17
+54 united-states 29 middle-ages 26 terminology 26 law 18 19th-century 11 american-civil-war 11
+35 20th-century 89 world-war-two 89 japan 89 soviet-union 89 colonization 26 exploration 26 age-of-discovery 26 africa 26
+90 world-war-two 142 20th-century 125 naval 79 military 67 aircraft 65 soviet-union 52 dday 50 germany 41 war 40 japan 37 united-states 33 united-kingdom 30 world-war-one 20 nazi-germany 19 iceland 15 britain 15 19th-century 15 vietnam-war 14 australia 11 defense 11 imperial-germany 11 russia 10 technology 9 roman-republic 9 tactics 9 war-elephants 9 age-of-sail 6 warfare 6 nuclear 6 american-civil-war 5 confederacy 5
+1722 20th-century 9 world-war-two 9 japan 9 soviet-union 9
+4404 world-war-two 109 nazi-germany 67 soviet-union 63 20th-century 52 transportation 47 railroads 47 germany 45 economy 31 japan 16 bulgaria 11 united-kingdom 9 poland 6 hitler 6 warfare 5 world-war-one 5 belgium 5
+125 political-history 50 middle-ages 41 byzantine-empire 41 15th-century 41 crusades 41 france 29 europe 28 england 28 democracy 28 13th-century 28 united-states 22 19th-century 22 political-party 22 nationalism 16 belgium 16 nation-states 16 18th-century 13 french-revolution 13 diplomatic-history 13
+58 world-war-two 61 world-war-one 42 united-states 39 united-nations 39 nazi-germany 31 holocaust 31 india 18 war 18 japan 18 philippines 18 germany 12 ancient-history 11 founding-fathers 9 europe 6 political-history 6 england 6 democracy 6 13th-century 6 revolution 5 world 5
+135 roman-empire 19 ancient-rome 19 1st-century 19 ancient-history 11 ancient-egypt 11 civilizations 11 economy 6 trade 6 currency 6
+850 roman-empire 13 ancient-rome 13 1st-century 13 construction 13
+510 middle-ages 14 england 14 crusades 14 12th-century 14 richard-i 14
+85 military 229 war 130 20th-century 128 middle-east 65 world-war-two 56 crusades 52 ancient-history 52 middle-ages 50 israel 47 american-civil-war 47 roman-empire 43 naval 43 nazi-germany 36 republic-of-ireland 36 19th-century 36 christianity 33 islam 33 government 32 united-states 32 cultural-history 28 africa 26 law 25 england 22 aircraft 20 dday 20 12th-century 19 richard-i 19 civil-war 19 vietnam-war 19 sources 18 confederacy 15 warfare 14 cavalry 14 mongol-empire 14 infantry 14 communication 13 kingdom 12 ancient-egypt 12 popular-culture 11 france 10 united-nations 8 independence 8 saladin 7 revolution 7 world 7 soviet-union 7 cold-war 7 submarine 7 industrial-revolution 5 medicine 5 siege 5 religion 5 tradition 5 human-sacrifice 5 byzantine-empire 5 china 5 archaeology 5 weapons 5 native-americans 5 old-west 5
+63 world-war-two 123 poland 90 ancient-history 88 20th-century 84 hitler 74 nazi-germany 70 economy 63 religion 63 germany 52 jews 51 soviet-union 51 reformation 36 exploration 35 africa 34 communism 32 17th-century 30 16th-century 30 united-states 27 economics 26 geography 24 europe 24 archaeology 24 age-of-discovery 24 antarctica 24 colonization 22 technology 21 middle-ages 21 social-history 21 ancient-greece 19 roman-empire 18 development 18 military 18 ancient-egypt 18 japan 17 theoretical-history 17 nazism 16 british-empire 16 french-empire 16 middle-east 12 islam 12 immigration 12 india 12 alexander-the-great 12 hebrew 12 taxes 11 15th-century 11 americas 11 christopher-columbus 11 language 11 crusades 10 catholic-church 10 popular-culture 10 prussia 9 gutenberg 9 bible 9 civilizations 8 new-world 8 early-modern 8 imperialism 8 stalin 8 finland 8 sex 7 world-war-one 7 imperial-germany 7 aircraft 7 communication 7 cryptology 7 trade 6 currency 6 revolution 6 cuba 6 christianity 6 industrial-revolution 5 china 5 18th-century 5 war 5 holy-roman-empire 5
+104 war 28 naval 18 age-of-sail 18 20th-century 16 military 10 cavalry 10 world-war-two 9 germany 9 poland 9 geography 9 civil-war 7 post-communist-era 7
+22 20th-century 35 military 35 germany 24 world-war-one 24 world-war-two 11 nazi-germany 11 republic-of-ireland 11 war 7 philosophy-of-war 7 imperialism 7
+3559 world-war-two 35 nazi-germany 35 military 23 united-states 20 warfare 17 world-war-one 15 ancient-history 15 industrial-revolution 15 cities 15 20th-century 12 19th-century 12 middle-ages 11 turkey 8 contemporary-history 8 business-history 8 computers 8 napoleonic-wars 7 soviet-union 7 middle-east 7 war 6 christianity 6 islam 6 crusades 6 england 6 heraldry 6 germany 5 cavalry 5 treaties 5 mongol-empire 5
+512 ancient-history 83 religion 39 world-war-two 36 germany 36 india 36 warfare 26 war 25 naval 21 exploration 21 military 21 middle-ages 21 medicine 21 siege 21 strategy 19 20th-century 16 napoleon 14 japan 11 cultural-history 11 roman-empire 8 sources 8 19th-century 5 europe 5 social-class 5 social-history 5 weapons 5
+771 united-states 1010 world-war-two 523 political-history 339 europe 316 language 305 middle-ages 269 technology 259 navigation 258 20th-century 249 ancient-history 212 nazi-germany 212 religion 209 china 208 war 202 india 197 slavery 190 native-americans 186 social-history 185 christopher-columbus 182 united-kingdom 170 warfare 158 germany 147 american-revolution 145 american-civil-war 141 public-health 140 law 137 15th-century 135 religious-history 133 military 131 ancient-greece 126 japan 125 new-zealand 123 madagascar 123 austroneisan 123 colonization 119 roman-empire 118 britain 118 ancient-rome 118 historiography 114 vikings 113 jews 109 writing 109 france 108 british-empire 107 cultural-history 107 president 107 soviet-union 106 economy 105 americas 105 england 101 bible 99 19th-century 96 spain 96 north-america 94 canada 92 classical-antiquity 82 world-war-one 82 quotes 82 election 80 catholic-church 79 monarchy 79 crusades 77 exploration 76 prehistory 76 geography 76 south-america 76 middle-east 75 naval 69 abraham 64 cold-war 62 international-relations 62 civilizations 62 demography 62 age-of-discovery 61 precolumbian-contact 61 russia 61 islam 61 timeline 61 new-world 60 byzantine-empire 60 alexander-the-great 59 mongol-empire 57 ethnicity 54 christianity 54 nuclear 54 napoleonic-wars 52 poland 52 sexuality 49 confederacy 47 travel 47 weapons 47 rome 47 ancient-egypt 46 australia 46 papacy 45 nazism 44 colonial-america 44 genocide 42 time-keeping 42 reformation 41 spanish-empire 40 pakistan 39 israel 39 agriculture 39 statistics 38 18th-century 37 civil-rights 37 age-of-sail 36 holocaust 36 food 35 tactics 35 science 35 cuba 35 bronze-age 34 mathematics 34 early-modern 34 north-africa 33 ww2-pacific-theater 33 immigration 32 royal-succession 32 precolumbian-era 32 book 32 social-class 31 ottoman-empire 31 africa 30 independence 30 contemporary-history 29 asia 29 1960s 28 settlement 28 industrial-revolution 27 political-party 27 greece 27 death 27 pacific-islanders 27 hawaii 27 founding-fathers 27 4th-century 26 ships 26 palestine 25 computers 25 everyday-life 23 fashion 23 protests 23 napoleon 22 imperialism 22 us-congress 22 1940s 22 ireland 21 celts 21 anthropology 21 marriage 21 church 21 belgium 21 cities 21 united-nations 20 mesopotamia 20 inventions 20 cartography 20 script 20 invasion 19 transportation 19 ukraine 19 post-war 19 austria-hungary 19 aircraft 18 dday 18 government 18 1930s 18 great-depression 18 egypt 18 disease 18 henry-viii 18 carthage 18 punic-wars 18 alps 18 korean-war 18 hitler 17 spaceflight 17 syria 17 churchill 17 trade 17 antisemitism 17 nuclear-weapons 17 crime 16 piracy 16 greek-dark-ages 16 finland 16 jesus 16 iraq 15 migration 15 royalty 15 anglo-saxons 15 revolution 14 south-asia 14 sumer 14 iran 14 17th-century 14 pyramids 14 defense 14 aztec 14 nation-states 13 malta 13 franks 12 astronomy 12 italy 12 popular-culture 12 alcohol 12 prohibition 12 business-history 12 german 12 racism 12 warsaw-pact 12 communism 11 south-africa 11 dutch-empire 11 incarceration 11 old-west 10 iron-age 10 strategy 10 macedon 10 hellenistic-greece 10 currency 10 tanks 10 legislature 10 tibet 10 turkey 10 race 10 dorians 10 names 10 given-name 10 flood 9 paleolithic 9 1910s 9 building 9 construction 9 john-f-kennedy 8 archaeology 8 assimilation 8 manchus 8 calendar 8 holy-roman-empire 8 sweden 8 30-year-war 8 conquest 8 steppe-nomads 8 research 8 justice 8 law-enforcement 8 exchange 8 arab-spring 7 sources 7 police 7 12th-century 7 pope 7 climate 7 democracy 7 philosophy 7 history-of-ideas 7 nationalism 7 political-geography 7 protestant-church 7 calvinism 7 human-sacrifice 7 mediterranean 7 greek-mythology 7 infantry 7 latin-language 6 microstate 6 argentina 6 coins 6 mycenae 6 hebrew 6 george-washington 6 railroads 6 identification 6 flags 6 netherlands 6 terminology 5 etymology 5 taxes 5 needham 5 1970s 5 prosopography 5 buddhism 5 espionage 5 maps 5 antarctica 5 saudi-arabia 5 battle 5 combat 5 peace-treaty 5 brazil 5 metallurgy 5 art 5 literature 5 historical-research 5 family 5 animals 5 uniform 5 switzerland 5
+73 china 16 13th-century 16
+71 british-empire 142 18th-century 132 american-revolution 132 20th-century 118 world-war-two 107 canada 85 iceland 72 britain 72 19th-century 47 colonization 47 united-states 33 finland 20 soviet-union 18 cold-war 18 contemporary-history 18 nazi-germany 15 japan 15 world-war-one 11 technology 11 military 11 india 10 economy 10 currency 10 china 9 13th-century 9
+1020 social-class 59 colonization 58 exploration 58 age-of-discovery 58 africa 58 native-americans 50 middle-ages 36 religion 36 technology 36 ancient-greece 36 catholic-church 36 mesoamerica 34 north-america 34 americas 34 mexico 34 russia 20 movies 20 music 20 emigration 20 spanish-empire 16 aztec 16 charles-v 16 bronze-age 13 iron-age 13 government 11 communication 11 roman-empire 11 cultural-history 9 england 7 naval 7 17th-century 7 construction 7
+3353 soviet-union 309 ancient-history 136 europe 133 international-relations 133 world-war-two 128 economy 122 transportation 108 war 84 naval 83 ancient-rome 82 travel 78 middle-ages 72 nuclear-weapons 66 germany 62 ancient-greece 61 book 61 military 60 government 59 cultural-history 58 ottoman-empire 58 nazi-germany 57 ships 56 ocean 56 ancient-egypt 55 stalin 55 middle-east 53 political-history 51 russia 50 ukraine 46 historiography 42 islam 42 cold-war 42 language 41 renaissance 39 armour 38 france 37 napoleonic-wars 37 propaganda 37 20th-century 36 theoretical-history 34 battle 33 philosophy 31 italy 30 world-war-one 29 dictatorship 29 classical-antiquity 28 technology 28 communication 28 consumer-goods 28 communism 27 modern 25 navy 25 construction 25 contemporary-history 24 religion 23 slavery 22 united-states 21 jews 21 social-history 21 cities 21 time-keeping 21 africa 20 greek-mythology 20 population 20 submarine 20 england 19 neoplatonic-academy 19 mongol-empire 19 colonization 18 asia 17 art 17 fashion 17 vietnam-war 17 korean-war 17 christianity 17 law 17 nuclear 16 india 15 holocaust 15 greece 15 age-of-discovery 14 mail 14 united-kingdom 14 food 14 famine 14 sources 14 vikings 14 science 13 austria 13 popular-culture 13 writing 13 israel 13 election 12 central-asia 12 islamic-history 12 mathematics 12 ancient-babylon 12 maps 11 cartography 11 bronze-age 11 mediterranean 11 plantagenets 11 navigation 11 roman-empire 11 rome 11 south-america 10 inca 10 historical-accuracy 10 exploration 9 political-party 9 warfare 9 18th-century 9 migration 9 early-modern 9 atlantic-slave-trade 9 immigration 8 demography 8 economics 8 tactics 8 tanks 8 everyday-life 8 persia 8 austria-hungary 8 19th-century 8 media 8 socialism 8 collapse 8 historical-research 8 revisionism 8 antisemitism 8 symbols 8 civil-war 7 racism 7 animals 7 alcohol 7 china 7 industrial-history 7 imperialism 7 cuba 7 south-africa 7 apartheid 7 1930s 6 hitler 6 chemicals 6 prisoners-of-war 6 yugoslavia 6 latin 6 latin-language 6 president 6 astronomy 6 literature 6 world 6 war-crime 5 calendar 5 1960s 5 engineering 5 north-america 5 mesoamerica 5 aztec 5 automobiles 5 spain 5 portugal 5 islamic-hispania 5 industrial-revolution 5 conquest 5 genocide 5 combat 5 peace-treaty 5 social-class 5 medicine 5 historical-techniques 5 judaism 5 age-of-sail 5 trade 5 defense 5 castles 5 aviation 5
+13 united-states 34 colonization 28 democracy 22 political-history 20 political-party 20 nazi-germany 19 middle-ages 17 slavery 17 hitler 14 civil-war 14 law 13 american-civil-war 13 confederacy 13 world-war-two 13 20th-century 11 war 10 australia 10 defense 10 maps 10 cartography 10 exploration 8 age-of-discovery 8 africa 8 soviet-union 8 cold-war 8 contemporary-history 8 military 8 sociology 8 vikings 7 precolumbian-contact 7 russia 7 literature 7 book 7 religion 6 british-empire 5 ireland 5 republic-of-ireland 5 cultural-history 5 poland 5 ethnicity 5 holocaust 5
+46 20th-century 73 united-states 42 world-war-two 42 nazi-germany 42 japan 42 religion 31 hitler 31
+4444 united-states 7 world-war-two 7 20th-century 7 nazi-germany 7 japan 7
+72 united-states 7 world-war-two 7 20th-century 7 nazi-germany 7 japan 7
+88 japan 26 religion 26 christianity 26 buddhism 26 ancient-history 23 language 23 hebrew 23 20th-century 18 war 18 naval 18 age-of-sail 18 colonization 15 roman-empire 14 byzantine-empire 14 british-empire 10 ireland 10 republic-of-ireland 10 weapons 9 world-war-two 8 finland 8 military 7 middle-ages 7 warfare 7 medicine 7 siege 7 portugal 6 independence 6
+55 20th-century 132 world-war-two 132 germany 132 soviet-union 132 united-kingdom 132
+66 20th-century 67 world-war-two 67 germany 67 soviet-union 67 united-kingdom 67 new-world 63 native-americans 63 technology 63
+91 weapons 64 united-kingdom 51 language 49 assimilation 49 siege 47 20th-century 44 world-war-two 44 germany 44 soviet-union 44 democracy 41 military 40 middle-ages 32 warfare 32 medicine 32 war 24 world-war-one 24 british-empire 21 united-states 21 terminology 21 defense 15 independence 14 india 14 government 13 ancient-china 13 ireland 7 australia 7 canada 7
+9964 20th-century 22 world-war-two 22 germany 22 soviet-union 22 united-kingdom 22
+97 20th-century 24 world-war-two 19 germany 19 soviet-union 19 united-kingdom 19 world-war-one 5 technology 5 military 5
+375 20th-century 18 world-war-two 18 germany 18 soviet-union 18 united-kingdom 18 economy 11 trade 11 currency 11 agriculture 5
+732 world-war-two 84 nazi-germany 59 military 40 20th-century 38 weapons 30 soviet-union 23 germany 17 united-kingdom 17 hitler 13 republic-of-ireland 8 naval 8 aircraft 8 dday 8 turkey 8 tanks 6
+4310 20th-century 15 world-war-two 15 germany 15 soviet-union 15 united-kingdom 15
+2283 world-war-two 570 united-states 310 middle-ages 213 military 204 germany 184 europe 164 russia 160 world-war-one 126 ancient-history 121 weapons 116 france 114 nazi-germany 108 war 106 warfare 97 1960s 96 ancient-greece 92 rulers 89 japan 79 india 72 democracy 69 independence 69 18th-century 68 economy 66 19th-century 65 monarchy 63 bible 63 religious-history 63 timeline 63 soviet-union 62 american-civil-war 61 historiography 60 world 59 civil-rights 57 20th-century 56 naval 56 government 55 dictatorship 55 britain 52 china 52 law 51 asia 49 ancient-rome 48 language 44 sino-japanese-war 44 roman-empire 42 cavalry 38 geography 38 greek-mythology 38 cold-war 38 racism 38 religion 36 hitler 35 communication 35 royalty 34 alexander-the-great 33 cultural-history 33 feudalism 33 england 32 new-world 32 united-kingdom 31 election 31 vietnam-war 31 popular-culture 30 alcohol 29 age-of-discovery 28 women 28 gender 28 confederacy 28 mathematics 27 ottoman-empire 26 nazism 25 classical-antiquity 25 christianity 24 food 24 aircraft 24 flags 24 roman 24 roman-britain 24 belgium 23 stalin 23 quotes 23 agriculture 23 political-history 22 nuclear-weapons 22 methodology 22 proof 22 social-history 21 technology 21 shops 21 navigation 20 new-zealand 20 madagascar 20 austroneisan 20 disease 18 henry-viii 18 navy 18 ancient-egypt 18 greco-persian-wars 18 ethiopia 18 travel 17 weimar-republic 16 prohibition 16 everyday-life 16 gutenberg 15 africa 15 climate 15 immigration 15 prehistory 15 manorialism 15 archaeology 14 exploration 14 antarctica 14 economics 14 the-balkans 14 renaissance 14 byzantine-empire 14 15th-century 14 western-civilisation 14 famous-people 14 industrial-history 14 ships 14 castles 14 islam 13 hinduism 13 antisemitism 13 communism 13 submarine 13 asdic 13 colonization 12 napoleonic-wars 12 contemporary-history 12 engineering 12 celts 12 julius-caesar 12 middle-east 11 tactics 10 theoretical-history 10 napoleon 10 crime 10 treaties 9 roman-republic 9 currency 9 maps 9 sweden 9 royal-succession 9 nuclear 8 accuracy 8 television 8 heraldry 8 marriage 8 nobility 8 holy-roman-empire 8 literature 8 book 8 peasants 8 history-of-ideas 7 finland 7 terminology 7 netherlands 7 dutch 7 british-empire 7 trade 7 hundred-years-war 7 architecture 7 historical-techniques 7 greek 6 animals 6 titles 6 battle 6 early-modern 6 habsburg 6 records 6 railroads 6 political-succession 6 consumer-goods 6 revolution 6 sources 6 philosophy 6 medieval-japan 5 classical-japan 5 tokugawa-era 5 infantry 5 prussia 5 calendar 5 occupations 5 art 5 identification 5 sports 5 astronomy 5
+26 soviet-union 22 war 12 poland 12 polish-bolshevik-war 12 20th-century 10 world-war-two 10 germany 10 united-kingdom 10
+8898 20th-century 9 world-war-two 9 germany 9 soviet-union 9 united-kingdom 9
+6633 world-war-two 30 20th-century 9 germany 9 soviet-union 9 united-kingdom 9
+5142 military 14 europe 14 warfare 14 mongol-empire 14 invasion 14 20th-century 9 world-war-two 9 germany 9 soviet-union 9 united-kingdom 9 war 5
+5004 20th-century 8 world-war-two 8 germany 8 soviet-union 8 united-kingdom 8
+1113 20th-century 7 world-war-two 7 germany 7 soviet-union 7 united-kingdom 7
+4624 china 14 monarchy 7 20th-century 6 world-war-two 6 germany 6 soviet-union 6 united-kingdom 6
+841 20th-century 6 world-war-two 6 germany 6 soviet-union 6 united-kingdom 6
+17535 united-states 8 president 8 20th-century 5 world-war-two 5 germany 5 soviet-union 5 united-kingdom 5
+84 war 24 middle-ages 20 terminology 20 cultural-history 17 spain 17 british-empire 13 united-kingdom 13 royalty 13 women 13 united-states 10 economy 10 china 10 political-history 10 democracy 10
+504 colonization 16 europe 16 africa 16 slavery 16 middle-ages 8 terminology 8
+6605 middle-ages 7 terminology 7
+57 middle-ages 14 terminology 14
+128 middle-ages 7 terminology 7 new-world 7 native-americans 7 technology 7
+8393 crusades 5 richard-i 5 saladin 5 12th-century 5
+892 military 128 world-war-two 96 united-states 73 ancient-history 52 north-africa 49 tanks 49 mongol-empire 37 invasion 37 language 32 france 28 india 28 islam 28 south-asia 28 genealogy 28 ancient-rome 24 ancient-greece 24 food 24 alcohol 24 england 22 native-americans 21 technology 20 britain 20 tactics 20 napoleonic-wars 20 mesoamerica 20 colonization 20 australia 20 south-east-asia 20 europe 19 political-history 19 20th-century 18 assimilation 17 middle-ages 17 war 17 economy 15 italy 15 strategy 15 new-world 14 aztec 13 soviet-union 13 cold-war 13 democracy 12 communication 12 historiography 12 jews 12 holocaust 12 nazi-germany 11 political-party 11 religion 11 poland 11 17th-century 11 16th-century 11 reformation 11 middle-east 10 asia 10 19th-century 9 united-kingdom 9 industrial-revolution 9 monarchy 9 heraldry 9 trade 9 iron-age 9 12th-century 9 prehistory 9 china 9 manchus 9 weapons 9 sword 9 battle 9 law 8 nation-states 8 international-relations 8 naval 8 arabia 8 given-name 8 bible 8 egypt 8 north-america 7 americas 7 mexico 7 yugoslavia 7 thailand 7 photography 6 russia 6 japan 6 civilizations 5 roman-republic 5 carthage 5 medicine 5 1920s 5
+3453 20th-century 8 cuba 8 revolution 8 ancient-history 5 industrial-revolution 5 cities 5
+115 middle-ages 37 cultural-history 37 food 37 everyday-life 37 economy 15 trade 15 weapons 15 china 15 democracy 10 ancient-history 9 war 9 war-elephants 9
+131 economy 8 trade 8
+1511 economy 5 trade 5
+118 france 21 nationalism 21 belgium 21 nation-states 21 economy 5 trade 5
+204 japan 28 20th-century 21 war 21 cultural-history 21 19th-century 7 meiji-restoration 7
+96 military 114 ancient-history 107 ancient-rome 107 carthage 107 punic-wars 107 book 89 media 89 movies 89 television 89 england 45 middle-ages 45 britain 24 monarchy 21 roman-republic 19 caesar 19 1st-century 19 byzantine-empire 7 maps 7 roman-empire 7 warfare 7
+26786 middle-ages 209 germany 144 art 95 identification 92 cultural-history 89 religion 80 europe 79 world-war-one 79 nazi-germany 78 health 77 world-war-two 76 ancient-rome 73 language 72 architecture 69 currency 68 numismatics 68 technology 66 religious-history 59 united-states 57 christianity 56 law 54 food 52 hitler 51 ancient-greece 50 ancient-history 48 holocaust 47 statistics 47 classical-antiquity 46 war 46 reference 44 austria-hungary 42 historical-techniques 42 castles 42 incarceration 39 science 38 16th-century 38 chemicals 38 weapons 38 england 37 political-history 35 printing 35 fascism 35 napoleonic-wars 35 contemporary-history 34 disease 33 british-empire 32 names 32 industry 30 population-transfer 30 19th-century 29 spanish-civil-war 29 military 28 sexuality 28 russia 27 united-kingdom 26 marriage 26 civil-rights 26 north-america 26 vikings 26 precolumbian-contact 26 exchange 26 anthropology 25 given-name 25 china 25 trade 25 russian-civil-war 24 20th-century 24 ethnicity 23 1970s 23 police 23 quotes 23 popular-culture 23 time-keeping 23 government 23 dictatorship 23 education 23 greece 23 nazism 22 internet 22 caesar 21 feudalism 21 australia 21 photography 20 women 20 france 20 archaeology 19 everyday-life 17 mongol-empire 16 invasion 16 annexation 16 persia 16 sasanian-empire 16 jews 15 austria 15 interwar 15 cold-war 15 berlin-wall 15 historiography 14 naval 14 records 14 book 14 sword 14 olympics 14 manorialism 14 roman-empire 13 heraldry 13 iceland 13 flags 13 script 13 imperial-germany 13 social-class 13 sociology 13 diplomacy 13 treaty 13 economics 12 nobility 12 genealogy 12 alexander-the-great 11 symbols 11 israel 10 bible 10 bronze-age 10 colonization 10 japan 10 construction 10 electricity 10 1910s 9 maya 9 reformation 9 ottoman-empire 9 soviet-union 8 sweden 8 1930s 8 morals 8 demography 8 international-relations 8 revolution 8 racism 8 prussia 7 india 7 political-succession 7 french-revolution 7 maps 6 communism 6 crime 6 sources 6 philosophy 6 renaissance 6 roman-republic 5 1st-century 5 submarine 5 ancient-egypt 5 clothing 5 industrial-revolution 5 music 5 folklore 5
+906 british-empire 14 colonization 14 south-america 14 french-empire 14 dutch-empire 14 monarchy 5
+6568 language 12 assimilation 12 british-empire 5 colonization 5 south-america 5 french-empire 5 dutch-empire 5
+329 20th-century 13 civil-war 13 post-communist-era 13
+12767 20th-century 11 civil-war 11 post-communist-era 11 world-war-two 10 yugoslavia 10
+4738 world-war-two 27 christianity 16 islam 16 ottoman-empire 16 arabia 16 yugoslavia 10 bohemia 10 americas 9 united-states 8 europe 8 japan 8 crime 8 20th-century 5 civil-war 5 post-communist-era 5
+642 ireland 15 egypt 15 diplomacy 15
+119 ireland 8 egypt 8 diplomacy 8
+12773 napoleon 6 philosophy-of-war 6 strategy 6
+4277 ancient-history 21 industrial-revolution 21 industrial-history 21 china 8 communism 8 political-history 8 philosophy 8 terminology 8 social-history 8 sociology 8
+332 military 137 united-states 104 ancient-history 88 europe 85 russia 68 civil-war 67 soviet-union 63 science 60 religion 53 middle-east 49 naval 47 middle-ages 47 byzantine-empire 47 renaissance 47 political-history 41 war 41 20th-century 39 world-war-one 39 vietnam-war 34 roman-republic 33 cavalry 33 hitler 29 nazism 29 germany 28 diplomacy 28 mexico 28 cold-war 27 death 27 trade 26 economics 26 silver 26 president 25 catholic-church 24 construction 22 economy 21 israel 21 communism 21 stalin 21 social-history 18 ancient-greece 17 language 17 communication 17 contemporary-history 17 france 16 christianity 16 17th-century 16 ancient-egypt 13 historiography 13 research-techniques 13 american-civil-war 12 cultural-history 11 tradition 11 human-sacrifice 11 palestine 11 sources 11 china 10 qing 10 finance 9 banking 9 revolution 7 democracy 7 philosophy 7 history-of-ideas 7 warfare 6 mongol-empire 6 invasion 6 terminology 5 etymology 5 monarchy 5 royalty 5 colonization 5 world 5 settlement 5
+351 ancient-greece 14 language 14 communication 14
+8341 united-states 260 europe 182 19th-century 172 native-americans 147 colonization 120 disease 120 age-of-discovery 120 slavery 84 economy 63 warfare 62 middle-ages 57 political-history 50 war 49 everyday-life 49 transportation 49 american-civil-war 44 military 43 social-history 43 20th-century 39 1960s 33 ancient-rome 30 gladiators 30 food 29 prohibition 28 classical-antiquity 27 historiography 26 art 26 anthropology 25 protests 24 civil-rights 24 weapons 23 terminology 23 conflict 23 great-depression 22 famine 22 islam 21 italy 21 renaissance 21 legislature 20 social-class 19 australia 18 aboriginals 18 new-zealand 18 artillery 18 united-kingdom 17 ancient-history 16 jews 15 clothing 14 historical-techniques 14 americas 13 migration 13 international-relations 13 caribbean 13 world 12 gender 12 popular-culture 11 alcohol 11 literature 11 book 11 finance 10 banking 10 south-east-asia 9 nutrition 9 canada 8 founding-fathers 7 old-west 7 labour-history 7 railroads 7 agriculture 7 north-america 7 colonial-america 7 religion 7 american-revolution 7 education 7 maps 7 political-party 6 ethnicity 5
+89 united-states 48 20th-century 40 ancient-rome 14 gladiators 14 england 8 sports 8 19th-century 5 american-civil-war 5 confederacy 5
+124 religion 12 france 12 christianity 12 17th-century 12 catholic-church 12 war 7 philosophy-of-war 7 imperialism 7
+480 middle-ages 9 byzantine-empire 9 15th-century 9 crusades 9
+22205 20th-century 9 world-war-two 9 iceland 9 britain 9
+4615 world-war-two 1718 military 529 warfare 424 japan 410 united-states 386 nazi-germany 320 soviet-union 298 world-war-one 293 war 233 weapons 225 tanks 215 naval 210 navy 192 cultural-history 178 language 178 middle-ages 153 18th-century 148 native-americans 144 20th-century 131 russia 105 economy 97 germany 88 ships 83 north-america 83 finance 83 great-depression 83 1970s 81 police 81 revisionism 76 infantry 70 food 66 europe 60 technology 59 contemporary-history 56 siege 56 yugoslavia 56 bosnian-war 56 france 51 cities 51 united-kingdom 50 famine 50 tactics 44 cavalry 44 combat 43 industry 37 north-africa 36 turkey 35 writing 35 submarine 33 american-civil-war 30 korean-war 30 nuclear-weapons 29 clothing 29 cold-war 29 spain 29 ancient-rome 26 death 25 conflict 25 strategy 24 modern 22 trade 22 britain 21 british-empire 21 australia 21 exploration 20 conquest 20 dday 18 diplomacy 17 switzerland 17 time-keeping 16 churchill 16 cryptology 16 ww2-pacific-theater 15 cyprus 15 age-of-sail 15 imperial-germany 15 metallurgy 14 industrial-history 14 vietnam-war 14 animals 12 sword 12 china 10 astronomy 10 canada 9 treaties 9 colonial-america 9 president 9 hitler 9 agriculture 9 peasants 9 prehistory 8 vietnam 8 indochina 8 libya 8 spanish-civil-war 7 artillery 7 ancient-greece 7 iceland 6 roman-empire 6 maps 6 carthage 6 punic-wars 6 alps 6 philippines 6 battle 5 nuclear 5 law 5 research 5 justice 5 law-enforcement 5
+1569 world-war-two 152 military 134 nazi-germany 81 soviet-union 72 ancient-rome 70 war 62 crusades 55 middle-ages 52 economy 51 ancient-greece 44 british-empire 42 russia 41 middle-east 40 ottoman-empire 40 greece 40 slavery 38 holocaust 35 social-history 35 classical-antiquity 33 roman-empire 32 17th-century 31 20th-century 31 ancient-history 31 europe 30 warfare 28 india 28 royalty 24 monarchy 24 calendar 24 england 23 political-history 23 naval 22 spain 22 spanish-empire 22 war-crime 21 hitler 21 france 20 food 19 clothing 19 famine 18 italy 18 norman 18 macedon 18 nazism 17 battle 16 communism 16 japan 15 catholic-church 15 18th-century 15 britain 15 american-revolution 15 israel 14 1940s 14 zionism 14 colonization 13 africa 13 genocide 13 byzantine-empire 11 churchill 11 historiography 11 iron-age 11 roman-kingdom 11 jews 10 government 9 communication 9 cultural-history 8 everyday-life 8 archaeology 8 athens 7 infanticide 7 russian-revolution 7 czechoslovakia 7 poland 6 sweden 6 construction 6 history-of-ideas 6 morals 6 united-states 6 19th-century 6 law 6 china 6 ancient-china 6 needham 6 roman-republic 6 germany 6 austria 6 nationalism 6 world-war-one 6 money 6 labour-history 6 consumer-goods 6 employment 6 founding-fathers 5 civilizations 5 stalin 5 lenin 5 revisionism 5 royal-succession 5 names 5 ukraine 5
+158 england 15 cultural-history 15 literature 15 15th-century 15 20th-century 8 war 8 united-states 8 vietnam-war 8
+546 ancient-history 26 technology 26 colonization 26 historiography 26 terminology 13 americas 13 christopher-columbus 13 20th-century 6 war 6 united-states 6 vietnam-war 6
+1005 france 8 united-states 8 19th-century 8
+527 war 13 archaeology 10 architecture 10 election 6 dictatorship 6
+106 world-war-two 260 nazi-germany 131 international-relations 125 france 117 germany 53 20th-century 26 war 23 united-kingdom 22 holocaust 19 propaganda 19 colonization 16 africa 16 hitler 16 geography 16 poland 15 population-transfer 15 india 10 nationalism 10 cold-war 10 soviet-union 9 social-history 9 british-empire 9 french-empire 9 cultural-history 9 independence 8 colony 8 warfare 7
+1074 india 130 world-war-two 60 religion 60 christianity 60 islam 60 hinduism 60 nazi-germany 58 hitler 44 nazism 36 20th-century 35 nationalism 23 government 22 propaganda 22 ancient-history 16 ancient-greece 16 alexander-the-great 16 monarchy 14 diplomacy 12 soviet-union 12 russia 12 democracy 12 independence 10
+466 world-war-two 245 soviet-union 238 nazi-germany 180 20th-century 151 russia 122 transportation 118 war 98 economy 95 19th-century 76 europe 75 engineering 69 ancient-rome 66 slavery 59 military 58 ancient-history 55 germany 54 nazism 52 international-relations 50 united-states 46 cold-war 45 language 44 naval 40 roman-empire 40 ukraine 38 byzantine-empire 32 china 32 morals 31 greece 30 hitler 30 holocaust 29 france 27 middle-ages 26 ancient-greece 25 treaties 24 history-of-ideas 24 warfare 24 government 23 diplomacy 23 nation-states 23 fascism 21 christianity 20 japan 19 political-history 19 stalin 18 poland 18 holy-roman-empire 17 monarchy 17 religion 17 greek 16 law 15 weapons 15 italy 15 jews 15 astronomy 15 cities 15 immigration 15 genocide 14 nationalism 13 post-communist-era 13 moldova 13 royalty 13 india 12 food 12 cultural-history 12 ancient-china 11 communism 11 police 11 law-enforcement 11 middle-east 11 palestine 11 civil-war 10 vietnam-war 10 tanks 10 etymology 9 nuclear 8 ussr 8 science 7 renaissance 7 technology 7 george-washington 7 world-war-one 7 calendar 7 mongol-empire 7 turkey 7 race 7 philosophy 6 south-asia 6 north-africa 6 given-name 6 pope 6 historiography 6 uniform 6 14th-century 5 business-history 5 democracy 5 qing 5 death 5 1930s 5 lenin 5 antisemitism 5 war-crime 5 popular-culture 5 15th-century 5 britain 5 1960s 5
+2395 20th-century 23 world-war-two 22 soviet-union 19 spain 18 poland 17 middle-ages 15 world-war-one 15 united-states 13 war 13 social-history 13 spanish-empire 13 treaties 12 government 11 diplomacy 11 europe 11 19th-century 11 napoleonic-wars 11 warfare 10 military 9 weapons 9 tactics 9 germany 9 cold-war 9 literature 6 book 6 adaptability 5 cavalry 5 15th-century 5 americas 5 exploration 5 christopher-columbus 5 religion 5 crusades 5 portugal 5
+180 language 30 assimilation 30 germany 28 imperial-germany 28 german-unification 28 war 5 australia 5 defense 5
+13274 nuclear-weapons 52 war 13 warfare 13 world-war-two 9 language 9 native-americans 9 new-world 9 script 9 government 5 ancient-china 5
+11629 ireland 8 celts 8
+4057 ireland 5 celts 5
+11883 middle-ages 155 nazi-germany 139 north-america 139 finance 139 great-depression 139 germany 138 president 125 united-states 113 death 106 military 101 conflict 99 ancient-history 92 hitler 89 world-war-two 80 technology 77 europe 74 early-modern 71 modern 71 holocaust 62 slavery 62 contemporary-history 53 trade 50 18th-century 46 women 46 economy 44 japan 40 bombing 40 ww2-pacific-theater 40 railroads 39 africa 37 language 36 war 34 monarchy 33 colonization 33 calendar 28 american-civil-war 27 american-revolution 27 boer-war 27 archaeology 27 social-history 26 racism 26 industrial-history 25 natural-resources 25 ancient-rome 23 20th-century 23 warfare 22 netherlands 22 kingdom 22 money 21 19th-century 19 jews 19 world-war-one 18 ancient-greece 16 dictatorship 16 aircraft 15 france 15 middle-east 14 building 14 construction 14 settlement 14 china 13 law 13 british-empire 13 royalty 12 saudi-arabia 12 england 12 health 11 travel 11 armour 11 helmet 11 britain 10 communication 10 religion 9 art 9 renaissance 9 sources 8 roman-empire 8 customs 8 economics 8 iron-age 7 assyrian-empire 7 naval 6 16th-century 6 spanish-empire 6 united-kingdom 6 symbols 6 political-history 6 political-succession 6 voting 5 napoleonic-wars 5 french-revolution 5 french-empire 5 india 5 ancient-india 5 records 5
+8610 weapons 11 technology 11 sword 11 warfare 11
+148 military 18 middle-ages 11 siege 11 weapons 10 technology 10 sword 10 warfare 10 adaptability 7 world-war-one 5
+105 united-states 15 united-kingdom 15 weapons 13 world-war-two 8 hitler 8 democracy 7 technology 6 sword 6 warfare 6 military 5 britain 5 naval 5
+579 united-states 153 world-war-one 62 imperial-germany 62 military 47 russia 44 naval 42 germany 39 communism 35 political-history 29 diplomacy 26 election 25 colonization 24 18th-century 23 president 19 revolution 16 cuba 16 law 14 united-kingdom 14 government 12 world-war-two 12 treaties 12 ancient-greece 11 art 11 classical-antiquity 11 20th-century 10 14th-century 9 business-history 9 american-civil-war 9 founding-fathers 9 cold-war 9 john-f-kennedy 9 spaceflight 9 england 7 republic 7 police 5
+1401 united-states 197 military 180 ancient-rome 125 middle-ages 118 economy 109 victorian 104 family 94 childbirth 94 20th-century 85 ancient-history 76 warfare 74 tactics 74 cultural-history 66 political-history 63 china 62 europe 58 roman-empire 55 religion 52 world-war-two 52 american-revolution 52 united-kingdom 50 monarchy 43 mao-zedong 40 president 39 france 37 slavery 35 ancient-greece 35 weapons 33 naval 30 international-relations 30 new-world 28 north-africa 28 age-of-discovery 28 canada 28 women 28 19th-century 27 forgery 27 money 27 american-civil-war 26 marriage 24 government 23 social-history 22 history-of-ideas 22 morals 22 witchcraft 22 christianity 21 colonial-america 21 technology 20 early-medieval 19 historiography 18 law 17 vikings 17 sweden 17 norway 17 norse-mythology 17 war 17 ancient-china 17 hellenistic-greece 17 british-empire 17 carthage 17 punic-wars 17 quotes 16 greco-persian-wars 16 sparta 16 aircraft 15 nobility 15 religious-history 15 trade 14 gold 14 taxes 13 colonization 13 invasion 13 tibet 13 abraham-lincoln 13 britain 12 18th-century 12 george-washington 12 spain 12 great-britain 12 cuba 12 titles 12 native-americans 11 india 11 coins 11 ancient-india 11 jews 10 labour-history 10 guilds 10 democracy 9 language 8 churchill 8 political-party 7 terminology 7 early-modern 7 17th-century 7 english-civil-war 7 names 7 nautical 6 disasters 6 napoleon 6 napoleonic-wars 6 election 6 japan 6 thailand 6 soviet-union 6 russia 6 spaceflight 6 art 6 literature 6 music 6 age-of-sail 6 medieval-china 6 printing 6 14th-century 5 black-death 5 research 5 methodology 5 adaptability 5 communism 5 classical-antiquity 5 economics 5 1940s 5 currency 5 california 5 mexico 5 demography 5 transportation 5 prehistory 5 ireland 5 police 5
+2270 democracy 19
+2673 democracy 5
+8104 19th-century 8 armour 8 helmet 8 middle-ages 7 cultural-history 7 food 7 everyday-life 7
+5179 naval 44 military 43 middle-east 36 israel 36 soviet-union 30 cold-war 30 submarine 30 warfare 30 jews 29 nazi-germany 24 20th-century 23 palestine 23 1940s 23 medicine 16 cultural-history 16 united-states 14 world-war-two 14 war 13 hitler 10 ancient-history 6 religion 6 bible 6
+2422 historiography 39 united-states 21 slavery 21 civil-war 21 racism 21 confederacy 21 science 20 calendar 20 bible 17 egypt 17 warfare 14 military 8 middle-ages 8 medicine 8 siege 8 ancient-history 8 religion 8 battle 6 19th-century 5 world-war-one 5 naval 5
+1212 weapons 7 china 7
+412 united-kingdom 95 united-states 90 russia 87 19th-century 80 alaska 80 world-war-two 36 british-empire 26 europe 23 slavery 23 canada 23 weapons 22 ireland 15 australia 15 13th-century 12 defense 12 middle-ages 11 byzantine-empire 11 science 11 renaissance 11 spain 10 portugal 10 20th-century 9 military 9 nazi-germany 9 republic-of-ireland 9 political-history 9 social-history 9 marriage 9 international-relations 8 literature 7 book 7 trade 7 iron-age 7 napoleon 6 napoleonic-wars 6 technology 5 cold-war 5 aircraft 5 heraldry 5 nationalism 5 national-symbols 5
+182 sex 53 europe 30 sociology 30 roman-empire 23 ancient-greece 23 weapons 7 democracy 7
+78 colonization 10 portugal 10 independence 10
+114 religion 60 15th-century 52 cultural-history 39 united-states 38 20th-century 36 china 30 trade 30 isolationism 30 asia 30 arabia 30 islam 30 british-empire 26 israel 26 jews 26 palestine 26 england 22 literature 22 middle-east 22 iran 22 persia 22 political-history 22 tradition 17 human-sacrifice 17 law 15 government 15 colonization 14 native-americans 14 japan 13 christianity 13 buddhism 13 agriculture 11 president 6 election 5
+25553 england 6 cultural-history 6 literature 6 15th-century 6
+64 japan 10 religion 10 christianity 10 buddhism 10
+143 trade 10 mercantilism 10 economy 10
+876 middle-ages 118 nazi-germany 81 warfare 72 united-states 68 world-war-two 61 20th-century 60 europe 53 economy 51 political-history 49 soviet-union 42 cultural-history 36 currency 30 hitler 29 russia 29 jews 26 historiography 25 military 24 medicine 22 united-kingdom 20 war 20 contemporary-history 20 social-history 19 british-empire 19 submarine 18 cold-war 17 antisemitism 17 symbols 17 women 17 human-rights 17 political-party 16 american-civil-war 15 confederacy 15 ireland 14 australia 14 canada 14 religion 14 1960s 14 stalin 13 finance 12 holocaust 11 asia 11 sino-japanese-war 11 social-class 10 money 10 price 10 sexuality 9 christianity 9 french-revolution 8 movies 8 election 8 vietnam-war 8 britain 7 napoleonic-wars 7 sociology 7 japan 7 food 7 political-economy 7 famine 7 navigation 7 archaeology 7 consumer-goods 6 government 6 1930s 6 great-depression 6 germany 6 nazism 6 accuracy 6 television 6 monarchy 6 yugoslavia 6 19th-century 5 pakistan 5 ancient-greece 5 civilizations 5 17th-century 5 economics 5 morals 5 historical-research 5 family 5 weapons 5 tanks 5 syria 5 world-war-one 5 imperial-germany 5
+160 20th-century 16 religion 16 hitler 16
+8451 industrial-revolution 69 world-war-two 51 ancient-history 45 industrial-history 45 historiography 41 ancient-rome 24 technology 24 nazi-germany 22 political-history 18 jews 17 holocaust 17 book 16 hitler 12 russia 11 propaganda 10 dictatorship 10 philosophy 8 theoretical-history 8 britain 8 17th-century 8 english-civil-war 8 middle-ages 8 europe 8 social-history 8 racism 8 cold-war 7 romania 7 20th-century 6 religion 6 france 6 united-kingdom 6 international-relations 6 prisoners-of-war 6 soviet-union 6 language 6 writing 6 central-asia 6 world-war-one 5 president 5
+386 world-war-two 125 20th-century 123 poland 113 soviet-union 98 treaties 77 ukraine 61 russia 57 nazi-germany 48 germany 39 international-relations 33 native-americans 14 american-revolution 14 cold-war 13 united-states 13 holocaust 12 ancient-rome 11 roman-empire 11 transportation 8 europe 7 19th-century 7 napoleonic-wars 7 military 6 sweden 6 john-f-kennedy 5 spaceflight 5
+2423 soviet-union 33 cold-war 18 world-war-two 15 war-crime 15 thailand 7
+112 world-war-two 15 military 15 nazi-germany 15 hitler 15 sociology 15 political-history 12 cultural-history 6 religion 6 tradition 6 human-sacrifice 6
+713 world-war-two 26 military 26 naval 26 aircraft 26 dday 26
+521 middle-ages 47 ancient-rome 47 armour 47 roman-empire 41 byzantine-empire 41 warfare 8 military 8 20th-century 6 world-war-two 6 finland 6 war 6 ancient-history 5 everyday-life 5 clothing 5 vikings 5
+8193 food 14 military 12 middle-ages 12 warfare 12 mongol-empire 12 language 11 assimilation 11 british-empire 10 native-americans 10 spanish-empire 10 demography 10 americas 10 everyday-life 9 children 9 historiography 7 philosophy 7 theoretical-history 7 japan 5 meiji-restoration 5
+12376 language 9 assimilation 9
+566 war 60 world-war-two 41 soviet-union 32 military 26 photography 26 cavalry 22 nazi-germany 21 weapons 17 technology 17 sword 17 samurai 17 civil-war 15 19th-century 15 time-keeping 15 religion 14 research 14 crime 14 middle-ages 12 food 12 roman 12 submarine 11 russia 11 stalin 11 language 9 assimilation 9 japan 9 world-war-one 9 china 8 trade 8 turkey 8 persia 8 ancient-iran 8 american-civil-war 8 ancient-history 7 middle-east 7 roman-republic 7 christianity 6 philosophy 6 civilizations 5 geography 5 boer-war 5
+21290 political-history 40 international-relations 40 modern 40 orthodoxism 40 20th-century 8 world-war-two 8 britain 8 agriculture 8 animals 8 language 7 assimilation 7
+12110 classical-antiquity 48 sculpture 48 language 7 assimilation 7 europe 7 15th-century 7 alcohol 7 netherlands 7 dutch 7 education 6 war 5 warfare 5 terminology 5 conflict 5
+169 language 7 assimilation 7
+1420 england 40 middle-ages 31 united-kingdom 31 world-war-two 21 germany 16 nazism 16 nuremberg-trial 16 language 9 12th-century 9 public-finance 7 20th-century 5 united-nations 5 war 5 warfare 5
+1217 naval 43 middle-ages 30 warfare 30 crime 28 piracy 28 united-kingdom 26 argentina 26 antarctica 26 falklands-war 26 military 26 american-civil-war 26 20th-century 15 19th-century 15 aircraft 15 religion 11 jews 11 ancient-egypt 11 spain 7 time-keeping 7 england 6 15th-century 6
+16878 world-war-two 42 strategy 42 dday 42 invasion 42 military 41 battle 41 american-civil-war 29 inventions 27 native-americans 21 middle-ages 21 europe 21 agriculture 21 weapons 20 saudi-arabia 18 annexation 17 united-states 14 law 14 time-keeping 12 transportation 8 prehistory 8 technology 6 metallurgy 6 20th-century 5 19th-century 5 naval 5 aircraft 5
+195 american-civil-war 7 united-states 5 social-class 5 history-of-ideas 5
+74 israel 19 napoleon 19 french-empire 19
+380 turkey 26 20th-century 23 middle-east 22 jews 22 islam 22 immigration 22 france 16 international-relations 16 21st-century 16 russia 14 british-empire 14 world-war-one 14 ottoman-empire 14 europe 9 geography 9 maps 9 asia 9 israel 6 napoleon 6 french-empire 6 17th-century 5 journalism 5
+185 nazi-germany 28 hitler 28
+186 united-states 18 technology 18 weapons 18 cold-war 18 aircraft 18
+218 american-civil-war 49
+223 american-civil-war 12
+200 economy 13 british-empire 13 18th-century 13 american-revolution 13 taxes 13
+21743 economy 8 british-empire 8 18th-century 8 american-revolution 8 taxes 8 china 8 historiography 8 americas 8 age-of-discovery 8 cities 7 pyramids 7 defense 7 aztec 7 precolumbian-era 7
+16237 world-war-two 87 united-states 52 naval 52 contemporary-history 52 ww2-pacific-theater 43 battle 34 president 34 records 28 15th-century 22 christopher-columbus 22 navigation 22 nazi-germany 19 siege 18 yugoslavia 18 bosnian-war 18 britain 9 maps 9 war 8 warfare 8 switzerland 8 australia 8 terminology 7 social-history 7 civilizations 7 france 6 germany 6 nazism 6 nuremberg-trial 6 money 6 20th-century 5 soviet-union 5 middle-east 5 tactics 5 cavalry 5 military 5 historiography 5
+2845 united-states 15 world-war-two 15 japan 15 nuclear-weapons 10 law 8 independence 8
+622 law 33 united-states 28 american-civil-war 20 confederacy 20 diplomacy 20 government 8 political-history 8 election 8 independence 5
+184 native-americans 10 15th-century 10 age-of-discovery 10 christopher-columbus 10 united-states 5 economy 5 contemporary-history 5 currency 5
+187 world-war-two 18 nazi-germany 18 communication 18 military 15 19th-century 15 war 15 american-civil-war 15 naval 15
+171 ancient-history 14 byzantine-empire 14 colonization 10 war 10 world-war-one 10
+967 england 36 middle-ages 26 monarchy 19 tudor-period 10 military 10 democracy 10 britain 7 colonization 5
+742 japan 104 world-war-two 99 united-states 88 nuclear 76 nuclear-weapons 61 islam 49 africa 43 development 43 military 43 middle-ages 43 north-africa 43 umayyad-caliphate 43 war 43 russia 15 soviet-union 13 election 11 president 11 france 9 french-empire 9 vietnam 9 indochina 9 literature 9 book 9 revolution 6 social-history 6 arab-spring 6 nazi-germany 6 aircraft 6 20th-century 6 communism 6 middle-east 6 syria 6 19th-century 6 old-west 6 labour-history 6 railroads 6
+246 germany 69 soviet-union 60 language 56 world-war-two 36 russia 35 spaceflight 35 middle-ages 31 england 31 political-history 31 ancient-history 23 nazi-germany 20 records 19 photography 19 cold-war 18 maps 18 transportation 17 japan 16 war 15 colonization 15 france 15 africa 15 europe 14 monarchy 14 royalty 14 middle-east 12 jews 12 islam 12 immigration 12 military 11 weapons 11 economy 10 china 10 ancient-china 10 needham 10 arabia 9 given-name 9 cultural-history 9 weimar-republic 9 cities 8 nautical 8 disasters 8 titanic 8 law 6
+1883 ancient-rome 34 ancient-greece 34 food 34 alcohol 34 china 9 15th-century 9 trade 9 isolationism 9 asia 9
+12543 china 7 15th-century 7 trade 7 isolationism 7 asia 7
+247 political-history 15 democracy 15 civil-war 15 political-party 15
+272 political-history 9 democracy 9 civil-war 9 political-party 9 military 8 adaptability 8
+8049 economy 5 trade 5
+27618 united-states 224 war 165 world-war-two 142 historiography 100 japan 96 president 60 american-civil-war 46 military 46 world-war-one 46 political-history 38 20th-century 34 ireland 30 famine 30 nazi-germany 29 hitler 29 economics 29 industrial-revolution 29 religious-history 28 christianity 27 weapons 21 middle-ages 19 religion 19 holocaust 17 nazism 17 italian 16 organised-crime 16 ancient-history 15 roman-empire 15 revisionism 14 ancient-greece 13 slavery 13 ancient-rome 13 identification 12 israel 12 palestine 12 1960s 12 science 12 communism 12 public-finance 11 russia 11 mongol-empire 11 colonial-america 11 germany 11 warfare 11 demography 11 pacific-islanders 11 hawaii 11 money 11 abraham-lincoln 10 england 10 american-revolution 10 medieval-japan 9 steppe-nomads 9 classical-japan 9 persia 8 hellenistic-greece 8 greco-persian-wars 8 international-relations 8 cultural-history 7 middle-east 7 ancient-egypt 7 jesus 7 uniform 7 economy 7 finance 7 korean-war 7 us-constitution 7 theoretical-history 6 treaty 6 france 6 aircraft 6 government 6 dictatorship 6 soviet-union 6 united-kingdom 6 spaceflight 6 engineering 6 catholic-church 6 diplomacy 6 diplomatic-history 6 macedon 5 law 5 death-penalty 5 records 5 civil-rights 5 norman 5 royal-succession 5 anglo-saxons 5 currency 5 world 5 industrial-history 5 contemporary-history 5 julius-caesar 5 caesar 5 imperators 5 19th-century 5 armour 5
+690 ancient-history 27 bible 27 religion 14 etymology 14 greek 14 latin 14
+1436 italy 30 sports 16 mathematics 16 game 16 chess 16 religion 15 arabia 15 islam 15 europe 14 microstate 14 sources 13 world-war-two 11 jews 11 fascism 11 holocaust 11 ancient-greece 8 athens 8 infanticide 8 terminology 6 etymology 6 middle-ages 5 norman 5
+24858 world-war-two 634 ancient-history 378 united-states 335 middle-ages 295 europe 289 united-kingdom 246 language 198 nazi-germany 184 soviet-union 183 20th-century 179 british-empire 177 roman-empire 172 england 167 holocaust 165 britain 162 asia 158 sino-japanese-war 158 transportation 141 slavery 132 india 119 law 119 photography 119 military 116 ancient-egypt 115 aircraft 115 us-constitution 115 18th-century 110 weapons 108 navy 106 classical-antiquity 104 1930s 101 ancient-rome 95 russia 93 19th-century 91 monarchy 90 nuclear-weapons 90 cultural-history 86 jews 81 alcohol 79 catholic-church 76 archaeology 72 american-civil-war 68 historiography 68 writing 67 food 61 disasters 59 titanic 59 steamboat 59 world-war-one 53 identification 53 social-history 53 literature 53 science 52 independence 51 race 51 early-modern 51 decolonization 49 witchcraft 49 17th-century 46 age-of-sail 45 political-history 44 drugs 44 building 44 scandinavia 43 abraham-lincoln 41 naval 41 canada 41 customs 40 anglo-saxons 40 cyprus 39 art 39 american-revolution 38 government 36 celts 35 germany 35 ancient-greece 34 anthropology 34 spaceflight 33 1960s 33 italian 33 organised-crime 33 lenin 33 war 32 crime 31 piracy 30 spain 30 money 28 script 27 colonial-america 26 japan 25 antisemitism 24 victorian 24 family 24 childbirth 24 royalty 24 royal-succession 24 israel 23 palestine 23 clothing 23 coins 22 reference 22 iceland 22 1970s 22 flags 22 roman 22 roman-britain 22 sealion 22 genealogy 21 boer-war 20 warsaw-pact 20 prehistory 19 bible 19 poland 19 early-medieval 19 latin 19 feudalism 19 papacy 19 ethnicity 18 sweden 18 post-war 18 technology 17 warfare 17 titles 16 armour 16 france 16 french-revolution 16 sexuality 16 famine 15 plantagenets 15 ships 15 iron-age 14 geography 14 communism 14 renaissance 14 age-of-discovery 14 execution 13 immigration 13 economy 12 police 12 16th-century 12 famous-people 12 malta 12 time-keeping 11 religion 10 mexico 10 ww2-pacific-theater 10 computers 10 book 10 middle-east 9 agriculture 9 hundred-years-war 9 navigation 9 vikings 9 trade 9 netherlands 9 dutch-empire 9 mathematics 9 ancient-babylon 9 china 8 churchill 8 philippines 8 ukraine 8 death 8 president 7 battle 7 auschwitz 7 vietnam-war 7 ireland 7 napoleonic-wars 7 currency 6 brazil 6 interwar 6 numismatics 6 submarine 6 animals 6 disease 5 cartography 5 civilizations 5 nobility 5 date 5 caribbean 5
+1761 war 7 middle-ages 7 christianity 7 islam 7 crusades 7
+1396 britain 19 nobility 19 france 14 colonization 10 law 9 england 9 china 9 time-keeping 9 india 5 united-kingdom 5 british-empire 5 chartered-companies 5 north-africa 5 europe 5 russia 5 etymology 5
+53 cultural-history 19 political-history 19 social-history 19 nationalism 19 ancient-history 13 roman-empire 13 sources 13 france 5 international-relations 5 turkey 5 21st-century 5
+130 colonization 17 independence 17 americas 17 spanish-empire 17
+675 colonization 8 independence 8 americas 8 spanish-empire 8
+168 france 17 contemporary-history 17 death-penalty 17
+4346 world-war-two 227 nazi-germany 158 ancient-rome 148 united-states 120 ancient-history 107 ancient-greece 104 slavery 84 military 81 20th-century 77 warfare 72 middle-ages 71 sports 66 technology 65 law 64 cultural-history 64 soviet-union 62 europe 62 economy 61 british-empire 51 social-history 51 international-relations 51 weapons 47 spain 45 political-history 45 roman-empire 40 holocaust 38 language 37 hitler 35 travel 35 american-civil-war 34 quotes 33 china 33 transportation 32 monarchy 31 south-america 31 inca 31 naval 29 jews 29 historiography 27 war 26 united-kingdom 26 sweden 25 railroads 25 india 24 portugal 24 england 24 age-of-discovery 24 currency 23 classical-antiquity 23 france 22 native-americans 22 siege 22 clothing 22 world-war-one 21 19th-century 20 colonization 20 science 19 banking 19 nobility 19 britain 19 race 19 germany 18 book 17 macedon 14 marriage 14 family 14 communication 14 tactics 14 sexuality 13 money 13 defense 13 disease 13 archaeology 13 royalty 12 norman 12 maps 12 neoplatonic-academy 12 aircraft 11 war-of-1812 11 ottoman-empire 11 byzantine-empire 11 new-world 11 ancient-egypt 11 pyramids 11 prehistory 10 paleolithic 10 identification 10 asia 10 ukraine 10 gladiators 10 crime 10 ireland 10 celts 10 royal-succession 10 surname 9 american-revolution 9 artillery 9 carthage 9 punic-wars 9 japan 9 furniture 9 writing 9 vikings 9 exploration 9 early-medieval 9 contemporary-history 8 death-penalty 8 russia 8 time-keeping 8 17th-century 8 old-west 8 education 8 israel 8 alcohol 8 nazism 7 propaganda 7 trade 7 marco-polo 7 women 7 medicine 7 imperialism 7 calendar 7 mail 7 caribbean 7 bronze-age 7 mediterranean 7 identity-documents 7 ceremony 7 chivalry 7 submarine 7 industrial-revolution 7 modern 7 christianity 6 middle-east 6 africa 6 renaissance 6 cold-war 6 communism 6 capitalism 6 confederacy 5 astronomy 5 navigation 5 mathematics 5 architecture 5 dday 5 crusades 5 saladin 5 richard-i 5 uniform 5 sex 5 united-nations 5 post-war 5 price 5 timeline 5 diplomacy 5 diplomatic-history 5 13th-century 5 london 5 economics 5 sword 5 historical-techniques 5 stalin 5 australia 5
+12031 science 5 ancient-egypt 5
+4584 american-civil-war 83 united-states 42 military 30 19th-century 29 economy 29 slavery 29 confederacy 25 law 13 political-history 6 civil-war 6
+6489 military 268 naval 178 age-of-sail 171 19th-century 84 europe 81 britain 73 steamboat 70 commercial 70 napoleonic-wars 61 armour 52 war 47 england 43 helmet 43 warfare 42 18th-century 41 historiography 34 germany 34 tactics 33 tanks 33 iraq 33 gulf-war 33 united-kingdom 31 monarchy 31 world 29 colonization 28 middle-ages 27 english-army 27 world-war-two 25 british-empire 23 weapons 21 ceremony 21 chivalry 21 napoleon 20 united-states 16 mail 16 science 16 navigation 16 technology 15 crime 14 american-revolution 13 russia 11 north-america 11 ships 10 france 9 egypt 9 16th-century 9 spanish-empire 9 disease 9 navy 9 submarine 9 asdic 9 artillery 7 trade 7 food 7 animals 7 world-war-one 6 industrial-history 6 nobility 5
+23314 military 5 britain 5 naval 5
+982 world-war-two 7 historiography 7 resource 7 espionage 7 accuracy 7
+353 military 9 adaptability 9
+486 military 7 adaptability 7
+426 middle-ages 20 religion 20 technology 20 ancient-greece 20 catholic-church 20 europe 5 cultural-history 5 middle-east 5 language 5 immigration 5
+65 science 57 middle-ages 49 europe 49 byzantine-empire 49 renaissance 49 world-war-two 27 military 27 nazi-germany 27 hitler 27 sociology 27 law 27 germany 27 transportation 27 economy 14 ancient-history 8 cultural-history 8 technology 8 classical-antiquity 8
+1110 quotes 37 banking 37 middle-ages 14 weapons 14 sword 14 renaissance 14 economy 12 europe 11 18th-century 11 diplomacy 11 travel 11 sports 9 records 9 ancient-history 9 rulers 9
+1093 british-empire 22 independence 22 india 22
+1449 british-empire 10 independence 10 india 10
+737 war 6 isolationism 6 switzerland 6
+447 russia 10
+1857 united-states 87 world-war-two 59 military 56 middle-ages 46 nazi-germany 46 germany 46 law 39 russia 36 europe 33 cavalry 33 19th-century 29 slavery 29 poland 20 ancient-history 18 holy-roman-empire 15 terminology 12 place-names 8 roman-republic 8 carthage 8 14th-century 5 hungary 5 cultural-history 5 popular-culture 5 soviet-union 5
+451 ancient-history 8 social-history 8
+1933 middle-east 7 iran 7 persia 7
+445 military 13 weapons 13
+524 20th-century 9 military 9 war 9 civil-war 9 vietnam-war 9
+25349 20th-century 6 military 6 war 6 civil-war 6 vietnam-war 6
+659 native-americans 33 technology 25 metallurgy 25 colonization 13 europe 9 16th-century 9 world-war-two 7 nazi-germany 7 france 7
+10058 united-states 73 us-constitution 73 democracy 27 independence 27 political-history 13 social-history 13 public-health 13 europe 13 naval 13 age-of-sail 13 medieval-china 13 technology 6 native-americans 6 metallurgy 6 civilizations 5 geography 5
+2517 ancient-history 12 travel 12 hinduism 12 war 5 napoleon 5 strategy 5
+3008 ancient-history 30 weapons 27 industrial-revolution 24 cities 24 military 17 tactics 17 ancient-greece 15 democracy 15 athens 15 voting 15 world-war-two 14 nazi-germany 14 women 14 trade 11 netherlands 11 indonesia 11 dutch-empire 11 chartered-companies 11 warfare 10 historiography 5 terminology 5 early-modern 5
+561 united-states 45 20th-century 35 military 24 law 14 government 14 weapons 13 tactics 13 political-history 13 election 13 world-war-two 11 nazi-germany 11 soviet-union 11 architecture 10 economy 8 finance 8 banking 8
+532 middle-ages 28 europe 28 byzantine-empire 28 science 28 renaissance 28
+25614 world-war-two 85 united-states 47 warfare 33 war 28 naval 27 north-america 24 finance 24 great-depression 24 nuclear-weapons 19 vietnam-war 19 japan 18 philippines 13 britain 10 colonization 8 revolution 8 colony 8 president 7 economics 7 nazi-germany 6 crime 6 death-penalty 6 espionage 5 libya 5 soviet-union 5 russia 5 weapons 5
+1369 europe 7 civilizations 7 new-world 7 early-modern 7 imperialism 7 military 5 death 5
+1261 roman-empire 68 ancient-history 62 political-history 58 roman-republic 58 historiography 53 religion 46 technology 39 colonization 39 royalty 29 royal-succession 29 christianity 14 jesus 14 middle-ages 12 holy-roman-empire 12 renaissance 12 20th-century 11 austria 11 yugoslavia 11 hungary 11 czechoslovakia 11 byzantine-empire 10 13th-century 10 11th-century 10 jews 9 flags 8 economy 5 trade 5 gold 5
+3682 united-states 23 world-war-two 23 slavery 20 england 20 nazi-germany 18 weapons 18 sword 18 north-america 16 law 15 terminology 15 ancient-history 14 technology 14 colonization 14 historiography 14 japan 13 christianity 11 africa 9 civil-war 6 racism 6 confederacy 6 food 6 native-americans 6 agriculture 6 colonial-america 6 american-civil-war 5 us-congress 5 propaganda 5 20th-century 5 medicine 5 1920s 5 jews 5 hitler 5
+8932 ancient-history 9 technology 9 colonization 9 historiography 9
+8438 ancient-rome 74 slavery 62 ancient-history 56 nazi-germany 49 warfare 49 medicine 49 cultural-history 49 united-kingdom 47 england 44 united-states 40 political-history 39 middle-ages 38 world-war-two 35 uniform 30 nobility 28 titles 28 social-history 24 constitution 21 gun-politics 21 education 19 public-health 18 monarchy 15 international-relations 14 modern 14 money 14 economics 7 social-class 7 morals 6 19th-century 6 clothing 6 government 6 enlightenment 6 europe 5 reformation 5 habsburg 5
+1787 hitler 15 political-history 15 nazism 15
+517 engineering 91 20th-century 64 19th-century 64 transportation 55 contemporary-history 42 technology 36 world 24 ancient-history 16 cultural-history 15 christianity 15 calendar 15 england 9 tudor-period 9 middle-east 9 colonization 9 settlement 9 europe 9 human-rights 8 africa 7 terminology 7 americas 7 christopher-columbus 7 world-war-two 6 united-nations 6
+1229 islam 15 iran 15 20th-century 6 cultural-history 6 popular-culture 6 food 5 archaeology 5 anthropology 5
+470 hitler 16 nazi-germany 16 nazism 16 religion 5 ancient-greece 5
+531 human-rights 5
+724 middle-ages 29 united-states 14 historiography 14 warfare 13 england 13 terminology 9 military 6 19th-century 5 russia 5 law 5 slavery 5
+2196 united-states 29 law 29 20th-century 23 government 23 american-civil-war 6 confederacy 6
+1732 20th-century 6 world-war-two 6 military 6 nazi-germany 6 soviet-union 6
+2306 20th-century 5 world-war-two 5 military 5 nazi-germany 5 soviet-union 5
+2304 20th-century 5 world-war-two 5 military 5 nazi-germany 5 soviet-union 5
+592 world-war-two 10 germany 10
+861 19th-century 8 england 8 ireland 8
+1571 20th-century 8 united-states 8
+36090 ancient-history 12 language 12 hebrew 12
+655 united-states 10 united-nations 10
+588 united-states 102 world-war-two 100 20th-century 45 nazi-germany 37 united-kingdom 30 aircraft 30 dday 30 military 27 19th-century 23 russia 23 north-america 23 holocaust 21 architecture 20 law 20 technology 19 economy 17 north-africa 16 international-relations 15 europe 14 islam 14 germany 12 spanish-civil-war 12 tanks 12 us-congress 12 india 10 revolution 10 protests 10 government 10 1930s 10 great-depression 10 british-empire 10 ancient-rome 10 infantry 10 american-civil-war 7 18th-century 7 founding-fathers 7 photography 7 france 6 mesoamerica 6 aztec 6
+1504 india 22 ancient-history 17 religion 5 christianity 5 islam 5 hinduism 5
+580 ancient-history 8 india 8
+1870 ancient-history 6 india 6
+217 communism 11
+526 british-empire 21
+12641 roman-empire 40 vikings 40 germany 15 ancient-rome 13 spaceflight 12 europe 10 france 10 language 10 4th-century 10 british-empire 7 calendar 7 carthage 6 punic-wars 6 alps 6 military 5 middle-ages 5 islam 5 north-africa 5 umayyad-caliphate 5 17th-century 5 holy-roman-empire 5 sweden 5 30-year-war 5 united-states 5 law 5 slavery 5 race 5
+4225 middle-ages 130 europe 114 agriculture 91 inventions 91 ancient-rome 70 ancient-history 62 ancient-greece 43 technology 43 17th-century 43 world-war-two 40 roman-empire 36 greece 35 cultural-history 27 britain 27 religion 26 language 24 world-war-one 23 nazi-germany 19 byzantine-empire 19 demonym 19 archaeology 19 classical-antiquity 19 literature 17 book 17 slavery 17 north-africa 16 islam 16 turkey 16 population-transfer 16 timeline 14 germany 13 ancient-egypt 13 africa 13 navigation 13 marriage 11 war 11 crusades 10 saladin 10 richard-i 10 united-states 10 law 10 sumer 10 middle-east 9 ottoman-empire 9 british-empire 7 chronology 7 date 7 austria 6 mathematics 6 ancient-babylon 6 prehistory 6 united-kingdom 5 social-history 5 calendar 5 time-keeping 5 france 5 napoleon 5 western-civilisation 5 famous-people 5
+17519 united-nations 8 india 8
+668 ancient-rome 10 world-war-two 9 hitler 9 middle-ages 7 maps 7 cartography 7 ancient-history 5
+664 american-civil-war 8 confederacy 8
+669 20th-century 14 nautical 14 disasters 14 united-states 5 north-america 5 canada 5 south-america 5
+3683 20th-century 8 nautical 8 disasters 8 battle 6 records 6 ancient-history 5 industrial-revolution 5 industrial-history 5
+4542 middle-ages 50 social-history 30 place-names 20 united-states 12 england 12 sports 12 ancient-rome 11 20th-century 8 animals 8
+3116 world-war-two 163 nazi-germany 115 united-states 111 warfare 67 ancient-rome 56 roman-empire 47 naval 47 american-civil-war 46 soviet-union 44 ancient-history 41 europe 31 20th-century 30 japan 29 historiography 28 political-history 28 weapons 26 middle-ages 25 resource 25 uniform 25 geography 21 maps 21 world-war-one 21 british-empire 20 britain 19 stalin 19 yugoslavia 19 international-relations 18 philosophy 17 theoretical-history 17 18th-century 17 slavery 16 byzantine-empire 15 military 15 civil-war 14 war 14 language 12 ancient-greece 12 hitler 12 chemicals 12 transportation 12 railroads 12 president 11 quotes 11 persia 11 confederacy 9 islam 9 arab 9 caliphate 9 sasanian-empire 9 economy 8 demography 8 american-revolution 7 classical-antiquity 7 france 7 united-kingdom 7 names 7 greek 7 archaeology 7 prehistory 7 celts 7 iron-age 7 north-america 6 asia 6 travel 6 settlement 6 migration 6 australia 6 tanks 5 social-history 5 sexuality 5 19th-century 5 christianity 5 ireland 5
+1250 20th-century 16 world-war-two 16 france 16 united-kingdom 16 roman-empire 13 england 7 byzantine-empire 6
+1049 colonization 7 europe 7 africa 7 slavery 7
+3957 germany 50 austria 44 europe 38 france 32 cities 23 nazi-germany 22 hitler 22 nationalism 22 flags 22 national-symbols 22 political-history 21 propaganda 21 dictatorship 21 soviet-union 15 education 15 world-war-two 9 french-empire 9 vietnam 9 indochina 9 social-history 6 historiography 6 religion 6 demography 6 statistics 6
+3571 united-states 6 19th-century 6 russia 6 united-kingdom 6 alaska 6
+4078 ancient-rome 9 trade 6 marco-polo 6 middle-ages 5 europe 5 economy 5 agriculture 5
+739 ancient-history 116 ancient-greece 90 historiography 70 philosophy 70 theoretical-history 70 alexander-the-great 70 hellenistic-greece 70 greek 51 social-history 35 construction 34 monarchy 34 religion 32 20th-century 30 world-war-two 29 germany 27 demonym 27 warfare 26 persia 25 rulers 22 nazi-germany 20 nazism 20 england 20 united-kingdom 20 scotland 20 greco-persian-wars 20 sparta 20 vikings 20 human-sacrifice 20 sources 19 18th-century 19 fashion 19 clothing 19 mathematics 18 mesopotamia 18 europe 14 heraldry 14 genocide 14 calendar 11 middle-east 10 sports 9 records 9 soviet-union 9 united-states 7 international-relations 7 etymology 6 latin 6 battle 6 ancient-egypt 6
+1594 construction 10
+686 world-war-two 10 nuclear 10
+682 ancient-history 12 ancient-rome 12 roman-empire 12 language 12 britain 12 trade 10 iron-age 10
+565 colony 21 europe 21 south-east-asia 21 architecture 21 war 16 police 16 law-enforcement 16 united-states 16 native-americans 16 mesoamerica 16 north-america 16 americas 16 mexico 16 india 11 britain 11 middle-ages 10 maps 10 cartography 10 independence 10 economics 10 law 6 revolution 5 social-history 5 arab-spring 5 warfare 5 strategy 5 alexander-the-great 5 macedon 5 hellenistic-greece 5
+1895 world-war-two 62 world-war-one 62 war 38 switzerland 38 middle-ages 29 warfare 29 20th-century 25 united-states 18 tactics 18 nazi-germany 17 1940s 17 18th-century 13 military 12 armour 12 china 11 historiography 11 ancient-china 11 flags 11 cold-war 10 nato 10 warsaw-pact 10 germany 8 german-unification 8 19th-century 8 technology 8 aircraft 8 fashion 7 clothing 7 economy 6 americas 6 cuba 6 great-depression 6 tanks 6
+692 20th-century 14 nazi-germany 14 1940s 14
+3212 middle-ages 7 maps 7 cartography 7
+2606 united-states 5 united-kingdom 5 diplomacy 5 18th-century 5
+507 technology 8 research 8 methodology 8
+1170 economy 67 roman-empire 67 ancient-rome 67 banking 67 technology 5 research 5 methodology 5
+785 united-kingdom 62 economy 39 monarchy 33 19th-century 29 industrial-revolution 29 india 19 british-empire 10 currency 10 military 9 pakistan 9
+780 world-war-two 23 soviet-union 23
+778 world-war-two 7 weapons 7
+3583 colonization 6 revolution 6 cuba 6
+908 ancient-history 5 india 5 sources 5
+1979 world-war-two 522 soviet-union 291 nazi-germany 234 20th-century 154 united-states 141 japan 141 holocaust 97 everyday-life 97 early-modern 89 middle-east 88 middle-ages 83 slavery 74 atlantic-slave-trade 74 france 68 germany 66 netherlands 65 international-relations 61 stalin 60 russia 59 economy 56 communism 51 political-history 42 17th-century 40 assassination 40 trotskyism 40 naval 37 military 35 antisemitism 26 law 25 weapons 25 19th-century 24 philippines 23 israel 22 british-empire 20 money 20 warfare 20 social-class 20 europe 20 education 20 history-of-ideas 19 language 19 religion 18 aircraft 17 famous-people 17 cultural-history 17 united-kingdom 16 poland 16 population-transfer 16 post-war 16 trade 16 historiography 15 terminology 15 jews 14 palestine 14 1940s 14 cold-war 13 revolution 12 economics 12 war 12 dictatorship 12 united-nations 12 americas 11 native-americans 11 15th-century 10 navy 10 hitler 10 nobility 9 marriage 9 peasants 9 quotes 8 india 8 china 8 asia 8 nuclear-weapons 8 industrial-history 8 judaism 8 democracy 7 philosophy 7 geography 6 spanish-empire 6 aztec 6 charles-v 6 finland 5 propaganda 5 ancient-history 5 bible 5 crime 5 nuclear 5 colonial-america 5 precolumbian-era 5 britain 5
+791 20th-century 12 united-states 12 economy 12 1920s 12
+790 20th-century 9 united-states 9 economy 9 1920s 9
+1196 united-states 47 economy 38 forgery 38 money 38 world-war-two 27 soviet-union 27 united-kingdom 27 nazi-germany 27 poland 26 cultural-history 20 ethnicity 20
+2526 world-war-two 91 soviet-union 56 1940s 22 stalingrad 22 women 12 20th-century 10 nazi-germany 9 naval 9 poland 8 hitler 8
+756 world-war-two 29 soviet-union 29 russia 6 middle-east 6 syria 6
+879 united-states 7 election 7
+6494 japan 9 nuclear 9 nuclear-weapons 9
+8820 world-war-two 190 ancient-history 184 military 164 ancient-rome 100 carthage 92 punic-wars 92 industrial-revolution 92 industrial-history 92 world-war-one 82 middle-ages 79 soviet-union 78 spain 71 stalin 71 finland 71 international-relations 58 language 50 europe 44 british-empire 42 portugal 37 tactics 36 tanks 36 classical-antiquity 32 political-history 31 modern 31 middle-east 30 islam 30 ottoman-empire 30 war 30 battle 28 strategy 28 food 28 roman 28 china 27 united-kingdom 27 fascism 24 spanish-empire 23 americas 23 denmark 23 russia 23 steppe-nomads 22 warfare 21 nazi-germany 17 hitler 17 quotes 17 native-americans 15 demography 15 20th-century 15 19th-century 12 historiography 10 american-civil-war 10 slavery 10 united-states 9 britain 9 transportation 9 engineering 9 weapons 9 india 8 california 8 mexico 8 espionage 8 ancient-greece 8 communism 7 spanish-civil-war 7 religion 7 crusades 7 japan 7 economics 7 disease 7 new-world 7 building 6 technology 6 science 6
+1823 world-war-two 93 ancient-rome 87 nazi-germany 59 roman-empire 49 soviet-union 42 vietnam-war 39 europe 38 clothing 38 uniform 38 ancient-history 37 japan 36 nuclear-weapons 36 engineering 35 military 33 20th-century 29 world-war-one 29 cold-war 29 weapons 28 china 28 technology 27 contemporary-history 27 france 25 united-kingdom 23 jews 23 nazism 23 naval 22 americas 20 middle-ages 17 siege 17 photography 16 slavery 15 finland 14 warfare 13 germany 13 international-relations 13 travel 13 poland 12 15th-century 12 exploration 12 christopher-columbus 12 trade 12 netherlands 12 indonesia 12 dutch-empire 12 chartered-companies 12 united-states 9 british-empire 8 native-americans 8 spanish-empire 8 demography 8 19th-century 8 transportation 8 britain 7 genocide 7 hitler 6 strategy 6 holocaust 6 romania 6
+4089 united-states 24 20th-century 24 great-depression 24 famine 24 science 20 world-war-two 12 nazi-germany 12 military 6 weapons 6 communication 6
+6936 world-war-two 8 economy 8 nazi-germany 8
+3160 india 46 food 11 south-asia 9 technology 8 cold-war 7 social-history 7 animals 7 middle-ages 6 europe 6 economy 6 england 6 mathematics 6 ancient-babylon 6 soviet-union 6 germany 6 yugoslavia 6 czechoslovakia 6
+4968 war 19 nazi-germany 17 germany 17 hitler 17 austria 17 nationalism 17 vikings 17 early-medieval 17 religion 11 world-war-two 10 british-empire 10 democracy 8 independence 8 india 6 south-asia 6
+4951 india 6 south-asia 6
+1018 world-war-two 34 nazi-germany 22 war 20 middle-ages 14 england 14 political-history 14 language 14 north-africa 12 united-states 12 japan 12 philippines 12 20th-century 10 holocaust 10 military 8 battle 8
+994 monarchy 7 ancient-history 5
+837 ancient-history 77 cultural-history 57 technology 57 science 57 classical-antiquity 57 united-states 39 law 39 american-civil-war 39 confederacy 39 british-empire 12 india 12 democracy 12 mesopotamia 11 sumer 11 flood 11 transportation 9 roman-empire 9 ancient-rome 9 roman-republic 9
+829 ancient-history 14 cultural-history 14 technology 14 science 14 classical-antiquity 14
+1387 nazi-germany 131 world-war-two 98 20th-century 87 hitler 67 ancient-rome 58 germany 42 middle-ages 40 military 38 soviet-union 32 uniform 30 british-empire 26 ancient-history 23 europe 21 scotland 21 japan 20 finland 20 roman-empire 18 place-names 16 weapons 16 nuclear 16 technology 15 ancient-greece 15 napoleon 15 economy 15 byzantine-empire 13 holy-roman-empire 13 cavalry 12 religion 12 communism 12 royalty 12 heraldry 12 marriage 12 nobility 12 political-history 10 food 10 political-economy 10 famine 10 historiography 9 philosophy 9 theoretical-history 9 clothing 9 ancient-egypt 9 cultural-history 8 science 8 classical-antiquity 8 alexander-the-great 8 hellenistic-greece 8 greek 8 christianity 8 sources 8 united-states 8 france 7 naval 7 18th-century 7 egypt 7 china 7 needham 7 russia 6 economics 5 finance 5 india 5 world-war-one 5
+7017 ancient-history 5 cultural-history 5 technology 5 science 5 classical-antiquity 5
+21849 europe 75 middle-ages 65 world-war-two 62 nazi-germany 62 war 58 switzerland 58 warfare 53 military 33 monarchy 31 ancient-rome 23 sources 23 classical-antiquity 23 celts 23 rulers 21 england 19 economy 15 government 15 world 14 law 13 netherlands 13 kingdom 13 ancient-history 11 science 11 early-medieval 11 royalty 10 united-kingdom 9 holocaust 9 vikings 9 soviet-union 8 communism 8 social-class 8 women 8 nobility 8 genealogy 8 western-civilisation 6 famous-people 6 inheritance 6 travel 6 records 6 catholic-church 6 early-modern 6 cyprus 6 persia 6 caesar 6 sasanian-empire 6 feudalism 6 castles 6 china 6 historiography 6 ancient-egypt 5 civilizations 5 middle-east 5 crusades 5 invasion 5 execution 5 united-states 5 american-civil-war 5 public-finance 5 france 5 britain 5 clothing 5 flags 5 heraldry 5 royal-succession 5 anglo-saxons 5 international-relations 5 roman-empire 5 byzantine-empire 5 names 5 uniform 5
+1860 cold-war 37 international-relations 37 world-war-two 22 united-states 22 war 22 japan 22 nuclear 22 ancient-egypt 11 mycenae 11 greek-dark-ages 11
+2012 roman-empire 15 jews 15 language 15 israel 15
+853 roman-empire 12 jews 12 language 12 israel 12 military 8 american-civil-war 8 17th-century 5 journalism 5
+2014 roman-empire 8 jews 8 language 8 israel 8
+883 ancient-history 7 transportation 7
+881 ancient-history 7 transportation 7
+953 political-history 8 social-history 8 marriage 8
+836 20th-century 15 europe 15 geography 15 maps 15 asia 15
+869 military 97 american-civil-war 97
+15291 military 8 american-civil-war 8
+3891 military 5 american-civil-war 5
+890 20th-century 8 india 8 revolution 8 protests 8
+1400 middle-ages 23 russia 23 europe 23
+358 middle-ages 5 russia 5 europe 5
+5196 united-states 8 law 8 american-civil-war 8 confederacy 8
+995 united-states 8 law 8 american-civil-war 8 confederacy 8
+4374 world-war-two 135 military 121 nazi-germany 108 warfare 98 germany 90 victorian 89 religion 88 naval 83 architecture 82 new-world 70 world-war-one 61 british-empire 61 imperial-germany 61 weapons 60 us-constitution 55 native-americans 49 migration 49 alaska 49 hitler 45 nuclear-weapons 43 nazism 28 fascism 28 law 24 cold-war 22 north-africa 21 age-of-discovery 21 18th-century 17 alcohol 17 caribbean 17 piracy 17 crime 17 economy 16 soviet-union 15 japan 15 united-states 13 united-kingdom 13 iran 13 20th-century 10 sweden 10 trade 10 ww2-pacific-theater 10 aircraft 8 dday 8 19th-century 8 france 8 german-unification 8 versailles 8 calendar 7 anthropology 6 war 6 american-civil-war 6 russia 5 german 5 russian-civil-war 5 siberia 5
+1336 british-empire 7 india 7 democracy 7
+1078 india 12 technology 7 british-empire 5 democracy 5
+893 economy 27 britain 27 finance 27 napoleonic-wars 27
+921 world-war-two 9 british-empire 9 naval 9 ancient-history 5 law 5 bible 5 crime 5
+695 united-states 6 20th-century 6 consumer-goods 6
+770 soviet-union 35 cold-war 28 astronomy 28 war 19 united-states 7 law 7 us-congress 7 world-war-two 7
+2433 independence 7 colony 7 economy 7 industrial-history 7 natural-resources 7
+973 ancient-history 17 ancient-greece 17
+1654 ancient-history 8 ancient-greece 8
+1440 ancient-greece 17 art 17 classical-antiquity 17
+1811 military 12 france 12 britain 12 tactics 12 napoleonic-wars 12
+1164 military 28 middle-ages 28 crusades 28
+10142 military 6 middle-ages 6 crusades 6
+2461 germany 42 20th-century 34 europe 29 world-war-two 28 soviet-union 27 cold-war 27 china 19 18th-century 19 diplomacy 19 travel 19 military 15 united-states 13 international-relations 13 mao-zedong 11 middle-ages 10 war 10 economy 10 time-keeping 8 cultural-history 7 india 7
+2350 world-war-one 48 world-war-two 46 naval 34 united-states 26 20th-century 25 women 19 nuclear 17 nuclear-weapons 17 military 16 argentina 15 falklands-war 15 19th-century 14 nazi-germany 13 submarine 13 colonization 12 africa 12 technology 11 social-history 10 cold-war 10 war 6 warfare 6 napoleonic-wars 6 england 6 united-kingdom 6 royalty 6 titles 6 cultural-history 5 india 5 britain 5 aircraft 5 transportation 5 food 5 clothing 5 germany 5 animals 5
+961 world-war-two 127 20th-century 87 weapons 67 warfare 67 aircraft 67 united-states 66 japan 60 nuclear-weapons 40 slavery 26 american-civil-war 26 russia 20 military 19 british-empire 19 ancient-rome 19 infantry 19 europe 9 monarchy 9 heraldry 9
+976 civilizations 16 geography 16 political-history 9 germany 8 cold-war 8
+1377 mesoamerica 14 aztec 14 sports 8 records 8 15th-century 7 spain 7 research 7 europe 6 south-east-asia 6 architecture 6
+845 australia 33 monarchy 33 united-states 30 cold-war 30 nazism 30 religion 25 nazi-germany 25 hitler 25 christianity 25 islam 22 spain 22 americas 22 age-of-discovery 22 precolumbian-contact 22
+8139 food 31 everyday-life 31 children 31 ancient-history 25
+13055 ancient-history 14
+12432 military 5 british-empire 5 ancient-rome 5 infantry 5
+32678 united-states 5 transportation 5
+18968 united-states 87 invasion 61 annexation 61 modern 51 russia 45 economy 35 finance 35 caribbean 35 venezuela 35 symbols 22 20th-century 20 food 19 independence 18 identification 17 calendar 14 middle-ages 13 literature 13 iceland 13 transportation 11 colonial-america 11 world-war-two 11 military 11 mexico 10 england 10 occupations 10 political-history 9 international-relations 9 racism 9 algeria 9 clothing 8 vikings 8 exploration 8 early-medieval 8 ancient-rome 8 classical-antiquity 8 book 8 writing 8 mesoamerica 7 aztec 7 maya 7 contemporary-history 7 geography 6 border 6 trade 6 spanish-empire 6 germany 6 19th-century 5 california 5 demography 5 historical-research 5 alaska 5 fur-trade 5 north-america 5 texas 5 historiography 5 colonization 5 disease 5 new-world 5
+2782 20th-century 11 nazi-germany 11 hitler 11
+576 political-history 22 20th-century 12 middle-east 12 syria 12 international-relations 10 modern 10 science 6 mathematics 6 astronomy 6
+438 social-class 41 women 22 witchcraft 22 europe 16 south-east-asia 16 architecture 16 diplomacy 11
+2654 europe 9 south-east-asia 9 architecture 9
+1535 europe 9 south-east-asia 9 architecture 9
+671 europe 9 south-east-asia 9 architecture 9
+1524 europe 5 south-east-asia 5 architecture 5
+2848 united-states 111 constitution 67 gun-politics 67 olympics 49 cultural-history 20 social-history 14 popular-culture 14 slavery 12 north-america 11 canada 11 south-america 11 world-war-two 7 japan 7 nuclear-weapons 7 science 6 classical-antiquity 6 astronomy 6 navigation 6 19th-century 6 18th-century 6 1960s 6 1970s 6 american-civil-war 6 us-constitution 6
+3260 ancient-history 27 social-class 8 europe 6 inventions 6
+1817 nazi-germany 37 archaeology 22 world-war-two 14 military 12 war-crime 12 soviet-union 9 religion 5 hitler 5 christianity 5 holocaust 5 nazism 5 economy 5 demography 5 population 5
+1614 middle-ages 23 weapons 23 sword 13 renaissance 13 war 10 england 5 naval 5 17th-century 5 construction 5
+536 social-class 29 war 17
+8099 social-class 18
+1096 social-class 14
+1091 social-class 11
+3619 australia 23 monarchy 23
+950 records 13 photography 13
+2830 christianity 26 money 21 economy 16 ancient-rome 15 religion 15 china 13 japan 13 modernisation 13 africa 12 slavery 12 age-of-discovery 12 christopher-columbus 12 science 12 mathematics 12 architecture 12 world-war-two 12 war 12 nazi-germany 12 warfare 12 united-kingdom 12 forgery 11 catholic-church 10 soviet-union 9 famine 9 political-history 7 history-of-ideas 7 trade 5 economics 5 silver 5 18th-century 5 military 5 cavalry 5 tactics 5 infantry 5
+1636 china 15 trade 15 turkey 15 persia 15 ancient-iran 15 europe 10 cultural-history 10 middle-east 10 language 10 immigration 10 africa 9 monarchy 9 belgium 9 military 8 democracy 8 poland 7 united-states 7 contemporary-history 7 terminology 5 etymology 5 time-keeping 5
+3186 20th-century 89 world-war-two 89 weapons 89 warfare 89 aircraft 89
+4876 20th-century 26 world-war-two 26 weapons 26 warfare 26 aircraft 26
+1127 demography 21 warfare 21 economy 20 native-americans 16 ancient-history 15 sources 15 world-war-two 14 soviet-union 14 cold-war 14 yugoslavia 14 china 13 medicine 13 19th-century 12 middle-ages 12 europe 12 india 12 england 12 mesoamerica 9 north-america 9 americas 9 mexico 9 united-states 8 nation-states 7 20th-century 5 animals 5
+1171 monarchy 6
+2732 quotes 83 ancient-history 69 war 69 technology 69 health 69 historiography 57 science 43 gold 43 engineering 43 secrecy 43 england 32 united-kingdom 27 ireland 27 scotland 27 great-britain 27 world-war-two 27 tanks 27 france 20 monarchy 15 united-states 11 europe 5
+1121 economy 24 roman-empire 24 ancient-rome 24 banking 24
+29667 soviet-union 24 cold-war 24 war 6 russia 6
+102 law 9
+2121 british-empire 47 india 46 united-states 22 world-war-two 18 churchill 18 famine 18 20th-century 18 military 18 world-war-one 18 cold-war 16 19th-century 11 colonization 11 18th-century 11 royalty 11 ancient-history 10 law 10
+618 ancient-history 5 india 5 law 5
+1296 world-war-two 9
+1211 world-war-two 7
+3675 middle-ages 17 europe 17 economy 17 agriculture 17 china 5 medicine 5 demography 5
+1233 united-states 11 military 11 war 11 contemporary-history 11 science 9 calendar 9 india 6 revolution 6 independence 6 world 6
+1257 india 36 colonization 36
+943 20th-century 88 world-war-two 59 france 59 united-kingdom 59 united-states 58 war 34 middle-ages 34 weapons 34 catholic-church 34 19th-century 29 italy 29 immigration 29 argentina 29 soviet-union 26 cold-war 26 civilizations 24 geography 24 india 23 colonization 23 military 15 contemporary-history 14 islam 13 terminology 13 etymology 13 religion 10 pope 10 political-history 7 president 7 china 7 russia 7 mongol-empire 7 taxes 5 18th-century 5 clothing 5 uniform 5 george-washington 5
+8412 india 11 government 6 independence 6 colonization 5 england 5 reformation 5
+4682 nobility 38 american-civil-war 16 middle-ages 12 warfare 6 england 6 united-states 6 world-war-two 6 contemporary-history 6 north-america 6 washington-state 6
+1269 india 6 revolution 6 independence 6 world 6
+1884 20th-century 20 world-war-two 20 france 20 united-kingdom 20
+1290 20th-century 23 russia 16 british-empire 16 world-war-one 16 ottoman-empire 16 middle-ages 12 education 12 renaissance 12 reformation 12 language 10 monarchy 10 given-name 10 world-war-two 7 france 7 united-kingdom 7 germany 6 german-unification 6 war 5
+5001 20th-century 14 middle-ages 12 political-history 8 germany 8 international-relations 8 military 7 18th-century 7 world-war-two 6 france 6 united-kingdom 6 historiography 6 architecture 6 europe 5 poland 5 13th-century 5 disease 5
+1144 middle-ages 9 poland 9 14th-century 9 hungary 9
+2417 20th-century 14 world-war-two 14 poland 14 treaties 14
+1198 18th-century 11 social-history 11 marriage 11 church 11
+3710 british-empire 19 colonial-america 14 international-relations 12 soviet-union 7 political-history 7 israel 7 stalin 7 colonization 7 war 6 monarchy 6 20th-century 5 egypt 5 ottoman-empire 5 middle-east 5 palestine 5
+1955 spain 15 time-keeping 15
+1308 islam 9 terminology 9 etymology 9
+13359 military 68 monarchy 40 war 33 warfare 27 europe 27 catholic-church 24 church 24 rome 24 science 21 early-medieval 21 sweden 17 england 15 middle-ages 14 nobility 14 marriage 14 peasants 14 independence 12 calendar 12 modern 12 world 11 rulers 11 victorian 10 united-states 9 world-war-two 9 nuclear 9 19th-century 7 russia 7 royal-succession 7 battle 6 roman-empire 6 vikings 6 inheritance 6 naval 5 crime 5 piracy 5 17th-century 5 names 5 denmark 5 norway 5 language 5
+1573 war 14 20th-century 13 warfare 13 world-war-one 13 naval 13 britain 13 military 9
+5088 military 14 warfare 14 tactics 14 war 8
+22801 war 5
+36856 economy 9 cultural-history 9 anthropology 9
+1351 united-states 23 france 23 president 23
+2446 europe 24 china 24
+3785 europe 12 china 12
+4182 world-war-two 89 mathematics 53 native-americans 47 ancient-rome 35 germany 34 nazi-germany 26 holocaust 23 religion 20 demography 20 statistics 20 science 14 nuremberg-trial 14 identification 14 currency 14 social-history 13 judaism 13 russia 11 post-war 11 christopher-columbus 10 ancient-history 10 naval 10 navy 10 submarine 10 historiography 9 jews 9 ancient-greece 8 physics 8 political-history 7 united-kingdom 7 britain 7 book 6 tradition 6 academics 6 technology 5 industrial-revolution 5 cities 5
+3011 united-states 70 law 45 identification 24 contemporary-history 24 language 24 economy 23 political-history 22 social-history 21 historiography 17 olympics 17 philosophy 16 terminology 16 sociology 16 trade 15 age-of-discovery 15 food 13 methodology 12 proof 12 world-war-two 11 american-revolution 10 independence 10 spanish-empire 10 prosopography 10 ancient-egypt 9 american-civil-war 8 confederacy 8 religion 8 russia 8 exploration 8 church 8 thailand 7 border 7 myanmar 7 europe 5 japan 5 mathematics 5 historical-research 5 historical-techniques 5 statistics 5 racism 5
+1428 economy 7 trade 7 age-of-discovery 7
+1462 ancient-greece 82 geography 82 greek-mythology 82 latin 19 latin-language 19 14th-century 15 holy-roman-empire 15 bohemia 15
+2983 colonization 13 australia 13 south-east-asia 13
+4052 20th-century 15 soviet-union 15 ukraine 15
+27029 20th-century 7 soviet-union 7 ukraine 7
+3821 20th-century 7 soviet-union 7 ukraine 7
+3696 20th-century 5 soviet-union 5 ukraine 5
+740 world-war-two 6 india 6 nazi-germany 6
+19381 slavery 7 history-of-ideas 7 morals 7
+1493 united-states 5 political-history 5 president 5 election 5
+1288 india 13 islam 13 christianity 13 quotes 13
+12204 india 7 islam 7 christianity 7 quotes 7
+1633 world-war-two 63 china 54 warfare 52 military 49 naval 41 roman-empire 40 historiography 39 philosophy 39 theoretical-history 39 nazi-germany 37 soviet-union 37 trade 31 turkey 31 persia 31 ancient-iran 31 ancient-rome 31 jesus 28 battle 26 war 23 colonization 23 weapons 18 finland 17 hitler 15 strategy 15 holocaust 15 20th-century 13 europe 12 clothing 12 uniform 12 britain 11 17th-century 10 cultural-history 8 cavalry 7 mongol-empire 7 infantry 7 civilizations 7 england 7 united-kingdom 7 churchill 7 ancient-greece 6 greece 6 monarchy 6 19th-century 6 american-civil-war 6 japan 6 constitution 6 law 6 world-war-one 6 africa 5 civil-war 5 genocide 5 aircraft 5 transportation 5 ancient-history 5 food 5 germany 5 german-unification 5
+2616 historiography 16 philosophy 16 theoretical-history 16
+4189 historiography 10 philosophy 10 theoretical-history 10
+1006 law 11 germany 11 transportation 11 europe 8 17th-century 8 identification 8 flags 8 netherlands 8
+2290 genocide 25 africa 15 civil-war 15 world-war-two 10 nazi-germany 10 holocaust 10
+1599 war 11 warfare 11 terminology 11 conflict 11 japan 10 china 10 social-class 10 korea 10 samurai 10
+3584 weapons 18 technology 18 sword 18 samurai 18
+1600 europe 14 13th-century 7 defense 7 middle-ages 7 britain 7 war 7 warfare 7 naval 7 napoleonic-wars 7
+18897 middle-ages 9 weapons 9 sword 9 renaissance 9
+1624 england 6 united-kingdom 6 monarchy 6 scotland 6
+17208 india 9 time-keeping 9
+1438 military 13 ancient-history 13 middle-ages 13 warfare 13
+1545 russia 9 death 9 16th-century 9 individuals 9
+1632 military 16 war 11 warfare 11 russia 7 death 7 16th-century 7 individuals 7 world-war-two 5
+2404 sports 30 mathematics 30 game 30 chess 30
+16562 war 57 nuclear 57 nazi-germany 14 racism 14 sports 14 olympics 14 soviet-union 12 europe 11 monarchy 11 royalty 11 middle-ages 5 crusades 5
+13517 europe 9 monarchy 9 royalty 9
+1691 soviet-union 9 ussr 9 stalin 9
+4591 middle-ages 8 place-names 8
+15901 united-states 51 military 29 europe 20 war 20 soviet-union 20 archaeology 18 architecture 18 records 17 north-america 15 mexico 15 texas 15 rulers 12 law 10 political-history 10 middle-ages 9 weapons 9 napoleonic-wars 8 population-transfer 8 battle 7 naval 6 construction 6 19th-century 5 american-civil-war 5 jews 5 confederacy 5 religion 5 roman-empire 5
+1726 calendar 12 time-keeping 12
+32206 calendar 6 time-keeping 6
+1730 world-war-two 6
+1813 world-war-two 5
+1737 military 5 war 5 warfare 5 civilizations 5
+2142 china 6 trade 6 turkey 6 persia 6 ancient-iran 6
+3058 ancient-history 14 mathematics 14 mesopotamia 14
+12865 england 6 government 6 republic 6
+1429 15th-century 8 spain 8 research 8
+11622 religion 7 political-history 7 social-history 7 cultural-history 7 sexuality 7
+1704 cultural-history 15 political-history 15 social-history 15 nationalism 15 world-war-two 7 spain 7 portugal 7
+2440 ancient-greece 9 greece 9
+12536 ancient-greece 5 greece 5
+1375 ancient-history 62 europe 62 roman-empire 62 germany 62 1st-century 62
+4601 spain 71 world-war-two 59 portugal 59 united-states 12 war 12 social-history 12 spanish-empire 12
+6885 world-war-two 27 spain 27 portugal 27
+13135 world-war-two 12 spain 12 portugal 12
+8426 russia 10
+23953 russia 9
+13366 ancient-history 7
+7013 ancient-history 12 religion 12
+12639 cultural-history 6 religion 6 civilizations 6
+2020 nazi-germany 28 economy 24 forgery 24 money 24 20th-century 15 world-war-two 15 weapons 15 nuclear 15 india 13 hitler 13 nazism 13
+3097 economy 7 forgery 7 money 7
+4781 europe 9 colonization 9 native-americans 9 disease 9 age-of-discovery 9 war 6 british-empire 6 england 6 monarchy 6 battle 6
+4745 christianity 6 sources 6 napoleon 6
+5061 ancient-rome 9 ancient-greece 9 food 9 alcohol 9
+14745 ancient-rome 5 ancient-greece 5 food 5 alcohol 5
+825 ancient-rome 19 slavery 19 morals 19 europe 17 18th-century 17 diplomacy 17 travel 17 nazi-germany 15 jews 15 holocaust 15 revisionism 15
+2931 ancient-history 7 ancient-greece 7 historiography 7 athens 7 sparta 7
+17193 annexation 46 military 25 warfare 25 north-america 13 south-america 13 ethnicity 13 europe 7 spain 7 age-of-discovery 7 portugal 7 islamic-hispania 7 ancient-history 5 ancient-egypt 5 writing 5 south-africa 5 ethiopia 5
+11501 jews 21 ancient-history 14 palestine 14 jerusalem 14 middle-ages 9 europe 9 everyday-life 9 clothing 9 historical-techniques 9 united-states 8 christianity 7 world-war-two 6 science 6 churchill 6
+2139 20th-century 6 world-war-two 6 nazi-germany 6 weapons 6 nuclear 6
+2671 weapons 10 warfare 10
+3606 weapons 7 warfare 7
+2305 weapons 5 warfare 5
+6527 ancient-history 6 food 6
+21312 naval 7 17th-century 7 battle 7
+38798 diplomacy 8 international-relations 8 diplomatic-history 8 middle-ages 5 education 5 renaissance 5 reformation 5
+2075 roman-empire 5 bible 5 coins 5
+2084 civil-war 11 united-states 5 world-war-two 5 north-africa 5 tanks 5
+3669 united-states 6 world-war-two 6 nazi-germany 6 germany 6
+15554 military 13 war 13 battle 13
+2865 world-war-two 10 nazi-germany 10 soviet-union 10 finland 10
+2104 world-war-two 60 warfare 30 military 24 europe 24 mongol-empire 24 invasion 24 american-civil-war 20 japan 17 constitution 17 law 17 19th-century 6 historiography 6 french-revolution 6 movies 6
+2119 united-states 5 political-history 5 president 5
+21338 ancient-rome 6
+2596 world-war-two 10 yugoslavia 10
+2144 world-war-two 13 middle-ages 12 warfare 12 military 8 yugoslavia 5
+3638 cultural-history 5 vikings 5 sweden 5 norway 5 norse-mythology 5
+1820 food 13 portugal 13
+2430 food 11 portugal 11
+12838 united-states 7 iraq 7 middle-ages 5 warfare 5 war 5
+3813 india 13 religion 13
+15595 india 8 religion 8 middle-ages 6 war 6 battle 6
+904 military 15 ancient-rome 15 soviet-union 6 election 6
+3158 military 5 ancient-rome 5
+4989 world-war-two 7 nazi-germany 7 technology 7
+2486 20th-century 13 world-war-two 12 nazi-germany 7 submarine 7 colonization 6 africa 6 economy 5
+8441 world-war-one 7 cavalry 7
+8537 ancient-rome 5 world-war-two 5 nazi-germany 5 france 5 united-kingdom 5 international-relations 5
+2957 language 112 military 111 war 108 world-war-two 92 warfare 89 tactics 78 china 54 strategy 46 dday 46 invasion 46 japan 42 nazi-germany 36 united-states 31 russian-civil-war 30 siberia 30 germany 29 civil-rights 22 1960s 17 russia 15 soviet-union 14 cultural-history 14 hitler 14 ancient-history 13 ancient-rome 13 carthage 13 punic-wars 13 19th-century 12 meiji-restoration 12 royal-succession 12 women 12 islam 12 early-medieval 12 korea 12 ancient-greece 12 persia 12 hellenistic-greece 12 greco-persian-wars 12 sino-japanese-war 12 british-empire 11 war-of-1812 11 aircraft 11 communication 11 cryptology 11 bohemia 9 feudalism 9 food 9 terminology 9 napoleonic-wars 8 prussia 8 europe 7 economy 7 voting 6 american-civil-war 5
+2783 20th-century 7 military 7 british-empire 7 scotland 7 uniform 7
+27074 argentina 13 falklands-war 13
+2794 united-states 21 world-war-two 21 japan 21 nuclear-weapons 21
+12050 social-history 46 cultural-history 35 fashion 35 gender 35 ancient-history 31 naval 25 slavery 25 vikings 25 early-medieval 25 19th-century 13 france 13 art 13 identification 13 nazi-germany 9 holocaust 9 genocide 9 ancient-rome 6 travel 6 marriage 5 family 5 surname 5
+2483 france 35 united-states 21 military 21 united-kingdom 21 weapons 21 world-war-two 14 international-relations 14
+1089 warfare 5 battle 5
+2439 ancient-rome 9 roman-empire 9
+8256 soviet-union 13 middle-ages 8 europe 8 economy 8 agriculture 8 religion 7 world-war-two 6
+6990 20th-century 7 world-war-two 7 soviet-union 7
+2890 19th-century 13 world-war-one 13 naval 13
+15897 naval 17 19th-century 11 world-war-one 11 military 6 technology 6 war 5 armour 5
+2813 hinduism 17 india 16 ancient-history 13 religion 10 christianity 10 islam 10 travel 7 ancient-greece 6 alexander-the-great 6
+2717 united-states 32 world-war-two 32 20th-century 32 nazi-germany 32 japan 32
+421 united-states 15 world-war-two 15 20th-century 15 nazi-germany 15 japan 15
+13021 world-war-two 32 nazi-germany 25 united-states 17 turkey 15 20th-century 10 japan 10 naval 7 industrial-history 7 ships 7
+8756 united-states 9 world-war-two 9 20th-century 9 nazi-germany 9 japan 9
+26063 soviet-union 7 germany 7 cold-war 7
+2161 india 25 religion 25 christianity 25 islam 25 hinduism 25
+2750 india 24 religion 24 christianity 24 islam 24 hinduism 24
+2885 india 17 religion 17 christianity 17 islam 17 hinduism 17
+3164 20th-century 34 china 34 mao-zedong 34 travel 20 feudalism 20 inn 20 lodge 20 british-empire 7 colonization 7 africa 7 french-empire 7 world-war-two 6 nazi-germany 6 science 6 espionage 6 migration 6 india 5 religion 5 christianity 5 islam 5 hinduism 5 austria 5 popular-culture 5 modern 5
+5092 defense 165 castles 165 world-war-two 6 soviet-union 6
+6924 military 25 19th-century 25 weapons 25 18th-century 25 cavalry 25 war 17 russia 17 political-history 17 nationalism 17 ancient-history 14 middle-ages 14 warfare 14 siege 14 defense 14 united-states 7 nuclear 7 nuclear-weapons 7 technology 5 united-kingdom 5 sword 5 historical-techniques 5
+11628 united-states 21 slavery 21
+9985 prehistory 12 middle-ages 8 cultural-history 6 sexuality 6 united-states 5 slavery 5 russia 5 historiography 5 colonization 5
+11945 united-states 9
+13102 weapons 25 vietnam-war 25
+3840 weapons 12 vietnam-war 12
+16258 weapons 5 vietnam-war 5
+2307 roman-empire 15 gladiators 15 ancient-history 6 jews 6 palestine 6 jerusalem 6 age-of-discovery 6 christopher-columbus 6
+903 united-states 13 world-war-two 8 japan 8 19th-century 5 naval 5 occupations 5
+23998 africa 8 slavery 8
+33710 20th-century 20 geography 20
+4945 military 5 war 5 warfare 5
+1318 military 5 war 5 warfare 5
+2960 military 42 japan 42 medieval-japan 42 classical-japan 42 tokugawa-era 42
+28675 christianity 5
+21213 monarchy 52 women 26 voting 26 native-americans 24 new-world 24 migration 24 alaska 24 invasion 11 annexation 11 ancient-history 11 ancient-rome 11 ancient-greece 11 technology 11 17th-century 11 religion 10 middle-east 10 christianity 10 islam 10 north-africa 10 20th-century 7 soviet-union 7 central-asia 7 middle-ages 6 europe 6 france 6 germany 6 catholic-church 5 money 5 royalty 5 warfare 5 diplomacy 5
+3198 china 8 japan 8 modernisation 8
+2872 world-war-two 43 middle-east 39 france 33 ancient-history 26 ancient-rome 26 ancient-greece 26 disease 26 japan 26 world 25 christianity 16 economics 16 ottoman-empire 16 weapons 15 nuclear 15 nuclear-weapons 15 science 13 20th-century 13 colonization 13 settlement 13 soviet-union 13 social-history 12 social-class 12 anthropology 12 gender 12 united-states 11 europe 11 crime 11 jews 10 trade 10 slavery 10 antisemitism 10 french-revolution 6 flags 6
+2990 science 7 mathematics 7 architecture 7
+13423 democracy 6 revolution 6 dictatorship 6 rulers 6
+1802 political-history 92 united-kingdom 85 women 85 voting 85 middle-ages 39 defense 33 castles 33 warfare 27 mongol-empire 27 military 20 18th-century 12 social-history 7 public-health 7
+6721 nazi-germany 8 bulgaria 8
+456 science 11
+3142 ancient-history 8 ancient-egypt 8
+3145 europe 5 christianity 5 reformation 5
+3204 calendar 5
+12563 war 60 roman-empire 32 jesus 32
+3749 war 20 middle-ages 16 europe 16 france 7 jews 7 early-medieval 7
+6974 war 12
+3700 war 16 europe 10 holy-roman-empire 10 middle-ages 6 france 6 england 6
+13361 war 6
+10215 war 6
+8563 china 16 exploration 16 south-east-asia 16 germany 9 world-war-one 9 weimar-republic 9
+3372 world-war-two 7
+12065 ancient-greece 6 language 6
+8417 language 22 roman-empire 17 byzantine-empire 17 greece 17 demonym 17 ancient-greece 5
+16112 world-war-two 7 military 7 italy 7 strategy 7
+6641 world-war-two 6 military 6 italy 6 strategy 6
+32576 europe 15 age-of-sail 15 geography 15 exploration 15 christopher-columbus 15 world-war-two 6 nazi-germany 6 soviet-union 6
+2769 bible 17 ancient-history 12 jews 12 religion 5 ancient-egypt 5 israel 5 archaeology 5
+11861 world-war-two 49 japan 34 united-states 27 nazi-germany 21 soviet-union 18 military 14 historiography 14 warfare 13 20th-century 12 finland 10 jews 7 nazism 7
+3714 world-war-one 28 treaties 28 world-war-two 15 battle 15
+10229 world-war-two 11 battle 11
+3404 middle-ages 8 christianity 8 franks 8
+3257 germany 29 world-war-two 21 united-states 17 military 17 clothing 17 world-war-one 15 nazi-germany 6 war-crime 6
+3719 ukraine 14 middle-east 7 language 7 africa 7 europe 5 crusades 5
+3587 world-war-one 14 treaties 14
+3845 military 34 england 34 heraldry 34
+1674 military 8 england 8 heraldry 8
+15089 military 5 england 5 heraldry 5
+3868 cultural-history 11 christianity 11 calendar 11 world 11
+3838 middle-ages 8 royalty 8 heraldry 8 marriage 8 nobility 8
+3978 world-war-two 14 germany 14 jews 14 nazism 14 genocide 14
+3177 ancient-history 7 ancient-greece 7 persia 7 alexander-the-great 7 hellenistic-greece 7
+17846 middle-ages 18 middle-east 18 slavery 18 early-modern 18 atlantic-slave-trade 18 islam 10 caliphate 10
+1160 islam 7 caliphate 7
+4390 islam 64 north-africa 59 middle-ages 52 egypt 41 libya 41 france 18 colonization 18 war 16 international-relations 16 thailand 16 border 16 myanmar 16 islamic-history 13 language 12 europe 11 monarchy 11 records 11 persia 7 caliphate 5 religion 5 arabia 5 muhammad 5 sweden 5
+22613 holocaust 75 nuremberg-trial 51 jews 27 nazi-germany 21 world-war-two 20 ancient-history 10 germany 10 israel 10 palestine 10 historiography 7 auschwitz 6
+4044 world-war-two 8
+4135 world-war-two 6
+14914 technology 6 contemporary-history 6 engineering 6
+21117 technology 5 contemporary-history 5 engineering 5
+970 world-war-two 6 jews 6 hitler 6
+4122 science 68 calendar 68 united-states 7 20th-century 7 social-history 7 alcohol 7 prohibition 7
+4066 science 43 calendar 43
+4081 science 6 calendar 6
+39216 ancient-history 5 ancient-rome 5 ancient-greece 5 middle-east 5 disease 5
+4197 ancient-history 10 industrial-revolution 10 cities 10
+15152 ancient-history 7 industrial-revolution 7 cities 7
+1700 greek 11
+22904 christianity 6
+414 united-states 6 food 6
+37350 soviet-union 13 cold-war 13
+4290 world-war-two 22 nazi-germany 22 japan 22 middle-ages 18 europe 18 nobility 18 religion 17 islam 17 arabia 17 muhammad 17 russia 14
+4475 maps 14 cartography 14 world-war-two 6 nazi-germany 6 japan 6
+4398 russia 10
+4494 cultural-history 15 food 15 military 14 technology 14
+4425 military 12 technology 12
+2497 military 7 technology 7
+4427 military 5 technology 5
+4448 united-states 5 world-war-two 5
+21893 religion 7 islam 7 arabia 7 muhammad 7
+4504 ancient-history 8 ancient-rome 8 ancient-greece 8 social-history 8 sexuality 8
+4330 royalty 16 royal-succession 16
+2676 royalty 13 royal-succession 13
+4207 american-civil-war 49 civil-war 49 ancient-rome 33 military 33 13th-century 22 11th-century 22 identification 20 religion 17 the-balkans 17 germany 17 celts 17 julius-caesar 17 antarctica 16 crusades 13 saladin 13 richard-i 13 middle-ages 13 uniform 13 law 9 united-states 8 19th-century 8 naval 8 occupations 8 world-war-two 5 nazi-germany 5 tanks 5
+2425 religion 8 the-balkans 8
+11921 religion 16 islam 10 turkey 10 greece 10 population-transfer 10 the-balkans 6
+4530 world-war-two 7 nazi-germany 7 communication 7
+23421 world-war-two 6 dday 6
+3882 france 7 french-revolution 7 flags 7
+4474 law 5 north-america 5
+4481 india 15 independence 10 middle-ages 5 europe 5 economy 5 england 5
+4619 united-states 15 world-war-two 15 world-war-one 15
+3808 identification 31 maps 31 20th-century 14 everyday-life 14 fashion 14 nobility 13 military 11 warfare 11 tactics 11 stalin 9 dictatorship 9
+4216 islam 48 early-medieval 48 jews 37 middle-east 29 israel 29 palestine 29 1940s 29 ancient-history 16 religion 16 communism 9
+6610 19th-century 6 england 6 social-history 6
+4127 world-war-two 104 military 74 nazi-germany 74 execution 74 warfare 71 technology 71 royalty 16 law 15 political-history 15 england 15 13th-century 15 london 15 united-states 14 japan 14 navy 14
+4760 warfare 18 technology 18
+4768 warfare 9 technology 9
+4545 war 89 world-war-two 45 clothing 45 ancient-history 44 china 44 warfare 44 tactics 44 military 25 naval 14 napoleonic-wars 14 age-of-sail 14 aircraft 11 identification 11 united-states 8 cultural-history 8 social-history 8 popular-culture 8
+4788 islam 32 early-medieval 32
+1443 islam 5 early-medieval 5
+17888 china 118 ancient-china 63 military 61 20th-century 55 civil-war 36 soviet-union 34 japan 34 warfare 33 slavery 32 africa 30 19th-century 29 transportation 29 engineering 29 world-war-two 27 cultural-history 26 mongol-empire 26 conquest 26 colonization 26 invasion 26 tibet 26 language 26 writing 26 ancient-history 23 industrial-revolution 23 industrial-history 23 agriculture 20 atlantic-slave-trade 20 brazil 20 war 19 nuclear 19 russia 18 world-war-one 18 stalin 16 united-states 13 north-america 13 canada 13 south-america 13 middle-ages 13 rhodesia 10 zimbabwe 10 medieval-china 9 england 8 ancient-greece 8 13th-century 8 greek-mythology 8 cold-war 7 historical-accuracy 7 contemporary-history 7 asia 7 population 7 historiography 5 food 5 meiji-restoration 5 black-death 5
+4437 communism 12 world-war-two 7 france 7
+3521 communism 35 names 35 north-korea 35 political-history 13 switzerland 13 women 13 voting 13 economy 12 south-east-asia 12 1960s 12 china 9 civil-war 9 united-states 6 20th-century 6 decolonization 6 philippines 6
+25801 military 56 middle-ages 47 europe 39 steppe-nomads 36 islam 30 crusades 30 medieval-japan 24 war 22 ancient-history 20 weapons 17 classical-japan 17 korean-war 17 roman-empire 15 britain 15 celts 15 genealogy 15 language 14 ancient-greece 11 bronze-age 11 greek-dark-ages 11 dorians 11 napoleonic-wars 9 political-history 7 mongol-empire 7 theoretical-history 7 ancient-china 7 feudalism 7 ancient-egypt 6 battle 6 economy 6 ancient-rome 6 julius-caesar 6 caesar 6 imperators 6 china 5 italy 5 renaissance 5 banking 5 world-war-two 5 japan 5 naval 5 government 5 enlightenment 5 england 5 united-kingdom 5 titles 5 great-britain 5 royal-succession 5 warfare 5
+4870 soviet-union 6 russia 6 spaceflight 6
+4913 united-states 16 19th-century 16 18th-century 16 slavery 16
+3603 military 17 europe 10 weapons 10 early-medieval 10 ancient-history 7 middle-ages 7 ancient-rome 7
+5037 world-war-two 7 nazi-germany 7 france 7
+4960 christianity 5 islam 5 ottoman-empire 5 arabia 5
+927 warfare 12 british-empire 12 war-of-1812 12 government 8
+3871 united-kingdom 12 falklands-war 12 nuclear-weapons 12 world-war-two 10 war 10 tanks 10 india 6 british-empire 6 independence 6 europe 6 feudalism 6 15th-century 5 christopher-columbus 5 navigation 5
+1773 nuclear-weapons 12 united-kingdom 7 falklands-war 7 vietnam-war 5
+5239 ancient-rome 24 classical-antiquity 15 middle-ages 10 warfare 10 historiography 9 iron-age 9 roman-kingdom 9 old-west 6
+5066 united-states 37 social-history 6 marriage 6 family 6 surname 6
+5097 united-states 6 world-war-two 6 nazi-germany 6 warfare 6 naval 6
+4803 nazi-germany 11 germany 11 hitler 11 austria 11 nationalism 11 india 7 food 7
+30 20th-century 18 technology 18
+15835 middle-east 9 language 9 africa 9
+5227 science 88 albert-einstein 88 germany 18 demonym 18 military 7 ancient-history 7 ancient-rome 7 carthage 7 punic-wars 7 language 5
+3121 war 11 sex 11
+278 ancient-history 5 christianity 5 bible 5
+6635 united-states 8 20th-century 8 political-history 8 russia 8 quotes 8
+6328 middle-ages 20 russia 17 world-war-one 17 communism 17 imperial-germany 17 everyday-life 12 classical-antiquity 12 germany 8 europe 8 christianity 8 catholic-church 8 sexuality 8
+6503 united-states 6 20th-century 6 president 6 quotes 6
+12470 united-states 13 india 13 soviet-union 13 naval 13 pakistan 13
+16566 united-states 7 india 7 soviet-union 7 naval 7 pakistan 7
+6521 religion 28 historiography 28 christianity 28 jesus 28
+6602 middle-ages 17 europe 17 resource 17
+19318 world-war-two 54 slavery 53 american-civil-war 46 american-revolution 46 united-states 41 north-america 41 canada 41 south-america 41 middle-ages 23 science 21 death 15 demography 15 population 15 ancient-history 14 religion 14 cultural-history 14 middle-east 14 early-modern 14 atlantic-slave-trade 14 europe 9 monarchy 9 health 9 feudalism 6
+6643 geography 13 maps 13
+6679 20th-century 5 austria 5 yugoslavia 5 hungary 5 czechoslovakia 5
+15625 united-states 102 germany 89 language 89 europe 76 france 76 4th-century 76 world-war-two 66 japan 66 australia 66 india 29 demography 27 modern 27 population 27 alaska 27 mughals 16 islam 13 south-asia 13 genealogy 13 demonym 13 jews 11 royalty 11 saudi-arabia 11 cultural-history 10 britain 10 ireland 10 furniture 10 american-revolution 9 monarchy 6
+32495 nazi-germany 6 austria 6
+6743 india 6
+11553 united-states 9 world-war-two 9 europe 9 japan 9 crime 9
+422 soviet-union 8 germany 8 yugoslavia 8 czechoslovakia 8
+6873 military 24 middle-ages 24 18th-century 24 religion 7 middle-east 7 christianity 7 islam 7 north-africa 7
+6872 military 17 middle-ages 17 18th-century 17
+6857 military 6 middle-ages 6 18th-century 6
+6598 military 5 middle-ages 5 18th-century 5
+12802 united-states 5 food 5
+6910 roman-empire 8 gladiators 8
+6437 mongol-empire 13 mongols 13 historiography 9 architecture 9
+27140 world-war-two 128 food 90 europe 89 war 88 military 82 nazi-germany 76 soviet-union 65 napoleonic-wars 58 united-kingdom 47 marriage 47 civil-rights 47 transportation 44 germany 39 middle-ages 39 united-states 32 economy 31 law 31 france 29 aircraft 29 1930s 29 ancient-rome 26 tactics 24 17th-century 24 battle 23 roman-republic 21 world-war-one 21 18th-century 19 everyday-life 17 steppe-nomads 17 vikings 17 roman-empire 15 treaties 15 thailand 15 naval 15 ships 15 ocean 15 christianity 14 jesus 14 austria 14 interwar 14 women 14 armour 12 cold-war 12 nuclear 12 industry 12 internet 12 north-america 12 precolumbian-contact 12 exchange 12 south-east-asia 11 cities 11 defense 11 castles 11 warfare 10 england 10 industrial-history 10 japan 10 1940s 9 ww2-pacific-theater 9 symbols 8 art 7 classical-antiquity 7 rome 7 furniture 7 jews 6 antisemitism 6 modern 6 weapons 6 political-history 5 trade 5 netherlands 5 dutch-empire 5 iceland 5 morals 5 science 5 book 5 tradition 5 academics 5 espionage 5 human-rights 5
+6940 middle-ages 7 law 7 france 7 england 7 hundred-years-war 7 soviet-union 5
+6445 ancient-history 29 industrial-revolution 23 industrial-history 23 middle-ages 6 warfare 6 siege 6 defense 6 time-keeping 6
+11880 world-war-two 41 hitler 41 chemicals 41
+4090 world-war-two 64 nazi-germany 59 holocaust 37 american-revolution 34 religion 27 germany 27 demography 27 statistics 27 20th-century 18 military 18 science 15 17th-century 15 witchcraft 15 united-states 14 sweden 13 warfare 9
+12051 united-states 7 world-war-two 7 nazi-germany 7 warfare 7
+8036 ancient-history 32
+4622 france 14 language 14 napoleon 14 war 13 warfare 13 terminology 13 conflict 13 soviet-union 8 famine 8
+8108 economy 9 trade 9 gold 9
+8146 middle-ages 25 europe 25 poland 25 13th-century 25 disease 25
+16413 middle-ages 5 europe 5 poland 5 13th-century 5 disease 5
+8171 middle-ages 5 europe 5 poland 5 13th-century 5 disease 5
+8162 world-war-two 12 nazi-germany 12 women 12
+8156 world-war-two 7 nazi-germany 7 women 7
+8342 world-war-one 9
+8366 middle-ages 12 ancient-rome 12 cultural-history 12 britain 12
+5162 world-war-two 21 navy 21 submarine 21 ships 21 middle-ages 6 ancient-rome 6 cultural-history 6 britain 6
+4804 war 11 democracy 11 middle-ages 6 ancient-rome 6 cultural-history 6 britain 6
+10239 soviet-union 6 united-nations 6
+8909 united-states 6 law 6
+12626 20th-century 10 19th-century 10 international-relations 10
+3202 catholic-church 19 religion 15 middle-ages 10 hitler 9 spain 9 pope 9 astronomy 6 europe 5 christianity 5 sexuality 5 colonization 5 crusades 5 papacy 5
+8814 spain 12 religion 7 hitler 7 catholic-church 7 pope 7 china 5 british-empire 5 united-kingdom 5 international-relations 5
+8531 military 11 aircraft 11 identification 11
+11403 middle-ages 10 russia 10 archaeology 10
+10100 middle-ages 5 russia 5 archaeology 5
+4086 world-war-two 113 united-states 76 japan 52 nuclear-weapons 50 travel 47 military 43 renaissance 30 tactics 30 construction 26 ancient-rome 26 technology 26 industrial-revolution 26 denmark 20 19th-century 18 europe 18 middle-east 18 building 18 settlement 18 middle-ages 13 navigation 13 ancient-egypt 13 greco-persian-wars 13 ethiopia 13 transportation 12 england 11 victorian 11 naval 8 american-civil-war 8 american-revolution 8 world-war-one 6 warfare 6 armour 6 helmet 6 war 5 weapons 5 native-americans 5 15th-century 5
+8935 military 39 ancient-history 26 middle-ages 26 ancient-rome 26 naval 18 united-states 13 world-war-one 13 world-war-two 8 united-kingdom 8 religion 6 social-history 6 construction 5
+22220 ancient-history 25 slavery 25
+37609 ancient-history 6 slavery 6
+11685 europe 21 social-history 21 germany 20 middle-ages 16 calendar 16 time-keeping 16 cultural-history 11 political-history 9 political-geography 9 prussia 9 demography 5 marriage 5 family 5
+6468 world-war-two 43 military 43 tanks 43 war 5 monarchy 5
+10028 world-war-two 13 japan 13
+11544 ancient-history 9 ancient-rome 9 names 9
+17119 nazi-germany 6 uniform 6
+8806 china 11 british-empire 11 united-kingdom 11 spain 11 international-relations 11
+26751 world-war-two 5 naval 5 dday 5
+12334 united-states 5 19th-century 5 social-history 5 jews 5 slavery 5
+8925 world-war-one 6 technology 6 weapons 6
+8929 world-war-two 7 naval 7 weapons 7 world-war-one 7
+8296 france 28 germany 28 england 28 united-kingdom 28 international-relations 28
+10005 france 11 germany 11 england 11 united-kingdom 11 international-relations 11
+12654 ancient-history 8 military 8 middle-ages 8 ancient-rome 8
+9957 religion 56 ancient-greece 56 united-states 7 19th-century 7 political-history 7
+10068 religion 25 ancient-greece 25
+10056 religion 9 ancient-greece 9
+11636 ancient-egypt 13 israel 13 bible 13 archaeology 13
+26186 religion 6 islam 6 turkey 6 greece 6 population-transfer 6
+2280 weapons 17 american-civil-war 17
+10141 military 78 world-war-one 73 battle 65 strategy 65 united-states 54 world-war-two 54 american-civil-war 32 american-revolution 32 middle-ages 13 europe 13 classical-antiquity 13 slavery 9 australia 9 identification 9 uniform 9 soviet-union 8 poland 8 historical-accuracy 8 cryptology 8 polish-bolshevik-war 8 warfare 8 religion 6 islam 6 middle-east 6
+25505 world-war-two 6 france 6
+10250 warfare 10 medicine 10 cultural-history 10
+3085 soviet-union 19 election 19 warfare 8 medicine 8 cultural-history 8
+4715 warfare 6 medicine 6 cultural-history 6
+10315 ancient-rome 8 gladiators 8
+10311 ancient-rome 5 gladiators 5
+10332 war 6 warfare 6 weapons 6 artillery 6
+3866 india 32 language 32 music 11 records 11 military 8 battle 8
+11398 19th-century 6 everyday-life 6 transportation 6
+11397 19th-century 5 everyday-life 5 transportation 5
+10257 nazi-germany 49 world-war-two 44 holocaust 28 soviet-union 16 transportation 16 railroads 16 military 8 germany 8 naval 8 political-history 5 law 5 hitler 5
+8303 world-war-two 5 contemporary-history 5 united-nations 5
+835 18th-century 49 alcohol 49 caribbean 49 piracy 49
+11450 18th-century 27 alcohol 27 caribbean 27 piracy 27
+1469 europe 40 colonization 40 native-americans 40 disease 40 age-of-discovery 40
+11499 europe 7 colonization 7 native-americans 7 disease 7 age-of-discovery 7
+4026 world-war-two 40 naval 40
+6335 world-war-two 14 naval 14
+409 ancient-history 20 christianity 20 ireland 20
+6985 middle-ages 7 armour 7
+6500 20th-century 6 warfare 6 building 6
+11720 nuclear-weapons 26 20th-century 6 warfare 6 building 6
+5110 china 14 imperialism 14 colonization 14
+6889 nuclear 24 nuclear-weapons 24 world-war-two 13 japan 13 weapons 13 united-states 11 middle-ages 10 rulers 10 war 8 warfare 8 terminology 8 conflict 8
+10159 united-states 11 nuclear 11 nuclear-weapons 11
+11896 united-states 6 nuclear 6 nuclear-weapons 6
+8858 military 12 middle-ages 12 warfare 12 mongol-empire 12
+19407 world-war-two 522 united-states 231 cold-war 216 nazi-germany 202 world-war-one 134 military 118 japan 116 germany 116 soviet-union 108 war 85 government 81 warfare 67 holocaust 59 dictatorship 47 hitler 45 political-history 45 united-kingdom 42 israel 38 political-succession 35 mexico 31 historiography 30 british-empire 28 philippines 28 churchill 27 cryptology 27 economy 26 election 25 protests 25 jews 25 palestine 25 nuremberg-trial 23 19th-century 20 book 20 naval 19 20th-century 18 fascism 18 language 18 canada 18 decolonization 18 navy 15 age-of-sail 15 mathematics 15 historical-research 15 historical-techniques 15 statistics 15 railroads 15 18th-century 14 gold 14 war-crime 14 russia 14 submarine 13 eisenhower 13 europe 11 royalty 11 austria-hungary 11 habsburg 11 quotes 10 china 9 nazism 7 nuclear-weapons 6 weapons 6 industrial-history 6 everyday-life 6 weimar-republic 5
+1172 world-war-two 6 nazi-germany 6
+8897 social-history 11 historiography 11
+12282 catholic-church 11 byzantine-empire 11 ottoman-empire 11 crusades 11
+12304 world-war-two 16 world-war-one 16 tactics 16 tanks 16
+15188 native-americans 17 slavery 17 world-war-two 8 soviet-union 8 finland 8
+12415 world-war-two 6 soviet-union 6 finland 6
+15602 world-war-two 10 nazi-germany 10 russia 10 post-war 10 war 6 american-civil-war 6 civil-war 6
+12280 united-states 6 world-war-two 6 japan 6 navy 6
+12387 world-war-two 26 japan 20 world-war-one 11 1940s 6 ww2-pacific-theater 6 medieval-china 5 reference 5 climate 5 colonization 5
+12379 20th-century 20 everyday-life 20 fashion 20
+12375 20th-century 12 everyday-life 12 fashion 12
+3630 vikings 13 human-sacrifice 13
+12585 china 15 technology 15 science 15 needham 15
+12595 military 5 naval 5 napoleonic-wars 5 age-of-sail 5
+12645 china 6 exploration 6 south-east-asia 6
+16537 world-war-two 20 weapons 16 naval 11 united-states 11 election 11 1940s 10 post-war 10 soviet-union 10 military 6 nazi-germany 5 war 5
+12353 warfare 29 weapons 23 infantry 23 world-war-two 10 british-empire 10 middle-ages 6 marriage 6 ancient-history 6 military 6 china 6 ancient-china 6
+12758 19th-century 9 france 9 art 9 identification 9
+12709 historiography 6 maps 6
+2094 calendar 7
+23124 calendar 6
+12036 military 198 germany 162 world-war-two 160 europe 111 colonization 99 naval 59 cold-war 58 holocaust 57 nazi-germany 53 battle 50 historiography 48 religion 48 weapons 46 demography 35 statistics 35 bronze-age 34 soviet-union 30 victorian 29 japan 28 travel 23 uniform 23 imperial-germany 23 combat 23 tactics 21 nazism 21 netherlands 20 labour-history 20 jews 19 united-states 19 war 18 warfare 18 us-constitution 17 execution 16 islam 13 middle-east 13 aircraft 13 stalin 13 calendar 13 middle-ages 13 napoleonic-wars 13 french-revolution 13 french-empire 13 ancient-history 13 navy 12 roman-empire 11 vikings 11 international-relations 10 19th-century 9 armour 9 helmet 9 government 8 population 8 election 7 dictatorship 7 submarine 7 economy 7 money 7 consumer-goods 7 employment 7 propaganda 7 media 7 socialism 7 collapse 7 cities 5 assassination 5 trotskyism 5 nato 5 warsaw-pact 5 world-war-one 5 concentrational-camps 5
+12616 france 12 quotes 12 religion 11 astronomy 11
+6327 heraldry 58 iceland 58 flags 58 defense 31 castles 31 religion 10 historiography 6 methodology 6 proof 6
+16156 europe 7 15th-century 7 alcohol 7 netherlands 7 dutch 7
+13005 poland 5 16th-century 5
+12999 poland 5 16th-century 5
+13058 world-war-two 7 denmark 7
+13062 world-war-two 23 nazi-germany 23 soviet-union 23 20th-century 9 middle-east 9
+13006 ancient-history 7 ancient-greece 7 ancient-egypt 7 bronze-age 7 mediterranean 7
+11376 islam 15 byzantine-empire 15 arab 15 caliphate 15 sasanian-empire 15 ancient-history 9 ancient-rome 9 ancient-greece 9 piracy 9
+3936 islam 14 byzantine-empire 14 arab 14 caliphate 14 sasanian-empire 14
+13118 classical-antiquity 10 sculpture 10
+13129 france 12 quotes 12
+10300 war 38 warfare 38 terminology 33 conflict 33 china 18 world-war-two 14 international-relations 9 vietnam-war 9 korea 9 vietnam 9 nazi-germany 5 switzerland 5
+12979 war 20 warfare 20 terminology 20 conflict 20 ancient-history 10 ancient-greece 10 olympics 10 byzantine-empire 6 maps 6 language 6 greek 6
+14778 world-war-two 83 nazi-germany 42 hitler 41 literature 35 sealion 35 war 19 identification 16 maps 16 vietnam-war 13 tanks 13 germany 12 france 10 historiography 10 aircraft 10 europe 9 feudalism 9 holocaust 7 soviet-union 6 symbols 6
+13158 antarctica 22 russia 15 maps 10 cartography 10 germany 9 world-war-one 9 international-relations 9 colonial-america 6 historical-research 6 alaska 6 fur-trade 6
+13290 ancient-rome 13 law 13 crime 13
+13251 ancient-rome 16 roman-empire 16 ireland 16 celts 16
+12360 world-war-two 6 japan 6 naval 6
+13145 united-states 148 world-war-two 25 nuclear 25 weapons 22 age-of-sail 22 cold-war 10 international-relations 10 contemporary-history 10 vietnam-war 10 korean-war 10 sexuality 9
+13544 election 10 dictatorship 10
+13493 war 10 russia 10 mongol-empire 10
+13450 soviet-union 66 military 45 ancient-rome 44 russia 34 uniform 22 ancient-greece 20 world-war-one 18 belgium 18 weapons 15 law 15 automobiles 15 war 14 calendar 14 religion 13 greek-mythology 13 world-war-two 12 roman-republic 10 tactics 10 mongol-empire 7 poland 7 historical-accuracy 7 cryptology 7 polish-bolshevik-war 7
+13518 united-states 12 social-history 6 identity-documents 6 canada 6 treaties 6
+13499 france 88 europe 64 england 57 britain 31 clothing 31 flags 31 heraldry 31 ancient-rome 16 technology 16 industrial-revolution 16 monarchy 9 military 7 middle-ages 7 siege 7 castles 7
+13547 ancient-history 5 war 5 china 5 warfare 5 tactics 5
+14616 military 9 world-war-one 9 clothing 9 uniform 9
+22981 military 5 world-war-one 5 clothing 5 uniform 5
+6530 ancient-history 15 ancient-rome 15 ancient-greece 15
+19239 political-history 21 social-history 21 public-health 21 nazi-germany 5 holocaust 5 genocide 5
+14613 military 42 ancient-rome 42 weapons 42 roman-republic 42 tactics 42
+14625 military 15 ancient-rome 15 weapons 15 roman-republic 15 tactics 15
+14611 military 7 ancient-rome 7 weapons 7 roman-republic 7 tactics 7
+9943 middle-ages 13 war 10 international-relations 10 europe 8 economy 8 labour-history 8 guilds 8 agriculture 5
+17166 world-war-two 5 science 5 churchill 5
+13404 world-war-two 21 military 21 soviet-union 21
+11805 war 72 world-war-two 34 yugoslavia 34 international-relations 22 american-civil-war 16 civil-war 16 cold-war 11 communism 11 capitalism 11 world-war-one 8 migration 5
+14964 ancient-history 6 israel 6
+15001 ancient-rome 9 furniture 9 writing 9
+27705 ancient-rome 6 furniture 6 writing 6
+15128 world-war-two 11 nazi-germany 11
+14928 world-war-two 7 nazi-germany 7
+15113 war 17 warfare 17
+11674 war 10 warfare 10 world-war-one 8 germany 8 austria-hungary 8 1910s 8
+15118 war 8 warfare 8
+37688 world-war-one 10 austria-hungary 10
+17858 monarchy 6 royal-succession 6
+14741 soviet-union 9 united-states 6 world-war-two 6
+12705 naval 19 alcohol 19 united-states 6 food 6 terminology 6
+14709 europe 23 france 23 england 23
+13565 europe 14 france 14 england 14
+21755 europe 6 france 6 england 6
+15483 europe 6 france 6 england 6
+15261 economy 16 currency 9 money 9 united-states 7 18th-century 7 colonial-america 7 war 6 american-civil-war 6 civil-war 6
+29094 rulers 47 monarchy 37 world 37 government 37 dictatorship 37 battle 13 records 13 europe 10 england 9 language 9 royalty 9 norman 9 time-keeping 6
+15813 world-war-two 14 historiography 14 jews 14 holocaust 14
+15753 economy 8 currency 8 money 8
+15301 women 24 new-york 24 united-states 12 military 7 war 7
+3647 world-war-two 10 soviet-union 10 russia 7 president 7
+14718 military 5 medieval-china 5
+15973 soviet-union 5 russia 5 stalin 5
+12760 world-war-two 16 nautical 6 disasters 6 titanic 6 soviet-union 6 technology 6 metallurgy 6 industrial-history 6
+16073 war 48
+2435 war 38
+14587 nazi-germany 11 germany 11 cultural-history 11 hitler 11
+16137 world-war-two 18 holocaust 18 netherlands 18
+16219 turkey 6 writing 6
+16259 cultural-history 22
+16329 world-war-two 17 soviet-union 17 russia 17 weapons 17
+10200 world-war-two 24 france 24
+16501 world-war-two 7 nuclear-weapons 7 strategy 7 united-states 5 racism 5 1920s 5
+1392 united-states 14 world-war-two 14 ancient-history 10 industrial-revolution 10 industrial-history 10
+3254 american-civil-war 18 american-revolution 18 united-states 13 world-war-two 13
+13306 united-states 9 world-war-two 9
+11734 united-states 8 world-war-two 8 religion 8 england 8 reformation 8
+16773 world-war-two 132 military 106 japan 81 cold-war 61 war 58 world-war-one 58 spain 51 warfare 42 weapons 42 infantry 42 american-civil-war 37 battle 15 naval 10
+15114 military 5 naval 5 cold-war 5
+16952 social-history 34 death 32 statistics 32 military 32 age-of-sail 32 steamboat 32 commercial 32 political-history 29 public-health 29 technology 19 warfare 18 diplomacy 18 language 16 germany 10 austria 10 flags 10 national-symbols 10 england 10 slavery 5 economics 5 labour-history 5 middle-ages 5 europe 5 catholic-church 5 early-modern 5 cyprus 5
+1748 cultural-history 15 language 15 latin-language 15 romania 15
+17030 cultural-history 9 language 9 latin-language 9 romania 9
+4748 women 12 witchcraft 12 united-states 10 19th-century 10 social-history 10 technology 10 historical-techniques 10 ancient-history 7 greek-mythology 7
+28559 quotes 18 mexico 8 revolution 8 place-names 8 decolonization 8
+17772 middle-east 56 islam 56 ottoman-empire 56 independence 8 religion 8 russia 8 colonization 8 quotes 6
+23750 spaceflight 6
+30926 ancient-egypt 8 pyramids 8
+16157 world-war-two 7 tanks 7 combat 7
+19384 political-history 7 switzerland 7 women 7 voting 7
+17332 united-states 11 world-war-two 11 japan 11 australia 11
+17326 world-war-one 19
+17636 ancient-rome 10 ancient-greece 10 anthropology 10 world 10
+15023 ancient-rome 6 ancient-greece 6 anthropology 6 world 6
+16951 world-war-two 149 united-states 148 japan 117 middle-ages 80 military 74 ancient-history 54 world-war-one 50 language 50 colonial-america 50 naval 45 religious-history 44 warfare 43 building 40 russia 39 ethnicity 36 europe 36 alaska 29 france 27 roman-empire 25 identification 25 england 25 agriculture 25 nuclear-weapons 24 social-history 20 everyday-life 19 modern 19 witchcraft 19 american-revolution 18 art 17 international-relations 17 catholic-church 17 hundred-years-war 15 us-constitution 15 diplomatic-history 13 president 11 ancient-rome 11 slavery 11 hygiene 11 aircraft 11 immigration 10 mathematics 9 diplomacy 8 17th-century 8 ancient-egypt 8 weapons 7 germany 7 demonym 7 holocaust 7 auschwitz 7 infantry 7 stalin 6 spain 6 renaissance 6 age-of-discovery 6 south-america 5 dutch-empire 5 venezuela 5 mongol-empire 5
+17601 american-revolution 23 language 21 invasion 15 annexation 15
+17609 american-revolution 14
+17507 germany 84 language 84 demonym 84 united-kingdom 15 britain 15 monarchy 15
+18911 ancient-greece 8 geography 8 greek-mythology 8
+12613 sexuality 8
+23360 nazi-germany 11 racism 11 sports 11 olympics 11
+16335 world-war-two 29 nazi-germany 29 20th-century 16 soviet-union 16 middle-east 16 warfare 13
+19015 world-war-two 12 nazi-germany 12 warfare 12
+26446 vikings 7
+16933 ancient-history 90 defense 89 castles 89 time-keeping 75 greece 75 world-war-two 38 soviet-union 20 stalin 20 nazi-germany 18 hitler 18 archaeology 15 agriculture 15 prehistory 15 civilizations 15 crusades 10 battle 7 alcohol 7
+19178 military 8 battle 8
+19186 nazi-germany 10 weimar-republic 10 rulers 5
+251 science 86 albert-einstein 86
+19209 science 16 albert-einstein 16
+17186 military 35 world-war-one 5 warfare 5 british-empire 5 naval 5 imperial-germany 5
+17620 world-war-two 44 united-states 36 contemporary-history 25 north-america 25 washington-state 25 military 24 astronomy 23 nazi-germany 19 china 6 russia 6 american-revolution 6 clothing 5
+19260 world-war-two 6 military 6 nazi-germany 6
+4718 women 11 witchcraft 11
+6353 military 6 cultural-history 6 mongol-empire 6 conquest 6
+15856 world-war-two 22 espionage 12 assassination 12 czechoslovakia 12 cia 12 middle-ages 11 ancient-history 11 language 11 nazi-germany 10 soviet-union 10 ancient-greece 8 literature 8 philosophy 8 writing 8 world 8
+19302 military 18 world-war-one 18 battle 18 strategy 18
+19334 war 19 slavery 19 military 13 naval 13 aircraft 13
+19347 military 9 naval 9 aircraft 9
+31422 war 8 slavery 8
+21034 romania 6 moldova 6
+28185 middle-ages 19 europe 14 forestry 14 catholic-church 12 colonization 10 religion 8 art 8 renaissance 8 early-modern 8 diplomacy 7 religious-history 7 diplomatic-history 7 colonial-america 5 education 5 spanish-empire 5 portuguese-empire 5 crusades 5 papacy 5
+19562 political-history 30 united-kingdom 30 women 30 voting 30
+6607 political-history 27 united-kingdom 27 women 27 voting 27
+4138 political-history 11 united-kingdom 11 women 11 voting 11
+19526 political-history 9 united-kingdom 9 women 9 voting 9
+19594 political-history 6 united-kingdom 6 women 6 voting 6
+19495 ancient-rome 67 ancient-history 28 building 28 spain 13 independence 13 catalonia 13 military 7 civil-war 7 rebellion 7
+8103 south-america 8 dutch-empire 8 venezuela 8 spain 5 independence 5 catalonia 5
+19684 world-war-two 5 soviet-union 5 stalin 5
+19729 technology 61
+20749 technology 26
+19742 technology 20 united-states 5 19th-century 5 social-history 5 historical-techniques 5
+20818 world-war-two 11 war 11 nazi-germany 11 soviet-union 11 technology 8
+19561 religion 7 anthropology 7
+19392 united-states 83 election 83 protests 83 military 32 europe 32 world-war-one 32 contemporary-history 32 ancient-history 15 ancient-rome 11 lenin 11 fashion 9 england 9 feudalism 9 13th-century 9 language 6 greek 6 economy 6 immigration 6 cities 6 religion 5 anthropology 5 jews 5 israel 5
+17718 england 18 united-kingdom 18 ireland 18 scotland 18 great-britain 18
+20874 england 13 united-kingdom 13 ireland 13 scotland 13 great-britain 13
+19246 united-states 23 religion 23 washington-state 23 west-coast 23 ancient-china 19 symbols 13 middle-ages 6 historiography 6 early-medieval 6
+17544 middle-ages 8 technology 8 mongol-empire 8 ancient-greece 6
+22813 middle-ages 22 military 13 english-army 13 europe 9 cultural-history 9
+21394 middle-ages 7 europe 7 cultural-history 7
+15132 world-war-two 107 united-states 97 contemporary-history 97 north-america 97 washington-state 97 japan 14 19th-century 9 soviet-union 5 world-war-one 5 diplomacy 5 switzerland 5
+26252 historiography 110 book 110 literature 110 writing 110 biography 110 political-history 38 communism 38 quotes 22 warfare 22 diplomacy 22 ancient-history 21 industrial-revolution 21 industrial-history 21 napoleonic-wars 20 population-transfer 20 world-war-two 12 nazi-germany 12 israel 12 slavery 10 europe 7 ancient-rome 5 ancient-greece 5
+12858 saudi-arabia 5
+21138 world-war-two 17 military 17 tanks 17 europe 16 rulers 16 soviet-union 6 russia 6 spaceflight 6
+21134 world-war-two 14 military 14 tanks 14
+5151 military 30 europe 23 war 23 reformation 23 world-war-two 7 tanks 7
+3857 economy 7 india 7 coins 7 ancient-india 7
+12815 economy 22 soviet-union 22 transportation 22 russia 6 russian-revolution 6
+21365 economy 5 soviet-union 5 transportation 5
+23466 cultural-history 15 hellenistic-greece 15
+34656 united-states 6
+21295 economy 5 soviet-union 5 consumer-goods 5
+6994 economy 46 soviet-union 46
+2510 military 5 warfare 5
+26250 soviet-union 7 russia 7 russian-revolution 7 czechoslovakia 7
+12401 united-states 19 constitution 19 gun-politics 19
+13326 american-civil-war 67 abraham-lincoln 27 united-states 24 confederacy 24 jews 11 historiography 5 slavery 5
+8226 annexation 12
+21451 annexation 10
+21453 annexation 8
+21464 annexation 7
+21477 annexation 6
+21245 annexation 6
+21491 political-history 32 social-history 32 public-health 32
+21494 political-history 24 social-history 24 public-health 24
+8581 political-history 6 social-history 6 public-health 6
+21496 political-history 34 international-relations 34 modern 34
+13512 political-history 20 international-relations 20 modern 20
+16565 political-history 14 international-relations 14 modern 14
+21500 political-history 13 international-relations 13 modern 13
+1242 historiography 7 bronze-age 7 ancient-egypt 5 cultural-history 5 settlement 5
+4832 ancient-history 5 jews 5
+1791 soviet-union 8
+13335 soviet-union 7
+21466 warfare 9 weapons 9 infantry 9
+22212 europe 5 world-war-one 5 royalty 5 austria-hungary 5 habsburg 5
+21773 united-states 23 cities 23 george-washington 23
+8753 united-states 17 cities 17 george-washington 17
+17083 united-states 5 cities 5 george-washington 5
+21801 20th-century 10 19th-century 10 transportation 10 engineering 10
+16260 20th-century 7 19th-century 7 transportation 7 engineering 7
+32932 ancient-rome 7 religion 7 jews 7 christianity 7 jesus 7
+19428 20th-century 8 transportation 8 engineering 8
+22028 world-war-two 19 native-americans 19
+22024 world-war-two 10 native-americans 10 ancient-history 7 ancient-egypt 7 food 7 navy 7
+21946 demography 11 population 11 war 5 middle-east 5 crusades 5 invasion 5 russia 5 government 5 sex 5 maps 5
+17451 united-states 46 world-war-two 46 contemporary-history 46 north-america 46 washington-state 46
+32766 united-states 7 cultural-history 7
+22166 united-states 5 world-war-two 5 contemporary-history 5 north-america 5 washington-state 5
+22230 united-states 5 world-war-two 5 soviet-union 5 japan 5 submarine 5
+21330 world-war-two 35 holocaust 16 ancient-rome 7 economy 7 tactics 7 cavalry 7 united-states 5 russia 5 communism 5
+27993 world-war-two 5 britain 5 cyprus 5
+3147 technology 5 computers 5
+21523 economy 98 government 98 independence 24 democracy 8 nazi-germany 6 identification 6 money 6 numismatics 6
+21618 independence 5
+22040 europe 16 marriage 16
+21912 united-states 6 19th-century 6 18th-century 6 gold 6
+21851 world-war-two 11 japan 11 maps 11
+22605 ancient-history 13 industrial-revolution 13 industrial-history 13 united-states 6 world-war-two 6 united-kingdom 6
+21467 united-states 25 contemporary-history 25 south-america 25 inca 25
+21981 united-states 152 military 152 europe 125 war 87 contemporary-history 86 world-war-one 65 north-america 45 soviet-union 37 religion 37 washington-state 37 west-coast 37 mexico 29 texas 29 photography 27 reformation 23 south-america 21 inca 21 russia 16 napoleon 16 china 14 18th-century 12 colonial-america 12 president 12
+22824 china 53
+22810 china 20
+22855 world-war-two 9 royalty 9
+22895 holocaust 9 nuremberg-trial 9
+17687 naval 18 transportation 18 ships 18 ocean 18 ancient-history 17 middle-ages 17 drugs 17 world-war-two 9 nazi-germany 9 holocaust 9 social-history 9 economy 7 money 7 labour-history 7 consumer-goods 7 employment 7
+959 middle-ages 6 historiography 6 early-medieval 6
+23025 religion 5 roman-empire 5 law 5
+23020 united-states 6 russia 6 north-america 6 napoleon 6
+23088 united-states 15 military 15 europe 15 war 15 soviet-union 15
+23620 middle-ages 20 disease 20 black-death 11 muslims 9
+23036 middle-ages 5 disease 5 black-death 5
+23110 soviet-union 8 russia 8 world-war-one 8 calendar 8
+23188 war 15
+23187 war 13
+22039 war 9
+23192 united-states 11 world-war-two 11 japan 11 nuclear-weapons 11
+23258 united-states 10 religion 10 washington-state 10 west-coast 10
+27925 europe 10 17th-century 10 identification 10 flags 10 netherlands 10
+23350 military 9 europe 9 war 9 reformation 9
+23353 military 5 europe 5 war 5 reformation 5
+23473 hitler 7 literature 7
+23489 quotes 47
+23499 quotes 6
+25510 american-revolution 6
+14775 ancient-rome 5 technology 5 industrial-revolution 5
+23591 france 5 17th-century 5
+23712 identification 11 uniform 11
+23797 military 30 middle-ages 30 english-army 30 world-war-two 29 navy 29 submarine 29 native-americans 9 15th-century 9
+24010 ancient-history 8 archaeology 8 agriculture 8 prehistory 8 civilizations 8
+23557 ancient-history 5 archaeology 5 agriculture 5 prehistory 5 civilizations 5
+23912 military 5 middle-ages 5 english-army 5
+24800 india 5 mughals 5
+24209 united-states 5 military 5 war 5
+24322 united-states 33 north-america 33 canada 33 south-america 33
+24303 united-states 20 north-america 20 canada 20 south-america 20
+24316 united-states 8 north-america 8 canada 8 south-america 8
+16549 united-states 8 north-america 8 canada 8 south-america 8
+24324 united-states 7 north-america 7 canada 7 south-america 7
+8351 united-states 6 north-america 6 canada 6 south-america 6
+4790 united-states 6 russia 6 ethnicity 6 alaska 6
+5117 world-war-two 107 churchill 107 cryptology 107
+24528 world-war-two 6 churchill 6 cryptology 6
+24505 middle-east 21 islam 21 ottoman-empire 21
+15620 middle-ages 44 invasion 43 annexation 43 social-history 36 judaism 36 science 34 17th-century 34 witchcraft 34 world-war-two 30 russia 30 weapons 30 german 30 military 27 political-history 20 records 20 royalty 18 ancient-rome 12 economy 12 trade 12 agriculture 12 animals 9 political-geography 9 place-names 9 toponymy 9 everyday-life 8 south-east-asia 8 19th-century 7 technology 7 literature 7
+24603 europe 70 science 47 early-medieval 47 monarchy 23 inheritance 23 economy 16 industrial-history 16 natural-resources 16
+16355 economy 7 russia 7 finance 7 caribbean 7 venezuela 7
+24801 world-war-two 5
+24900 military 23 tactics 23 tanks 23 iraq 23 gulf-war 23
+24902 military 11 tactics 11 tanks 11 iraq 11 gulf-war 11
+10027 government 11 dictatorship 11 russia 10 war 5 california 5 mexico 5 spanish-empire 5 religion 5 colonization 5
+24930 american-civil-war 5 abraham-lincoln 5
+12030 political-history 5 philosophy 5 terminology 5 social-history 5 sociology 5
+32314 united-kingdom 8 iran 8
+21962 travel 31 ancient-history 31 europe 5 naval 5 age-of-sail 5 medieval-china 5
+8674 travel 9 ancient-history 9
+23090 travel 7 ancient-history 7
+16714 britain 22 nobility 16 europe 5 economy 5 united-kingdom 5
+26500 world-war-two 175 ancient-history 134 military 125 nazi-germany 125 execution 125 russia 88 soviet-union 82 holocaust 75 industrial-revolution 70 industrial-history 70 naval 64 ships 64 nazism 52 concentrational-camps 52 jews 47 antisemitism 47 symbols 47 spaceflight 35 death 27 demography 27 population 27 religion 6 exploration 6 church 6
+15450 ancient-history 13 middle-ages 13 drugs 13 government 10 dictatorship 10
+25049 ancient-history 11 ancient-rome 11 economy 11 immigration 11 cities 11
+25241 roman-empire 5 language 5
+4937 naval 5 crime 5 age-of-sail 5
+24126 crusades 5
+25295 historiography 11 world 11
+25308 historiography 7 world 7
+25344 nazi-germany 7 law 7 jews 7 holocaust 7
+24901 nazi-germany 6 1930s 6
+34162 social-history 5 mathematics 5
+9939 world-war-two 84 nazi-germany 84 holocaust 84
+12126 world-war-two 8 nazi-germany 8 holocaust 8
+25576 world-war-two 6 nazi-germany 6 holocaust 6
+25581 world-war-two 5 nazi-germany 5 holocaust 5
+25567 world-war-two 12 nazi-germany 12 poland 12
+22536 19th-century 39 technology 39 literature 39 world-war-two 28 submarine 15 asdic 15 ancient-history 10 political-history 10 quotes 10 napoleonic-wars 10 united-states 8 nazi-germany 8 calendar 7 espionage 5 assassination 5 czechoslovakia 5 cia 5
+25872 20th-century 10 photography 10 disasters 10 titanic 10 steamboat 10
+25769 ancient-history 11 ancient-greece 11 olympics 11 india 5 ancient-india 5
+25909 middle-ages 8 food 8 roman 8
+25931 nazi-germany 13 germany 13 hitler 13
+25935 nazi-germany 6 germany 6 hitler 6
+25904 world-war-one 30 united-kingdom 30 ireland 30 conscription 30
+14920 world-war-two 5 nazi-germany 5 war-crime 5
+26021 germany 33 ethnicity 33 demonym 33
+26034 germany 8 ethnicity 8 demonym 8
+26014 germany 5 ethnicity 5 demonym 5
+26084 nazi-germany 10 hitler 10 political-succession 10
+26096 united-states 7 political-history 7 government 7
+26133 war 17 warfare 17 food 6
+12364 ancient-rome 58 ancient-history 32 roman-empire 32 customs 32 mathematics 26
+79 law 23 transportation 23 alcohol 23
+22660 ancient-history 13 medicine 13 historical-techniques 13
+26174 trade 28 colonial-america 28 transportation 28 spanish-empire 28 ancient-history 21 middle-ages 12 language 12 ireland 10 marriage 10 medicine 9 historical-techniques 9 ancient-rome 8 police 8
+33563 mesoamerica 5 aztec 5 maya 5
+13229 united-states 6 geography 6 cities 6
+8315 world-war-two 9
+26361 world-war-one 14
+2666 world-war-one 6
+26421 dictatorship 10
+26415 military 20
+26448 military 13
+16555 military 8
+26373 war 8 democracy 8
+26487 military 17 ancient-history 17 ancient-rome 17 carthage 17 punic-wars 17
+26568 military 7 ancient-history 7 ancient-rome 7 carthage 7 punic-wars 7
+25028 ancient-history 33 building 19 middle-ages 17 india 15 ancient-india 15 invasion 15 indochina 15 anthropology 14 language 14 persia 14 mongol-empire 12 mongols 12 europe 10 catholic-church 10 early-modern 10 cyprus 10 world-war-one 9 weapons 9 russian-civil-war 9 britain 8 prehistory 8 celts 8 jews 6 ethnicity 6
+26718 victorian 10 family 10 childbirth 10
+26709 world-war-two 11
+26849 soviet-union 17 cold-war 17 nuclear 17 records 5 railroads 5 world-war-two 5 war 5 warfare 5
+19204 europe 11 soviet-union 11 education 11
+26852 europe 6 soviet-union 6 education 6
+24804 europe 5 soviet-union 5 education 5
+28568 middle-ages 9 law 9 vikings 9 scandinavia 9
+26295 ancient-history 6 book 6 historical-research 6 revisionism 6
+27030 united-states 15 world-war-two 15 japan 15 philippines 15
+24439 world-war-two 37 nazi-germany 25 war 25 warfare 25 switzerland 25 united-states 19 military 19 tanks 12 infantry 6
+27071 united-states 6 military 6
+5012 naval 7
+4853 naval 6
+3804 world-war-two 31 political-history 31 united-kingdom 31 britain 31 naval 5
+27312 christianity 5 jesus 5
+27432 world-war-two 7 poland 7 aircraft 7
+22868 cultural-history 137 language 137 united-states 30 race 30
+27605 cultural-history 16 language 16
+27431 world-war-two 53 military 53 soviet-union 53 ancient-rome 44 mathematics 44
+27967 ancient-history 24 industrial-revolution 24 industrial-history 24
+8616 ancient-history 17 industrial-revolution 17 industrial-history 17
+26736 ancient-history 14 industrial-revolution 14 industrial-history 14 world-war-two 7 social-history 7 jews 7 judaism 7
+27942 ancient-history 12 industrial-revolution 12 industrial-history 12
+17080 ancient-history 15 industrial-revolution 9 industrial-history 9 archaeology 6 classical-antiquity 6
+21278 africa 28 rhodesia 28 zimbabwe 28 middle-ages 8 cultural-history 8 art 8 literature 8 music 8 ancient-history 7 language 7 britain 7 early-medieval 7 latin 7
+17817 ancient-history 7 ancient-rome 7 coins 7
+28054 ancient-history 18 building 18
+27247 slavery 32 africa 32 agriculture 32 atlantic-slave-trade 32 brazil 32
+28134 orthodoxism 10
+33274 religion 48 religious-history 48 calendar 5 modern 5
+12386 world-war-two 14 soviet-union 14 ancient-history 11 britain 11 prehistory 11 anthropology 11 celts 11 middle-ages 11 mongol-empire 11 war 8 steppe-nomads 8 science 8 16th-century 8 chemicals 8 roman-empire 6 religion 6 christianity 6 infantry 5
+28454 world-war-two 7 soviet-union 7
+27791 middle-ages 30 england 30 ancient-greece 30 13th-century 30 greek-mythology 30
+16426 israel 8 palestine 8 1960s 8
+8467 middle-ages 6 england 6 vikings 6 terminology 6 anglo-saxons 6
+28642 ancient-egypt 31 africa 31 navigation 31
+28679 military 5 middle-ages 5 technology 5 armour 5 combat 5
+12861 united-states 13 1960s 13 civil-rights 13
+28709 united-states 8 1960s 8 civil-rights 8
+28782 ancient-rome 9 classical-antiquity 9 book 9 writing 9
+25732 world-war-two 42 stalin 34 soviet-union 29 finland 29 military 8 government 8 middle-ages 7 monarchy 7 travel 7 north-america 5 vikings 5 precolumbian-contact 5 exchange 5
+26467 political-history 32 quotes 32 napoleonic-wars 32 spaceflight 23 europe 22 naval 22 age-of-sail 22 medieval-china 22 government 19 dictatorship 19 catholic-church 5 church 5 rome 5
+28053 united-states 26 political-history 26 racism 26
+28886 middle-ages 8 europe 8 warfare 8 international-relations 8 catholic-church 8
+27773 ancient-history 52 naval 52 ships 52
+17674 soviet-union 9
+29229 united-states 15 soviet-union 15 cold-war 15 geography 15
+28932 ancient-history 75 ancient-greece 75 homer 75 world-war-two 58 war 58 tanks 58 united-states 17 quotes 14 napoleon 14 infantry 13 soviet-union 11 cold-war 11 geography 11 law 6 olympics 6 1980s 6 british-empire 5 colonial-america 5
+17804 communism 19 names 19 north-korea 19 united-states 6 soviet-union 6 cold-war 6 geography 6 democracy 6 independence 6
+14722 soviet-union 43 government 31 diplomacy 26 treaty 26 nuclear-weapons 14 cold-war 12 battle 11 records 11 19th-century 8 weapons 8 armour 8 world-war-two 7 navy 7 vietnam-war 7 united-states 5 geography 5 ancient-rome 5 roman-empire 5 roman-republic 5
+29262 germany 29 vikings 7 iceland 7
+29340 world-war-two 11 germany 11 nazism 11 nuremberg-trial 11
+29398 germany 6
+28770 world-war-two 7 political-history 7 united-kingdom 7 britain 7
+21524 government 24 military 17 dictatorship 16 civil-war 11 rebellion 11 economy 8 age-of-sail 6 steamboat 6 commercial 6 world-war-two 5 soviet-union 5
+26510 armour 60 warfare 51 ancient-greece 51 sparta 51 military 9 england 9 anglo-saxons 9
+30994 england 46 food 46 transportation 46 modern 46
+15180 england 5 food 5 transportation 5 modern 5
+12042 soviet-union 6 nuclear-weapons 6
+31040 soviet-union 5 nuclear-weapons 5
+1350 everyday-life 20
+31041 everyday-life 7
+31124 everyday-life 5 middle-ages 5 food 5 geography 5
+28600 everyday-life 5
+33565 military 6 identification 6 uniform 6
+26479 world-war-two 8 hitler 8
+31285 ancient-egypt 9
+31292 ancient-egypt 7
+31289 ancient-egypt 6
+32100 war 5 technology 5 health 5
+31448 world-war-two 9 military 9 japan 9 bombing 9 ww2-pacific-theater 9
+31469 nazi-germany 11 germany 11
+31542 england 11 18th-century 11 language 11
+31565 military 5 middle-ages 5 women 5
+31561 world-war-two 65 nazi-germany 65 naval 65 navy 65 submarine 65 monarchy 16 money 6
+24178 social-history 28 racism 28
+26459 social-history 11 racism 11
+1445 europe 72 science 72 early-medieval 72 military 14 ancient-history 14 ancient-rome 14
+14911 europe 25 science 25 early-medieval 25
+31460 religion 152 middle-ages 113 roman-empire 78 byzantine-empire 78 names 78 england 76 reformation 76 american-civil-war 52 ancient-history 42 ancient-rome 42 ancient-greece 42 religious-history 34 christianity 27 astronomy 7 demography 6 population 6 political-history 6 cultural-history 6 history-of-ideas 6
+31868 religion 9 england 9 reformation 9
+31941 demography 7 population 7
+32015 monarchy 53 ancient-history 24 rulers 24 middle-ages 19 travel 19 europe 13 naval 13 age-of-sail 13 medieval-china 13 political-history 12 communism 12 diplomacy 8 treaty 8
+32029 middle-ages 25 rulers 25
+22181 monarchy 39
+22828 monarchy 16
+32039 monarchy 11
+13203 world-war-two 36 military 36 nazi-germany 36 execution 36
+24512 writing 58 china 50 language 50 death 28 conflict 28 middle-ages 25 europe 25 women 25 historiography 8 book 8 literature 8 biography 8
+8611 death 10 conflict 10
+22046 europe 50 naval 50 age-of-sail 50 medieval-china 50
+25797 europe 20 ancient-rome 18 sources 18 classical-antiquity 18 celts 18 naval 11 age-of-sail 11 medieval-china 11 middle-ages 9 forestry 9
+10074 china 9 language 9 writing 9
+32080 nazi-germany 7 weapons 7 identification 7 sword 7 war 5 world 5 art 5 literature 5
+25411 world-war-two 56 cold-war 51 19th-century 34 armour 34 helmet 34 russia 30 military 27 nazi-germany 27 20th-century 20 soviet-union 17 aircraft 14 holocaust 13 railroads 13 religion 11 judaism 11 ancient-rome 9 jews 9 israel 9 ancient-history 8 ancient-greece 8 homer 8 women 7 gender 7 submarine 6 asdic 6 aviation 6
+12805 world-war-two 68 russia 68 germany 68
+32134 world-war-two 33 russia 33 germany 33
+32389 world-war-two 30 russia 30 germany 30
+32369 world-war-two 21 russia 21 germany 21
+26686 world-war-two 7 russia 7 germany 7
+26516 world-war-two 7 russia 7 germany 7
+23991 world-war-two 20
+23839 world-war-two 28 nazi-germany 10 soviet-union 10 sources 10
+32522 europe 13 rulers 13
+32531 15th-century 7 names 7 14th-century 7 hundred-years-war 7
+12579 abraham 6
+32567 religion 5 germany 5 demography 5 statistics 5
+32580 world-war-one 10 warfare 10
+32615 military 5 18th-century 5 17th-century 5 tactics 5
+32625 world-war-two 6 nazi-germany 6 soviet-union 6 sources 6
+32635 world-war-two 33 nazi-germany 33 naval 33 navy 33 submarine 33
+29720 world-war-two 21 nazi-germany 21 naval 21 navy 21 submarine 21
+27427 world-war-two 5 weapons 5
+19106 united-states 8 political-history 8
+21089 united-states 8 statistics 8 incarceration 8
+32741 military 24 middle-ages 24
+11999 demography 6 pacific-islanders 6 hawaii 6
+32819 united-states 21 world-war-two 21 japan 21
+32092 roman-empire 43 byzantine-empire 43 rome 43 europe 18 nuclear-weapons 12 vietnam-war 12 political-history 10 england 10 monarchy 10 political-succession 10 netherlands 6 kingdom 6 technology 6 united-states 5 geography 5 border 5 ancient-history 5 ancient-rome 5 religion 5 ancient-greece 5
+24367 native-americans 14
+33007 independence 9 algeria 9
+33027 united-states 10 slavery 10 american-civil-war 10
+13040 trade 22 colonial-america 22 transportation 22 spanish-empire 22
+33062 trade 15 colonial-america 15 transportation 15 spanish-empire 15
+28234 trade 13 colonial-america 13 transportation 13 spanish-empire 13 20th-century 8 world-war-one 8 revisionism 8
+10095 world-war-two 13 military 13 eisenhower 8 20th-century 5
+33217 military 6 ancient-greece 6
+3945 cultural-history 93 food 93
+24310 cultural-history 17 food 17 invasion 8 annexation 8
+13175 cultural-history 7 food 7
+34605 cultural-history 5 food 5
+33393 world-war-two 24 military 24 government 24
+33415 government 43 dictatorship 43
+19545 government 13 dictatorship 13
+33429 government 10 dictatorship 10
+33410 government 8 dictatorship 8
+17686 economy 26 government 26
+36792 india 6 ancient-india 6 invasion 6 indochina 6
+33715 religion 42 religious-history 42
+29520 religion 12 religious-history 12
+33737 religion 11 religious-history 11
+33745 religion 10 religious-history 10
+33793 vikings 11
+33797 vikings 10
+33089 world-war-two 61 europe 31 asia 31 sino-japanese-war 31 espionage 16 slavery 11 american-civil-war 11 naval 8 ships 8 ww2-pacific-theater 8 united-states 6 consumer-goods 6 nazi-germany 5 weapons 5 cold-war 5 tanks 5 syria 5
+33423 world-war-one 36 tactics 36 middle-ages 14 malta 14
+13039 world-war-one 35 tactics 35 political-history 18 communism 18
+13327 world-war-one 7 tactics 7
+34492 1960s 5 1970s 5 computers 5
+33855 language 30 europe 22 19th-century 8 africa 6 geography 6 libya 6
+33933 united-states 7 american-civil-war 7 confederacy 7
+24516 united-states 16 us-constitution 16
+33923 united-states 5 us-constitution 5
+33930 united-states 8 world-war-two 8 japan 8
+32209 warfare 15 diplomacy 15
+33939 warfare 7 diplomacy 7
+32585 united-states 15
+12012 world-war-two 7 europe 7 asia 7 sino-japanese-war 7
+34097 world-war-two 5 europe 5 asia 5 sino-japanese-war 5
+18963 ancient-history 10 ancient-greece 10 homer 10
+34288 food 48
+34318 women 73 voting 73
+34311 women 70 voting 70
+33842 women 5 voting 5
+34428 cold-war 84
+34439 cold-war 16
+33611 everyday-life 35 climate 35 people 35
+26571 war 34 historiography 34
+34663 invasion 31 annexation 31
+34670 invasion 21 annexation 21
+33625 invasion 5 annexation 5
+34782 united-states 12 world-war-two 12 war 12 japan 12
+34790 native-americans 9 new-world 9 migration 9 alaska 9
+8350 united-states 12 founding-fathers 12
+19423 language 37
+19519 food 47 everyday-life 47 children 47
+26586 industry 9 internet 9
+36126 stalin 12
+36136 cold-war 20 international-relations 20 nazi-germany 7 hitler 7
+36167 cultural-history 25 art 25 women 25 social-class 25 sociology 25
+36270 american-civil-war 6
+23447 technology 20 war 15
+36448 historiography 6 bronze-age 6
+14999 world-war-two 13 navy 13
+28753 world-war-two 21 military 21 20th-century 21
+36523 world-war-two 6 military 6 20th-century 6
+19283 world-war-two 5 military 5 20th-century 5
+36644 medieval-china 9 reference 9 climate 9
+36215 medieval-china 6 reference 6 climate 6
+22729 world-war-two 15 world-war-one 15 weapons 15
+2361 political-history 75 communism 75
+33405 political-history 61 communism 61 world-war-two 39 nazi-germany 39 war 39 warfare 39 switzerland 39
+36932 political-history 32 communism 32
+36933 political-history 26 communism 26
+31806 political-history 8 communism 8
+17426 19th-century 6 industrial-history 6
+28672 military 10 age-of-sail 10 steamboat 10 commercial 10
+37065 united-states 18 19th-century 18 18th-century 18 slavery 18 bible 11 religious-history 11 timeline 11
+25549 bible 7 religious-history 7 timeline 7
+25560 contemporary-history 17 president 17
+2135 classical-antiquity 27 literature 27
+31722 world-war-two 46 military 46 20th-century 46 nazi-germany 46 aircraft 46 middle-ages 14 navigation 14 new-zealand 14 madagascar 14 austroneisan 14
+27508 roman-empire 91 rome 91
+38607 germany 29 nazi-germany 28 religion 18 architecture 18 18th-century 17 france 12 britain 12 communication 12 hitler 11 cold-war 11 berlin-wall 11 world-war-two 10 war 10 warfare 10 switzerland 10 economy 7 everyday-life 7 nazism 7 racism 7 ethnicity 7 language 5
+27668 world-war-two 12 nazi-germany 12
+33148 book 109 media 109 movies 109 television 109
+25244 book 24 media 24 movies 24 television 24
+25557 book 10 media 10 movies 10 television 10
+37945 europe 9 language 9 historiography 5 book 5 literature 5 writing 5 biography 5
+15651 identification 5 contemporary-history 5
+28850 historiography 30 book 30 literature 30 writing 30 biography 30 middle-ages 24 europe 24 women 24
+38123 ancient-greece 9 sexuality 9 alexander-the-great 9
+34291 historiography 28 book 28 literature 28 writing 28 biography 28
+38126 historiography 23 book 23 literature 23 writing 23 biography 23
+38130 historiography 12 book 12 literature 12 writing 12 biography 12
+34380 historiography 10 book 10 literature 10 writing 10 biography 10
+38120 historiography 8 book 8 literature 8 writing 8 biography 8
+19370 ancient-history 6 ancient-rome 6 ancient-greece 6 technology 6 17th-century 6
+38223 england 5 feudalism 5 13th-century 5
+20927 england 6 identification 6 modern 6 occupations 6
+1754 cold-war 10 international-relations 10 democracy 5 independence 5
+26895 europe 5 middle-east 5 building 5 construction 5 settlement 5
+38422 technology 11
+38825 weapons 35
+38649 middle-ages 17 europe 17
+34552 world-war-two 21 nazi-germany 21 war 21 warfare 21 switzerland 21
+16770 religion 7 germany 7 architecture 7
+17684 middle-ages 7 law 7 education 7 greece 7
+39024 diplomacy 42 treaty 42
+39035 diplomacy 14 treaty 14
+40598 diplomacy 5 treaty 5
+37835 ancient-history 5 science 5 gold 5 engineering 5 secrecy 5
+39186 art 8 reference 8
+29806 law 31 mesopotamia 31 ancient-babylon 31 code-of-hammurabi 31
+21888 democracy 39 independence 39
+4724 democracy 13 independence 13
+26086 democracy 11 independence 11
+38309 germany 16 quotes 16 imperial-germany 16
+40360 military 10 ancient-history 10 ancient-rome 10
+37219 world-war-two 9 tanks 9
+4298 united-states 33 law 33
+38776 weapons 12 us-constitution 12
+22119 world-war-two 12
+34359 australia 97
+22252 australia 7
+14952 world-war-one 11
+23683 battle 6 records 6
+41040 world-war-two 18 military 18 20th-century 18 nazi-germany 18 aircraft 18
+24363 world-war-two 6 military 6 20th-century 6 nazi-germany 6 aircraft 6
