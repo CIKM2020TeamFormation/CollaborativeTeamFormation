@@ -127,7 +127,82 @@ class teamformation:
         out=tf.nn.softmax(tf.reshape(predicted_d_score_temp,(batch_size,)))       
         loss=tf.reduce_mean(-tf.reduce_sum(y * tf.log(out)))
         return loss
-              
+    
+    def read_train(self,train_pair_file_path):
+        #load data
+            trainfile = open(train_pair_file_path)
+            line=trainfile.readline().strip()
+            self.query=[]
+            self.doc=[]
+            self.docscore=[]
+            while line:
+                parts=line.split(",") 
+                if len(parts)<2:
+                    print (line)   
+                    line=trainfile.readline().strip()
+                    continue
+                qw1=np.array([ int(t) for t in parts[0].strip().split(' ')])
+                qw=np.ones(self.max_q_len,dtype=int) * -1
+                qw[:len(qw1)]=qw1
+                qlist=[]
+                dlist=[]
+                sco=[]
+                for i in range(len(parts)-1):
+                    d1=parts[i+1].strip().split(' ')
+                    sc=float(d1[-1])                   
+                    d1=np.array([ int(t) for t in parts[i+1].strip().split(' ')[:-1]])                   
+                    if len(d1)>0:
+                        d=np.ones(self.max_d_len,dtype=int) * -1
+                        d[:len(d1)]=d1
+                        dlist.append(d)
+                        qlist.append(qw)
+                        sco.append(sc) 
+                if  len(dlist)>0:  
+                    query.append(qlist) 
+                    doc.append(dlist)
+                    sco=np.array(sco)
+                    docscore.append(sco)  
+                line=trainfile.readline().strip()   
+            
+            trainfile.close()
+    
+    
+    def read_eval(self,val_pair_file_path):
+            valfile = open(val_pair_file_path)
+            line=valfile.readline().strip()
+            self.valquery=[]
+            self.valdoc=[]
+            self.valdocscore=[]
+            while line:
+                parts=line.split(",") 
+                if len(parts)<2:
+                    print (line)   
+                    line=valfile.readline().strip()
+                    continue
+                qw1=np.array([ int(t) for t in parts[0].strip().split(' ')])
+                qw=np.ones(self.max_q_len,dtype=int) * -1
+                qw[:len(qw1)]=qw1
+                qlist=[]
+                dlist=[]
+                sco=[]
+                for i in range(len(parts)-1):
+                    d1=parts[i+1].strip().split(' ')
+                    sc=float(d1[-1])                   
+                    d1=np.array([ int(t) for t in parts[i+1].strip().split(' ')[:-1]])                   
+                    if len(d1)>0:
+                        d=np.ones(self.max_d_len,dtype=int) * -1
+                        d[:len(d1)]=d1
+                        dlist.append(d)
+                        qlist.append(qw)
+                        sco.append(sc) 
+                if  len(dlist)>0:  
+                    valquery.append(qlist) 
+                    valdoc.append(dlist)
+                    sco=np.array(sco)
+                    valdocscore.append(sco)  
+                line=valfile.readline().strip()  
+            valfile.close()          
+    
     def run():            
         epochs = range(400)
         opt = tf.keras.optimizers.Adam(learning_rate=0.1)
