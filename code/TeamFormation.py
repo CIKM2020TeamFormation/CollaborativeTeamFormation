@@ -1,28 +1,37 @@
 import tensorflow as tf
 import numpy as np
 
+import sys
 
 class teamformation:    
-    def __init__(self,nbins,bacthsize):
+    def __init__(self,nbins,bacthsize,embeding_size,data):
+        self.dataset=data
+        pfile=open(self.dataset+"krnm_pro.txt")
+        pfile.readline()
+        properties=pfile.readline().strip().split(" ")
+        pfile.close()
+        self.max_q_len=int(properties[0]) # number of nodes in the CQA network graph N=|Qestions|+|Answers|+|Experts|                
+        self.max_d_len=int(properties[1])
+        self.vocab_size=int(properties[2])
+        
         self.n_bins=nbins
-        self.embedding_size=2
+        self.embedding_size=embeding_size
         self.batch_size=bacthsize
-        self.max_q_len=2
-        self.max_d_len=4
         self.lamb = 0.5
-        self.mus = com2vec.kernal_mus(self.n_bins, use_exact=True)
-        self.sigmas = com2vec.kernel_sigmas(self.n_bins, self.lamb, use_exact=True)
-        self.W = com2vec.weight_variable((self.n_bins, 1))
+
+        self.mus = teamformation.kernal_mus(self.n_bins, use_exact=True)
+        self.sigmas = teamformation.kernel_sigmas(self.n_bins, self.lamb, use_exact=True)
+        self.W = teamformation.weight_variable((self.n_bins, 1))
         self.b = tf.Variable(0.,dtype=tf.float32)
         
-        self.embeddings = tf.Variable(tf.random.uniform([self.N , self.embedding_size], -1.0, 1.0,dtype=tf.float32),dtype=tf.float32)
+        self.embeddings = tf.Variable(tf.random.uniform([self.vocab_size, self.embedding_size], -1.0, 1.0,dtype=tf.float32),dtype=tf.float32)
         
-        self.inputs_q=tf.Variable(( self.bachsize,self.max_q_len),dtype=tf.int32)
-        self.inputs_posd=tf.Variable(( self.bachsize,self.max_d_len),dtype=tf.int32)
-        self.inputs_negd=tf.Variable(( self.bachsize,self.max_d_len),dtype=tf.int32)
+        self.inputs_q=tf.Variable(( self.batch_size,self.max_q_len),dtype=tf.int32)
+        self.inputs_posd=tf.Variable(( self.batch_size,self.max_d_len),dtype=tf.int32)
+        self.inputs_negd=tf.Variable(( self.batch_size,self.max_d_len),dtype=tf.int32)
         
         
-    #copied from K-NRM package https://github.com/AdeDZY/K-NRM/blob/master/LICENSE
+    #copied from knrm paper 
     @staticmethod
     def kernal_mus(n_kernels, use_exact):
         """
@@ -43,7 +52,7 @@ class teamformation:
             l_mu.append(l_mu[i] - bin_size)
         return l_mu
 
-    #copied from K-NRM package https://github.com/AdeDZY/K-NRM/blob/master/LICENSE
+    #copied from knrm paper
     @staticmethod
     def kernel_sigmas(n_kernels, lamb, use_exact):
         """
@@ -60,7 +69,7 @@ class teamformation:
 
         l_sigma += [bin_size * lamb] * (n_kernels - 1)
         return l_sigma
-    #copied from K-NRM package https://github.com/AdeDZY/K-NRM/blob/master/LICENSE
+    
     def weight_variable(shape):
         tmp = np.sqrt(6.0) / np.sqrt(shape[0] + shape[1])
         initial = tf.random.uniform(shape, minval=-tmp, maxval=tmp)
@@ -127,10 +136,10 @@ class teamformation:
         out=tf.nn.softmax(tf.reshape(predicted_d_score_temp,(batch_size,)))       
         loss=tf.reduce_mean(-tf.reduce_sum(y * tf.log(out)))
         return loss
-    
-    def read_train(self,train_pair_file_path):
+              
+    def read_train(self):
         #load data
-            trainfile = open(train_pair_file_path)
+            trainfile = open(self.dataset+"train.txt")
             line=trainfile.readline().strip()
             self.query=[]
             self.doc=[]
@@ -158,17 +167,17 @@ class teamformation:
                         qlist.append(qw)
                         sco.append(sc) 
                 if  len(dlist)>0:  
-                    query.append(qlist) 
-                    doc.append(dlist)
+                    self.query.append(qlist) 
+                    self.doc.append(dlist)
                     sco=np.array(sco)
-                    docscore.append(sco)  
+                    self.docscore.append(sco)  
                 line=trainfile.readline().strip()   
             
             trainfile.close()
     
     
-    def read_eval(self,val_pair_file_path):
-            valfile = open(val_pair_file_path)
+    def read_eval(self):
+            valfile = open(self.dataset+"validation.txt")
             line=valfile.readline().strip()
             self.valquery=[]
             self.valdoc=[]
@@ -196,23 +205,40 @@ class teamformation:
                         qlist.append(qw)
                         sco.append(sc) 
                 if  len(dlist)>0:  
-                    valquery.append(qlist) 
-                    valdoc.append(dlist)
+                    self.valquery.append(qlist) 
+                    self.valdoc.append(dlist)
                     sco=np.array(sco)
-                    valdocscore.append(sco)  
+                    self.valdocscore.append(sco)  
                 line=valfile.readline().strip()  
-            valfile.close()          
+            valfile.close()
+         
     
-    def run():            
-        epochs = range(400)
+    def train(self):   
+        self.read_train()
+        self.read_eval()
+        
+        epochs = range(6)
         opt = tf.keras.optimizers.Adam(learning_rate=0.1)
+        
         for epoch in epochs: 
-            for i in range(int(tarin_size/self.batch_size)):
-            self.inputs_q,self.inputs_d, self.score_d=self.read_train(filestream,self.batch_size)
-            opt.minimize(ob.loss, var_list=[ob.W,ob.b,ob.embeddings])
-            if epoch%100==0:
-                tf.print(ob.loss())
+            for i in range(len(self.query)):
+                self.inputs_q=self.query[i]
+                self.inputs_posd=self.doc[i]
+                self.batch_size=len(self.doc[i]) 
+                self.d_score=self.docscore[i]                
+                opt.minimize(ob.loss, var_list=[ob.W,ob.b,ob.embeddings])
+                if epoch%1==0:
+                    tf.print(ob.loss())
+                    
+            for i in range(len(self.valquery)):
+                self.inputs_q=self.valquery[i]
+                self.inputs_posd=self.valdoc[i]
+                self.batch_size=len(self.valdoc[i]) 
+                self.d_score=self.valdocscore[i]                
+                opt.minimize(ob.loss, var_list=[ob.W,ob.b,ob.embeddings])
+                if epoch%1==0:
+                    tf.print(ob.loss())        
                 
-        
-        
-teamformation.run()
+dataset=["../data/apple/","../data/dba/","../data/electronics/","../data/history/","../data/english/","../data/softwareengineering/"]        
+ob=teamformation(nbins=11,bacthsize=16,embeding_size=32,data=dataset[1])        
+ob.train()
