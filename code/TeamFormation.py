@@ -24,14 +24,14 @@ class teamformation:
         self.W = teamformation.weight_variable((self.n_bins, 1))
         self.b = tf.Variable(0.,dtype=tf.float32)
         
-        self.embeddings = tf.Variable(tf.random.uniform([self.vocab_size, self.embedding_size], -1.0, 1.0,dtype=tf.float32),dtype=tf.float32)
+        self.embeddings = tf.Variable(tf.random.uniform([self.vocab_size+1, self.embedding_size], -1.0, 1.0,dtype=tf.float32),dtype=tf.float32)
         
         self.inputs_q=tf.Variable(( self.batch_size,self.max_q_len),dtype=tf.int32)
         self.inputs_posd=tf.Variable(( self.batch_size,self.max_d_len),dtype=tf.int32)
         self.inputs_negd=tf.Variable(( self.batch_size,self.max_d_len),dtype=tf.int32)
         
         
-    #copied from knrm paper 
+    #copied from knrm paper ref:https://github.com/AdeDZY/K-NRM
     @staticmethod
     def kernal_mus(n_kernels, use_exact):
         """
@@ -52,7 +52,7 @@ class teamformation:
             l_mu.append(l_mu[i] - bin_size)
         return l_mu
 
-    #copied from knrm paper
+    #copied from knrm paper copied from knrm paper ref:https://github.com/AdeDZY/K-NRM
     @staticmethod
     def kernel_sigmas(n_kernels, lamb, use_exact):
         """
@@ -69,12 +69,12 @@ class teamformation:
 
         l_sigma += [bin_size * lamb] * (n_kernels - 1)
         return l_sigma
-    
+    #copied from knrm paper copied from knrm paper ref:https://github.com/AdeDZY/K-NRM
     def weight_variable(shape):
         tmp = np.sqrt(6.0) / np.sqrt(shape[0] + shape[1])
         initial = tf.random.uniform(shape, minval=-tmp, maxval=tmp)
         return tf.Variable(initial,dtype=tf.float32)    
-
+    #addopted from knrm paper copied from knrm paper ref:https://github.com/AdeDZY/K-NRM
     def model(self,inputs_q,inputs_d):    
         # look up embeddings for each term. [nbatch, qlen, emb_dim]
         q_embed = tf.nn.embedding_lookup(self.embeddings, inputs_q, name='qemb')
@@ -114,7 +114,8 @@ class teamformation:
         # aggregated query terms
         # q_weights = [1, 1, 0, 0...]. Works as a query word mask.
         # Support query-term weigting if set to continous values (e.g. IDF).
-        aggregated_kde = tf.reduce_sum(kde , [1])  # [batch, n_bins]
+        #print(kde,self.q_weights)
+        aggregated_kde = tf.reduce_sum(kde*self.q_weights , [1])  # [batch, n_bins]
         #print( aggregated_kde)
         feats.append(aggregated_kde) # [[batch, nbins]]
         feats_tmp = tf.concat( feats,1)  # [batch, n_bins]
@@ -131,10 +132,13 @@ class teamformation:
     
     def loss(self):
         predicted_d_score=self.model(self.inputs_q,self.inputs_posd)
-        y=self.d_score/tf.reduce_sum(d_score,0)
-        predicted_d_score_temp=tf.reshape(predicted_d_score,(batch_size,))        
-        out=tf.nn.softmax(tf.reshape(predicted_d_score_temp,(batch_size,)))       
-        loss=tf.reduce_mean(-tf.reduce_sum(y * tf.log(out)))
+        y=self.d_score/tf.reduce_sum(self.d_score,0)
+        predicted_d_score_temp=tf.reshape(predicted_d_score,(self.batch_size,))        
+        out=tf.nn.softmax(tf.reshape(predicted_d_score_temp,(self.batch_size,)))   
+        logout=tf.math.log(out)
+        y=tf.dtypes.cast(y, tf.float32)        
+        mul=y * logout
+        loss=tf.reduce_mean(-tf.reduce_sum(mul))
         return loss
               
     def read_train(self):
@@ -151,7 +155,7 @@ class teamformation:
                     line=trainfile.readline().strip()
                     continue
                 qw1=np.array([ int(t) for t in parts[0].strip().split(' ')])
-                qw=np.ones(self.max_q_len,dtype=int) * -1
+                qw=np.ones(self.max_q_len,dtype=int) * 0 #-1
                 qw[:len(qw1)]=qw1
                 qlist=[]
                 dlist=[]
@@ -161,7 +165,7 @@ class teamformation:
                     sc=float(d1[-1])                   
                     d1=np.array([ int(t) for t in parts[i+1].strip().split(' ')[:-1]])                   
                     if len(d1)>0:
-                        d=np.ones(self.max_d_len,dtype=int) * -1
+                        d=np.ones(self.max_d_len,dtype=int)*0 #* -1
                         d[:len(d1)]=d1
                         dlist.append(d)
                         qlist.append(qw)
@@ -189,7 +193,7 @@ class teamformation:
                     line=valfile.readline().strip()
                     continue
                 qw1=np.array([ int(t) for t in parts[0].strip().split(' ')])
-                qw=np.ones(self.max_q_len,dtype=int) * -1
+                qw=np.ones(self.max_q_len,dtype=int) * 0#-1
                 qw[:len(qw1)]=qw1
                 qlist=[]
                 dlist=[]
@@ -199,7 +203,7 @@ class teamformation:
                     sc=float(d1[-1])                   
                     d1=np.array([ int(t) for t in parts[i+1].strip().split(' ')[:-1]])                   
                     if len(d1)>0:
-                        d=np.ones(self.max_d_len,dtype=int) * -1
+                        d=np.ones(self.max_d_len,dtype=int) * 0#-1
                         d[:len(d1)]=d1
                         dlist.append(d)
                         qlist.append(qw)
@@ -212,33 +216,52 @@ class teamformation:
                 line=valfile.readline().strip()  
             valfile.close()
          
-    
+    def save_model(self):
+        np.savetxt(self.dataset+'model/embeddings.txt',self.embeddings.numpy())
+        np.savetxt(self.dataset+'model/b.txt',[self.b.numpy()])
+        np.savetxt(self.dataset+'model/W.txt',self.W.numpy())
+        
+        
     def train(self):   
         self.read_train()
         self.read_eval()
         
         epochs = range(6)
         opt = tf.keras.optimizers.Adam(learning_rate=0.1)
-        
+        t_loss=0
         for epoch in epochs: 
             for i in range(len(self.query)):
                 self.inputs_q=self.query[i]
                 self.inputs_posd=self.doc[i]
                 self.batch_size=len(self.doc[i]) 
-                self.d_score=self.docscore[i]                
+                self.d_score=self.docscore[i]  
+                self.q_weights=np.where(np.array(self.inputs_q)>0,1,0)
+                self.q_weights=tf.dtypes.cast(self.q_weights, tf.float32)
+                self.q_weights = tf.reshape(self.q_weights, shape=[self.batch_size, self.max_q_len, 1])
+                #print(self.q_weights)
                 opt.minimize(ob.loss, var_list=[ob.W,ob.b,ob.embeddings])
-                if epoch%1==0:
-                    tf.print(ob.loss())
+                t_loss+=ob.loss()
+                if i%500==0:
+                    tf.print("epoch:%d, i:%d, loss:%f"%(epoch,i,t_loss/(epoch*len(self.query)+i+1)))
+            if epoch%1==0:
+                tf.print("epoch:%d,  loss:%f"%(epoch,t_loss/((epoch+1)*len(self.query))))
                     
+            val_loss=0        
             for i in range(len(self.valquery)):
                 self.inputs_q=self.valquery[i]
                 self.inputs_posd=self.valdoc[i]
                 self.batch_size=len(self.valdoc[i]) 
-                self.d_score=self.valdocscore[i]                
+                self.d_score=self.valdocscore[i]  
+                self.q_weights=np.where(np.array(self.inputs_q)>0,1,0)
+                self.q_weights=tf.dtypes.cast(self.q_weights, tf.float32)
+                self.q_weights = tf.reshape(self.q_weights, shape=[self.batch_size, self.max_q_len, 1])
                 opt.minimize(ob.loss, var_list=[ob.W,ob.b,ob.embeddings])
-                if epoch%1==0:
-                    tf.print(ob.loss())        
-                
+                val_loss+=ob.loss()
+            if epoch%1==0:
+                tf.print("epoch:%d,  validation loss:%f"%(epoch,val_loss/(len(self.valquery))))        
+            self.save_model()        
+
+        
 dataset=["../data/apple/","../data/dba/","../data/electronics/","../data/history/","../data/english/","../data/softwareengineering/"]        
 ob=teamformation(nbins=11,bacthsize=16,embeding_size=32,data=dataset[1])        
 ob.train()
