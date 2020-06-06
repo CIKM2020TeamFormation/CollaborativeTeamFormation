@@ -1,0 +1,201 @@
+nosql level technical traditional traditional news relative months physical rdbms last logical differences frequently mentioned rdbms features nosql differences significant 
+looking beginner intermediate level sql puzzles point trainees practice aware http sqlzoo net great resource anything else could suggest 
+running looks auto ms index originating stats modified statistics sql script auto indexing automated list tables microsoft index tool database 
+storage answer interested following scenario null useful would mainly physical distinguish implications postgresql empty mysql could would logical string general 
+two join user know wanted types inner new id sql join left user outer user_id select join difference select telephone 
+remember guid guid chronological reasons smaller sequence found keeps int unique reading use easy around guid advantage case int faster 
+star noticed using many years sql number common last switched write scripts some_condition exists year some_table instead exists select ago 
+testing application need code stable simulates deadlock database site sql script possible thank added reproducing deadlocks involving one table 
+fine part myisam taking approximately tables traffic majority got application need gb server database mysql certain vast tables gaining transactions 
+uuid key like helpful tables would drawbacks build primary design would system use need guid assume distributed databases data store 
+gb innodb database vast myisam soon ram got server going gb running majority single process converting tables going gb slow 
+dual type find statement sql sql name select sql dual really null column desc varchar dual select strange dummy named 
+well uncommon team team nominated teams luckily current experience issue pretty development knowledge however workplace current dba small one supplied 
+tables make projects payments id better problem name much title sense following id_customer think customers id id name id_project title 
+would also makes although database dba productions sysadmin javaee postgresql work servers job servers manages application wonder time full database 
+noise development administer operate actually problem creates best plenty filter need resources really competence plenty mongodb developing got learning resources 
+implement know let database without one working see db supported regexp posted delete stackoverflow additional cannot please something far libraries 
+try expire password six indicating following alter user unlimited ran user default limit within days password_life_time ora getting profile log 
+search slightly clarification different localhost username maybe thinking want finding show user wildcard update username perhaps grants database users thinking 
+eliminate prior added duplicates need concatenate problem custom function trying results use listagg function row aggregate instead using column oracle 
+sql server hosted application sql runs server express enterprise edition currently functionality sql need must web application edition choose soon 
+causing spikes timeouts turn traffic find data server intermittent cause sql mbit query production network waits queries io seeing enormous 
+table means make four record data would need key columns comprise four needed non unique nullable queries distinguish columns primary 
+came across view database today first statement clause return true every record would someone write filtering records 
+heard mention statistics sql server keeps default tracking use information improve database 
+right script trigger object know given table programmatically way key objects object studio find management name click way primary sql 
+way coming problem store database deciding data add rather number know databases hell suggestions best lot formatted data like might 
+int column known copy_from_with_id_ identity results with_id table identity create table varchar select say val with_id copy_from_with_id_ well identity id 
+mistakenly deleted around records remote sql server table server granting access backup files server side way get back records 
+another bunch large millions originally whole tables tables used database move need destination import export rows one sql wizard missing 
+particular paranoid affecting huge live question search anything sql workplace lot servers tools specifically performance redgate current fan interacting however 
+hi million php mysql triggers running rows client rows mysql client lots hundreds connects insert db hours second terminate per 
+learn add create manage iii easy auto functionality iii postgresql pgadmin application use increment created table database started pgadmin column 
+phpmyadmin would database database postgresql good php postgresql server manage like use used tools manage free database managing webserver mysql 
+data column table ntext type possibility wants client careful potential migrate max reasons nvarchar nvarchar peculiar columns threat loss type 
+standard varchar oracle varchar fields oracle like tasks call one provided migrating dbmss coming fields tables datatype replace varchar varchar 
+following two queries seem equivalent executed sql plus select user_tables select user_tables difference versions 
+shop archive work looks sized print win find share job print jobs hundred thousand old currently server smb decent search 
+corporate create table looks standards tables system one separate set qualify need user fileid file statements default filegroup indexes like 
+unsigned unsigned null int tablename table null smallint table table tracks userid track_table audit create actions id varchar database null 
+mysqldump databases run command databases mysqldump ubuntu username using database_name place terminal localhost trying backed successful command back_up_db backup like 
+adventure using source dimdate works calendar connection set creating using data dw things service simplify using table dimension credentials database 
+line reporting low providing running high machine activities virtual sql amount best processing server practices data data multiple purpose transaction 
+standard table lookup code views tbl_ something good like designate idea names way tables instance tables naming beginning put follow 
+store ip address registered users database wondering many characters declare column support ipv well maximum length ip address 
+indexes achieve different table possible partitions performance different like techniques necessary course partitioning tablespaces question improvements put relates performance becomes 
+table different model definition role want database user table rights granted single access elements role either access user control table 
+obviously delete keeping performance different indices impact performance make keeping negative performance many table indices insert query query several sense 
+bytea objects blobs oid large field enter data bytea field question integer table primary containing bytea key etc like field 
+sql table table huge performing use truncate except million delete server huge truncate allowed basically equivalent clauses statement problem using 
+counters server intensive since sql sql select reset cpu query total_worker_time sum question another gives qs simple top total_cpu_time sum 
+improved memory projects hobby discovered performance work go need aware give learn seems engine drastically option database like recently mysql 
+differences sql blog looking developer basics whitepaper server questions like wanting recommend systems describing post oracle answering learn comprehensive resources 
+using server install first like install seems postgresql use apt pgcrypto installed would built using function ubuntu get sha postgresql 
+geometric table columns non way would select selecting columns something the_geom specific table convenient ones like except non select blob 
+rarely database creating store responsible trying way records options database work add every far best project see going fields value 
+server reporting slowdowns us web analysis logs real performance traffic see sql patterns allow near issues server insert want faster 
+wikipedia mentions postgresql procedrues slight used stored funtions stored statement article select comment difference apply syntax question links comment seem 
+binary files storing store contents filesystem hash database database filesystem rename best link data store place database related blob store 
+arguments version application layer workplaces answers putting se programmers dba question divide database revealing logic version dbas comments se programmers 
+sometimes snafu run kill query xxxxxxx twenty thirty times sort kill command missing account like typing 
+uses programming fix tiny fraction please every disclaimer time job c++ work someone databases search month bear time need odd 
+postgresql expirience know managing want day postgresql planing databases soon mysql databases use high loaded best day load highly tools 
+rows column max possible default would select default used something solve value like returned way like postgresql use post_id max_id 
+using primary statement db thanks tables database tool db given key requires table one select specific way using see defined 
+write writing would like data pseudocode oracle tables set script testing following something know set populate nextval enabled_user_id seq like 
+data large estimate deletes inserting records million+ primarily table creating standard annually database mssql one data number records storing updates 
+minimize forever across server sql takes backup longer wan daily mind backups take stands bit ship size process need backups 
+applicants exams result application database save screenings newbie database create needs application creating schedule interviews schema database recruitment web need 
+command way columns mysql table rows results limit status select information back manipulate like show get way come normal statement 
+server reduced tb data sql tables reducing size disk large purging test deleting want database amounts significant disk size unused 
+tcp connection ubuntu ssh locally mysql ip using connect workbench access mysql mysql com created going server pc myhost database 
+id sql name sql tab null name id tab sql avg number name id tab desc select varchar select type 
+id fields server lastname table lastname full executed database id firstname insert statement sql values firstname dbo recovery sometable standard 
+represent latitude longitude postgres without using postgis system using allow sql passthrough cannot use postgis 
+agree using actually indexes good us many indexed database general degraded rules using indexed indexes rule probably fields performance fields 
+client web regularly direct transfer transfer takes database application time based server transfer site sql file file connection long database 
+granting following rights user grant super user host include rights dbname given grant dbname user host thank 
+say longitude records closest lattitude want business indexed million find say example course select businesses example also would table businessid 
+ssms something shows advertised path color legitimate hot estimated looks work plan explorer sentryone concerned gotchas like commpared view nightmare 
+specs standard sql learning broadly language one focus supported across reference version sql want concentrate dbms purposes energy es time 
+university interviews tool server eindhoven carrying like help currently field fontys one sql get student development experts would feedback series 
+production best changes books large implemented microsoft sql add alter columns changes tables online immediately according server table way specified 
+heard chain ones brought around horror implementing systems database caused cascading stories trigger worse gremlins addition living considering triggers kinds 
+windows mysqldump skip ibdata running tables mysql backup server configured database database run size opt innodb using dedicated gb mysqldump 
+user db unfamiliar something confirm linq correctly select like datetime posted addminutes table answer viewed need question column understand recently 
+foo flag want chk check table chk char char matter bit create identity example implemented table int whatever similar bar 
+performance stored actual plan writing get query proc execution view query function informative run finish look way parameters things quickly 
+know oracle heard oracle dba saying working oracle dba harder difficult demanding working sql server statement basis 
+month rows grows store setup partitions size currently row million since around table rows files cpu month data month billion 
+small comparison opened_tables uptime use across comparison open_tables however seen table_cache assess cumulative valid believe opened_tables whether caveat mysql people 
+design dba try developer sql time software top server sql sits software best databases practices encorporate best server make aspiring 
+book reason incorrect long view remember might somewhere nested ago students sql sure states select server read statement time allow 
+every balance basic per store schema simply currency currency database one balance writing user simple transactions bank user database specifications 
+name manipulating would data select data language used manipulation actually statement statements dml looking contained assume far know data query 
+outputted example command explain query time repeating time interpreting given represent internal value difficult actual run characters decimals time analyze 
+sql whenever new using bottom top server rather insert studio server row table list manually appears management database row sql 
+question customer gb try company narrowing server based quite developers running sites admit installations sql must database bit broad sizes 
+vb forum huge amount data need way convert forum database tables charset thier data latin _swedish_ci utf general ci 
+gets created cnf new glibc linux wanted using cnf mysql linux know installed server gets rpm stored file machine installation 
+really enabled stopped ago days great tricky one proving annoying server management quite working icon intellisense studio problem sql sudden 
+optimized night san job amount hours new database process server warehouse shortest minutes runs run gotten using table database create 
+take full within run millions proc job working day sql server query query query put records run nightly server first 
+proceed let trigger trigger trigger new even edit email insert use trigger send record fails fails insert insert way fails 
+operations end p_outcount multiple open want tbl select statement execute select p_outcursor count something select begin like using way select 
+get run query database time server query get mysql import hardware created query mysql database another version mysql run run 
+known time since deal oracle keep unknown oracle sun mysql since effects future either mysql community changes bought mysql note 
+seems article querying towards use cassandra currently data amounts project read require team large leaning insertion evaluating new trading databases 
+performance pros indexing start create indexes query start index executing techniques arises regarding question right use temporary also cons problem 
+find later password symmetric key encryption trying securesymmetrickey strongpassword password encryption desx sql create code server algorithm executed way figure 
+create studio table newsequentialid function new thought error formtemplate management table sql letting forms reading go message trying give get 
+sort normaly problem two working conditional conditional using ms like sort writing know server sql query wrote one columns code 
+built balancing trying load server solution makes sql solution today find programmatic windows microsoft today transparent exists server purchased access 
+project difference works around cursor looking unsure findone wrapper cursor works find way findone find way working maybe someone limit 
+maximum number cores used single mysql server production setting 
+default install sql server sql server agent process seems set manual startup reason setting automatic bad idea pointless reason 
+may getting system db weird look added really regular tables tables come create like tables problem extra script type new 
+code used dynamic effort generally host often cleaner construct speaking recently saw sql sql constructing write language statement question perspective 
+field dbo table gb etc null field format null varchar table need line varchar create insert text table field file 
+better new making delete daily perform existing insert one records rows ones around need change already project wondering update table 
+successfully win small postgresql pgadmin application pc sa works connecting installed iii refused error login java get however password connection 
+sprocs sql clustered queries make views data subsequent server data index schema notion designing db order sense disk consider etc 
+going object stackoverflow schema correct reflecting practise every name best asked basically create example question schema done usage schemas wondered 
+replication database face replication face issues slave setting master mysql new problems also administration lot regular helps troubleshooting anybody mysql 
+show predicate items match get want sql wondering results database user like results best call name part implement articles sorted 
+restore mysql database different name mysqldump file dont want open dump file edit better methods 
+comes dbo schema best practice avoid using dbo schema creating database objects dbo schema avoided database user dbo schema 
+point exactly figuring trouble looked good sources database say lookup would tables like boundaries database seems many never use place 
+parameter sql use date date orderby orderby column case asc orderby column passed order question stored desc tinyint procedure attempting 
+key bookmark server query server lookups remove http looking optimization sql sql sqlauthority remove blog closely com lookup using concept 
+vacuum os full quite full observe none run postgres returned yet database running size space filesystem vacuum linux postgres table 
+max query simple select showing mr entire join nolock server result_date mm tablex_results db logical tablex activity monitor statistics reads 
+want insert adminaccounts name select name matrix want create duplicates ie ran weeks ago need update data 
+newsequentialid comparing int key asking compare question guid table primary insert table non guids initialized sequential tried sequential sequentially performance 
+performance clustered insert organized select select update vs statements organized individual compares heap table white delete paper range table index 
+label sql statements fields field generically comparison string myfield said conditional discussion type generator sake specified emits nvarchar myfield sql 
+assertion performance batch validate using following batches use find assertion sql server confirmation begin trying parameter statements sql suggested detrimental 
+containing behavior set takes otherwise arithabort several operations less select minutes levels lot seen grouping second takes aggragate query single 
+mysql really found able developing query replacement enough analyzer fire sqlyog profiler profiler miss tool find like sql good works 
+database somewhat one jun questions another duplicates suggestion addressed multilanguage best complicated question structure database structure one already issue old 
+question dbas via become without mysql training hands work learning skills messing experience go job dba db something myphpadmin similar 
+actual simple scenario included even return take three given performance returned order changes drastically rows join seconds table query problem 
+locally application saas web installed invoicing+inventory application clojure based enterprise customers small intending premise vb based rewriting looking application offered 
+fields fields table key mentally statement use frequently look select group categorize look primary columns table auto_increment fields hard many 
+hangs causes code transaction cause timeout throws application rollback fails commit exception sql server database modification involving scenario perform way 
+management cannot control database change large responsible lot changes person company would objects db changes working objects developers db database 
+nvarchar primary created need plans execution firstname following id username nvarchar simple analysing user help columns key sql table unique 
+faster select inner join record_id forignkey_notindexed_notunique select inner join forignkey_notindexed_notunique record_id 
+also need create table transaction per table totals account base account type transactions inside need totals running running got depending 
+questions questions long several total page approx sections sets sections one html questions sub varies page small one divided input 
+indexing full table datavalue following alter name column million numericvalue rows command try value add table text run visitordata large 
+confusing sql server order hosting local server changing site computer moved another remote basically remote name problem one server instance 
+backup query bak headeronly works get made fine date restore use restore restore path file trying analyzer command headeronly disk 
+reason specify tablename schema tablename instead schema tablename allow spaces tablename 
+coalesce using null argument second first null argument function times first lengthy sql process select coalesce quite firstname ran argument 
+cptnotsoawesome one cptnotsoawesome testing grants password localhost usage show localhost stuff grant grants added identified see localhost statistics grant cptnotsoawesome 
+table stored insert procedure _othervalue part issues othervalue table null _id begin othervalue concurrency select id relevant inserts procedure _id 
+different using old relatively find implementations relatively solutions immediately whether exotic psql upsert example expert read writeable cte postgresql solutions 
+poking around ssms noticed size int columns bytes expected bit shocked see bit columns whole byte misunderstand looking 
+simple id highscores good users name far save id like table looks name rank example get users mysql question score 
+pg_dump consistent postgres backups gb make minutes get constantly need stopping modified backups without server modified database runs process data 
+got port product design got based index table decision looking server advice got tables make sql existing database regarding gl 
+database structure innodb table charset primary city country null name varchar name create name default utf table engine key create 
+self deeply ctes benefits using using lot cte multiple referenced unlike referencing quite query times derived msdn never table thought 
+experience research claim really request schemas risk system database agency conceptual grounds government denied requesting verify extensive information security disclosing 
+database script hostname scm_main dbname unq_vbvdata_vehicle echo wrote reindex index log_file reindex psql indexes started unq_vbvdata_vehicle date one username nreindex 
+need list like entries select query null value least trying empty test easy table blank something one large column figure 
+get list partitioned tables database system tables dmvs looking 
+audit tables useful came across reading article 
+keeps workstations database information devices laptops etc mobile routers phones store enterprise switches database inventory range building hardware using track 
+want case sensitive search sql query default mysql consider case strings idea case sensitive search sql query 
+mytable inside queries id myview example two somecolumn select somecolumn outside difference view id difference make select filter myview view 
+major differences unique key primary key mysql 
+integer question systems thread cisco system actual numeric working date also keeping example int store noticed advantage jan stored date 
+database way tables innodb number delete say tables records file_per_table want records tables number tables delete remove fragmentation tables records 
+datetime type table portion convert query date view conversion date attempting unix timestamp timestamp stores unfortunately seem get link describes 
+dba server performance server fine issues weeks spikes couple past sql guys sql huge arguing everything however lag hardware normally 
+secondtable mssql id professional like life taught across join join id firsttable came select join classes two tables queries select 
+application looking separate tenants architecture straightforward modest currently relatively common tenant server correct instance customers way handling normally number databases 
+awhile issue server file file hot pgstartup run backup working restarting log pg_log log directory postgres consistent daily slave postgres 
+ddms directory name installed copy apt saved new previously running mysql lts schema installed freshly lib var ddms mysql ubuntu 
+believe make hard loss view data database easy way see data tables pgadmin iii alternatively program could use suck 
+server mssql studio party management appropriate reconciliation data view expose user third creating need user working created view trouble giving 
+table gn_action contains gn_objectid trail datetime database gn_userid audit table create int gn_audittable gn_time int products smallint null null null 
+sql oltp servers situation looking two server replicate server databases single sql currently server reporting current help new features via 
+ora table child truncate table attempting unique child parent keys populated parent referenced child suppose results parent parent primary table 
+unique report split one working rows due something customer_comments comments combine previously tried need database design multiple row got id 
+especially like select tables innodb engine inexact bigger everyone table insertions constant slow count knows gets mytable queries row use 
+table lose say dbo sql methods dbo indexes example simple etc create fk table copy table select using server pk 
+added new column table column cn unique mandatory old data value update existing records sequecely random unique data thank 
+stackoverflow repost table new adding new need forward data new even going record data adding columns suggested currently start every 
+status like result waiting looks row master slave slave command status setup running slave show master show slave_io_state fine replication 
+effort database look implement migrating old new options full couple embark files suggested level san san abd restoring backup new 
+insert tables using instead triggers identity ident_current table scope_identity return null get last identity inserted row 
+database comfortable performance improving understanding queries understand dba different help application process performance affect ways book also sql written pretty 
+null char come create null key primary good yet solution table following found periodically structure int char issue supposing table 
+problem maintain index table weekly deleting inserting bulk amount data table drop create index taking long time 
+running maps ways sybase instance server oracle products oracle experienced look reduce server oracle understand asked understand estate well sql 
+upgrading using mode server sporadic asked idea duplicate user happening single sql net question better problem stackoverflow advised could someone 
+routine client familiar process data one one column attribute row refactored entity one database form seems feed per per seems 
+million command gzip dbname gz command import things innodb path_to_file dbname mysqldump tables used username mysql sql records back one 

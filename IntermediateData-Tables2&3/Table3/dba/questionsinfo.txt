@@ -1,0 +1,2756 @@
+newid original id  tags 
+0 1 mysql innodb myisam
+1 2 mysql version-control schema
+2 3 database-design erd
+3 5 nosql rdbms database-recommendation
+5 14 mysql mariadb database-recommendation
+6 20 mysql performance innodb backup mysqldump
+7 21 sqlite
+8 29 learning
+11 33 mysql slow-log
+13 43 mysql index filtered-index
+14 46 index rdbms
+15 47 sql-server-2005 sql-server-2008
+16 48 tree hierarchy feature-comparison
+20 56 sql-server performance index optimization
+21 59 null feature-comparison empty-string
+22 62 tree relational-theory database-design erd
+23 63 mysql null
+30 81 oracle monitoring
+31 82 oracle tools sqlplus
+33 84 feature-comparison
+37 93 mysql join foreign-key
+38 94 mysql security
+42 111 normalization
+44 123 database-design data-warehouse
+46 126 sql-server sql-server-2008 deadlock
+47 127 postgresql security sql-injection
+48 130 database-design delete audit
+50 144 sql-server index best-practices constraint unique-constraint
+53 152 oracle backup
+54 153 join
+60 174 mysql backup migration mysqldump
+66 194 mysql performance innodb
+69 197 sql-server index
+71 200 career
+72 201 database-recommendation embedded
+73 213 learning
+74 232 mysql primary-key
+75 239 mysql database-design aggregate
+78 252 mysql performance stored-procedures
+79 255 performance sql-server collation
+80 262 explain optimization
+81 264 performance sql-server primary-key uniqueidentifier
+82 270 sql-server-2008 backup express-edition jobs maintenance
+84 280 sql-server t-sql style
+85 283 oracle oracle-11g-r2 version-control
+87 287 oracle sql-server style
+92 299 oracle oracle-11g-r2 security
+95 309 sql-server deadlock
+96 310 mysql-5 storage-engine
+98 320 oracle best-practices
+99 321 mysql stored-procedures trigger
+100 322 postgresql primary-key datatypes derby
+102 337 sql-server sql-server-2008 collation
+103 338 oracle oracle-11g linux
+106 358 sql-server sql-server-2008 shrink
+109 364 sql-server-2008 sql-server shrink logs
+113 381 sql-server
+115 385 mysql innodb myisam storage-engine
+118 390 sql-server stored-procedures
+119 394 database-recommendation feature-comparison permissions
+121 401 features sql-server-2012
+122 405 oracle oracle-11g-r2
+125 412 oracle join syntax
+126 424 mysql performance datatypes varchar
+128 431 oracle oracle-11g-r2 sqlplus
+131 435 oracle
+132 440 mysql innodb
+134 445 learning
+136 449 mysql tools performance-testing
+137 461 database-design normalization
+138 467 sql-server-2008 performance
+139 468 sql-server-2008 sql-server-2005 trigger
+140 473 database-design index data-warehouse
+143 482 sql-server insert sql-server-2000 database-tuning
+144 486 postgresql
+145 500 performance orm
+147 505 performance learning normalization
+148 511 sql-server sql-server-2008 database-design metadata
+149 515 sql-server documentation
+154 530 sql-server performance query
+155 534 terminology
+158 545 mysql replication myisam
+160 550 mysql index concurrency
+161 561 mongodb
+162 567 mysql stored-procedures
+165 573 oracle performance
+168 581 mysql index
+170 586 postgresql
+172 590 sql-server windows memory
+174 598 sql-server sql-server-2005 constraint
+175 606 sql-server ssms
+176 607 nosql
+180 629 sql-server sql-server-2008
+183 648 sql-server database-tuning
+184 651 db2 regular-expression
+185 653 aggregate oracle-10g-r2
+187 659 oracle security
+189 667 oracle where
+190 668 mysql authentication audit
+194 682 mysql
+197 696 oracle oracle-11g-r2 aggregate
+202 710 oracle oracle-11g delete
+203 712 sql-server sql-server-2008
+209 736 database-tuning architecture
+211 742 sql-server sql-server-2005 index dbcc
+212 747 sql-server sql-server-2008
+214 756 sql-server
+216 760 sql-server-2005 primary-key
+217 763 sql-server-2005
+218 771 sql-server-2005 index primary-key clustered-index
+225 788 performance postgresql index query
+231 804 mysql linux testing
+232 808 sql-server-2005 statistics
+234 817 sql-server-2005
+235 818 sql-server profiler
+237 825 database-design
+241 845 oracle sqlplus
+242 854 sql-server sql-server-2005 recovery dbcc-checkdb
+243 858 ddl feature-comparison rollback database-agnostic
+245 861 sql-server stored-procedures
+258 904 mysql datatypes
+259 905 mysql innodb
+261 907 sql-server
+262 916 sql-server sql-server-2005 identity
+263 917 sql-server backup
+266 929 database-design
+268 940 sql-server-2008
+272 955 sql-server
+273 956 mysql stored-procedures mysql-5
+275 972 sql-server management
+276 973 oracle database-design
+279 983 mysql
+282 995 sql-server sql-server-2008 recovery
+289 1014 sql-standard feature-comparison dml
+292 1018 mysql
+293 1021 sql-server sql-server-2008 backup restore
+298 1038 sql-server sql-server-2008 migration
+299 1040 terminology
+300 1043 mysql database-design database-recommendation
+301 1044 sql-server tools
+312 1083 sql-server-2008 query pattern-matching
+317 1099 mysql postgresql data-warehouse rdbms parallelism
+322 1121 oracle oracle-11g-r2 sqlplus plsql
+323 1126 sql-server sql-server-2005 performance eav
+327 1141 sql-server intellisense
+329 1146 oracle plsql trigger
+330 1151 oracle oracle-10g
+333 1166 sql-server
+335 1170 oracle case
+341 1193 mysql mariadb
+343 1201 oracle backup rman
+349 1215 sql-server sql-server-2005 except
+352 1229 mysql configuration my.cnf max-connections
+354 1232 sql-server installation
+361 1261 mysql innodb myisam logs
+366 1281 postgresql pgadmin auto-increment
+368 1283 postgresql tools management
+369 1285 postgresql tools psql command-line
+373 1298 sql-server datatypes alter-table type-conversion
+374 1301 oracle datatypes
+375 1305 oracle
+381 1326 mysql mysql-5 mariadb
+389 1346 database-recommendation
+391 1350 postgresql mac-os-x
+392 1355 primary-key
+393 1359 sql-server filegroups disk-structures
+394 1371 mysql
+396 1374 sql-server index optimization view
+409 1410 database-design database-recommendation
+414 1423 database-design
+415 1426 sql-server sql-server-2005
+423 1457 migration testing
+426 1467 postgresql
+428 1473 sql-server sql-server-2008 xml
+430 1479 oracle oracle-11g export command-line
+431 1485 sql-server sql-server-2005
+436 1497 mysql performance innodb delete
+440 1511 mysqldump ubuntu
+442 1516 ssas
+445 1523 oracle oracle-11g-r2 plsql
+446 1527 tools data-warehouse database-agnostic business-intelligence
+452 1554 sql-server
+457 1570 database-design database-recommendation query
+458 1577 sql-server-2008 waits
+459 1584 sql-server sql-server-2005 clustered-index
+462 1592 mysql windows installation
+477 1632 sql-server sql-server-2005 functions identity uniqueidentifier
+478 1635 sql-server sql-server-2012 sequence
+479 1637 relational-theory naming-convention
+491 1677 database-design schema tools
+493 1688 database-design
+496 1694 mysql database-design datatypes
+497 1699 oracle performance
+498 1705 mysql performance
+502 1714 sql-server-2005 performance
+506 1726 oracle-10g locked-objects locking
+507 1728 postgresql psql
+508 1732 database-design best-practices
+509 1733 oracle performance index
+511 1742 postgresql plpgsql blob datafile
+514 1750 sql-server performance delete
+515 1755 index
+517 1765 sql-server-2005 performance
+518 1767 sql-server-2008 database-design datatypes
+520 1775 mysql database-design join
+524 1792 mysql performance mysql-5
+527 1811 mysql storage-engine memory
+528 1813 sql-server sql-server-2008 sql-server-2005 clustering
+529 1814 sql-server backup
+541 1847 sql-server oracle
+545 1866 sql-server orm execution-plan
+547 1868 sql-server sql-server-2008 backup restore permissions
+548 1876 sql-server execution-plan sql-server-2008-r2
+549 1880 sql-server sql-server-2008 backup migration restore
+551 1883 postgresql installation postgresql-8.4 pgcrypto
+554 1897 sql-server-2008 security
+557 1910 sql-server primary-key
+566 1935 mysql stored-procedures prepared-statement
+568 1942 sql-server sql-server-2008 view
+576 1957 postgresql sql-standard
+583 1989 oracle
+589 2009 sql-server-2008 xml
+596 2036 schema tools feature-comparison scripting
+598 2041 postgresql memory cache
+601 2050 sql-server t-sql
+604 2063 sql-server-2008 deadlock
+607 2072 etl
+608 2084 sql-server sql-server-2005 maintenance
+616 2104 oracle license oracle-se
+618 2109 sql-server sql-server-2008 logs web-server
+627 2147 schema constraint
+631 2161 mysql optimization profiler
+634 2174 sql-server
+638 2190 oracle transaction
+640 2195 mysql postgresql performance full-text-search pattern-matching
+670 2296 sql-server-2005 stored-procedures best-practices
+676 2342 normalization interview-question
+681 2357 postgresql stored-procedures plpgsql
+683 2361 oracle aggregate
+691 2387 sql-server sql-server-2005
+708 2439 sql-server-2008
+709 2445 database-design blob
+710 2450 database-design
+716 2471 database-design best-practices
+721 2500 sql-server sql-server-2008 configuration compatibility-level ado.net
+725 2511 oracle aggregate count null
+729 2524 mysql database-design uniqueidentifier
+731 2531 postgresql trigger delete plpgsql
+732 2532 oracle database-recommendation feature-comparison
+735 2545 sql-server sql-server-2005
+742 2569 sql-server-2005 query
+744 2574 oracle tablespaces
+764 2626 sql-server index
+766 2634 mysql
+768 2640 mysql performance innodb varchar
+770 2650 mysql
+775 2662 sql-server-2005
+778 2677 naming-convention
+779 2678 mysql query
+781 2684 sql-server locking nolock
+782 2687 sql-server-2005 best-practices maintenance jobs
+787 2710 query dynamic-sql scripting
+789 2714 postgresql schema database-design null
+790 2716 sql-server performance
+797 2743 sql-server t-sql metadata
+803 2758 postgresql timestamp date-format
+805 2763 mysql mysql-5 locking
+807 2770 postgresql monitoring
+818 2796 postgresql timestamp
+820 2804 postgresql aggregate select default-value
+823 2817 mysql index innodb myisam
+825 2824 db2 primary-key
+833 2868 mysql memory storage-engine
+844 2895 database-design database-recommendation primary-key
+846 2905 learning management
+850 2918 performance database-recommendation
+854 2935 sql-server etl
+864 2973 postgresql insert
+867 2978 oracle oracle-11g
+871 2994 oracle oracle-10g transaction
+874 3005 postgresql installation psql mac-os-x
+885 3033 oracle
+902 3087 sql-server database-design database-recommendation data-warehouse
+904 3091 sql-server bulk import
+905 3093 postgresql schema
+908 3110 sql-server-2005 index maintenance
+909 3114 sql-server sql-server-2008 backup
+912 3126 normalization database-design
+913 3134 database-design terminology
+916 3140 oracle-10g
+917 3148 postgresql benchmark psql
+922 3160 sql-server varchar
+932 3204 postgresql backup migration
+935 3221 mysql select
+944 3251 oracle oracle-11g-r2 materialized-view
+953 3276 postgresql database-design
+955 3281 postgresql sequence
+959 3289 sql-server sql-server-2008 tools
+968 3323 sql-server sql-server-2008 windows memory
+974 3343 sql-server
+975 3345 mysql
+985 3375 mysql performance performance-testing mariadb percona
+995 3394 postgresql restore snapshot
+999 3398 mysql index-statistics
+1018 3467 mysql primary-key auto-increment
+1023 3480 join best-practices
+1027 3489 mysql mysql-workbench
+1034 3509 oracle oracle-11g-r2 sqlplus
+1035 3512 database-design data-warehouse
+1037 3519 database-design
+1040 3533 oracle
+1043 3540 oracle oracle-11g oracle-10g
+1064 3605 sql-server-2008
+1070 3628 sql-server sql-server-2008 windows
+1074 3647 oracle instance
+1077 3653 database-design
+1083 3682 database-design join naming-convention
+1086 3688 database-design terminology
+1088 3694 sql-server backup
+1089 3696 sql-server mysql database-design rdbms scalability
+1093 3716 sql-server-2008 db2 transaction iseries
+1099 3737 performance sql-server-2005
+1103 3751 postgresql
+1105 3754 oracle-11g bulkcopy
+1110 3768 database-design best-practices
+1118 3794 sql-server sql-server-2005 sql-server-2008
+1131 3828 sql-server collation sorting natural-sort
+1132 3831 index
+1138 3849 sql-server-2005 select count
+1140 3856 sql-server sql-server-2008-r2 ssms csv
+1149 3889 mysql configuration
+1157 3914 mysql postgresql license
+1176 3972 mysql table
+1179 3999 stored-procedures best-practices dynamic-sql
+1180 4000 sql-server sql-server-2005 backup export
+1187 4018 sql-server-2008 sql-server-2000 migration express-edition
+1192 4037 mysql
+1193 4040 database-design database-recommendation
+1194 4043 sql-server logs
+1199 4056 sql-server export
+1206 4075 sql-server sql-server-2008 schema
+1210 4083 sql-server sql-server-2008 performance
+1221 4115 mysql ndbcluster
+1222 4118 mysql permissions usertypes
+1226 4129 mysql view
+1228 4137 oracle view permissions role
+1231 4152 database-design database-recommendation
+1234 4162 sql-server stored-procedures
+1235 4163 sql-server sybase truncate
+1247 4210 optimization mysql-5.5 relational-theory spatial
+1251 4218 sql-server
+1261 4252 mysql innodb
+1269 4274 sql-server syntax
+1273 4283 sql-server index-maintenance
+1274 4286 postgresql ubuntu permissions psql
+1276 4291 oracle oracle-11g-r2 null
+1279 4307 sql-server-2005
+1291 4340 oracle oracle-11g-r2 storage-engine
+1293 4347 sql-server backup sql-server-2008-r2
+1301 4373 sql-server query-performance optimization execution-plan
+1305 4391 oracle query
+1309 4405 sql-standard
+1311 4412 datatypes null
+1320 4441 sql-server security
+1321 4448 sql-server performance
+1322 4449 sql-server performance
+1323 4450 sql-server best-practices maintenance
+1325 4464 database-theory
+1328 4475 sql-server backup sql-server-2008-r2
+1329 4479 oracle performance varchar
+1331 4494 mysql oracle innodb deadlock
+1336 4506 sql-server sql-server-2008-r2 locking alter-table
+1338 4511 sql-server sql-server-2008 sql-server-2005 partitioning
+1342 4521 postgresql performance index postgresql-8.4 pattern-matching
+1344 4540 sql-server schema
+1347 4557 trigger audit application-design
+1352 4576 database-recommendation
+1360 4603 architecture database-engine database-design
+1361 4610 sql-server t-sql cursors
+1365 4622 database-design
+1366 4628 mysql backup mysqldump mysql-5
+1367 4630 sql-server heap
+1372 4654 mysql backup join select mysqldump
+1375 4665 sql-server sql-server-2008 statistics tuning
+1379 4679 security sql-server-2000
+1382 4693 performance linq
+1383 4696 sql-server t-sql ado.net
+1385 4706 sql-server-2008 performance
+1389 4717 mysql performance
+1390 4718 oracle
+1391 4721 postgresql dynamic-sql
+1398 4750 database-design normalization
+1402 4760 sql-server locking
+1406 4777 postgresql migration pgadmin
+1408 4794 mysql database-design
+1413 4814 sql-server testing performance-testing
+1414 4815 constraint database-agnostic referential-integrity
+1419 4839 sql-server locking
+1422 4859 sql-server nosql mongodb
+1424 4865 sql-server performance query
+1429 4884 sql-server oracle
+1430 4889 normalization
+1434 4906 sql-server sql-server-2008 backup restore
+1441 4936 sql-server-2000
+1448 4968 sql-server database-theory
+1461 5014 sql-server sql-server-2005 transaction
+1463 5022 sql-server security
+1471 5038 sql-server performance join
+1481 5061 oracle-10g insert update delete
+1487 5074 sql-server
+1494 5107 query deadlock
+1497 5119 mysql innodb myisam
+1512 5166 sql-server compatibility-level
+1523 5206 sql-server-2008 performance ssrs
+1525 5211 sql-server
+1528 5222 database-design null
+1530 5232 mysql database-tuning configuration
+1531 5233 sql-server-2008 performance transaction rdbms rollback
+1532 5236 postgresql pgadmin
+1545 5278 sql-server constraint
+1560 5332 oracle oracle-10g oracle-xe
+1561 5333 sql-server sql-server-2008 t-sql optimization condition
+1564 5346 sql-server sql-server-2008 database-design sql-server-2008-r2
+1571 5365 sql-server-2008 index fragmentation
+1574 5385 performance query performance-testing
+1584 5417 sql-server-2008 performance express-edition
+1589 5432 oracle trigger plsql
+1597 5455 sql-server-2008 disk-space
+1599 5460 oracle-10g oracle-11g upgrade
+1601 5468 sql-server sqlcmd
+1610 5487 sql-server performance database-design view
+1615 5501 database-design
+1622 5525 sql-server performance index index-tuning
+1646 5588 naming-convention
+1648 5602 sql-server-2008 view null constraint
+1649 5608 sql-server sql-server-2008 database-design aggregate materialized-view
+1659 5634 select database-theory dml
+1671 5666 mysql performance innodb mysql-5.5 tuning
+1679 5683 database-design
+1696 5744 postgresql explain
+1702 5761 sql-server-2008 performance profiler
+1707 5774 sql-server ssms identity
+1709 5780 mysql locking myisam deadlock
+1717 5809 sql-server performance performance-testing testing scalability
+1726 5834 database-agnostic
+1749 5920 mysql utf-8
+1751 5926 mysql performance
+1769 5989 stored-procedures best-practices naming-convention
+1779 6031 sql-server sql-server-2008
+1781 6035 mysql rdbms disk-structures
+1784 6042 postgresql datatypes timestamp sql-standard
+1787 6051 mysql index select order-by mysql-5
+1789 6054 mysql installation my.cnf
+1792 6069 database-design
+1804 6108 database-design primary-key surrogate-key
+1807 6115 postgresql index primary-key
+1808 6117 sql-server backup
+1818 6145 sql-server sql-server-2008 intellisense
+1819 6150 mysql replication
+1823 6158 postgresql postgresql-8.3
+1828 6183 sql-server performance sql-server-2005 ddl tempdb
+1829 6191 mysql innodb percona-server
+1831 6197 sql-server
+1844 6246 mysql interview-question
+1847 6252 sql-server sql-server-2008 sql-server-2008-r2
+1856 6275 sql-server query stored-procedures
+1862 6297 sql-server sql-server-2005 backup restore
+1864 6310 mysql
+1879 6368 oracle greatest-n-per-group
+1883 6383 sql-server-2008-r2 optimization
+1885 6387 sql-server errors terminology
+1887 6395 postgresql
+1894 6417 sql-server sql-server-2008 sql-server-2008-r2
+1897 6431 sql-server-2008 backup maintenance disk-space
+1900 6441 sql-server sql-server-2008 parallelism
+1906 6474 sql-server
+1914 6504 sql-server trigger
+1915 6507 oracle select cte
+1916 6512 sql-server maintenance locking
+1920 6526 mysql innodb mysql-5.5 mysql-5.1 mysql-5.0
+1925 6539 oracle index
+1931 6558 sql-server sql-server-2005
+1938 6577 sql-server sql-server-2005
+1949 6607 mysql database-design performance partitioning myisam
+1953 6619 business-intelligence
+1962 6647 sql-server sql-server-2008 database-design constraint
+1963 6653 sql-server
+1968 6673 mysql oracle
+1978 6697 sql-server-2008 database-design partitioning
+1979 6698 sql-server transaction locking isolation-level
+1982 6713 database-design
+1984 6726 sql-server index filtered-index
+1986 6731 sql-server compatibility-level
+1987 6736 sql-server syntax alias
+2001 6767 nosql
+2026 6840 sql-server sql-server-2005
+2042 6883 performance index database-agnostic
+2048 6900 sql-server sql-server-2008 t-sql datatypes type-conversion
+2055 6912 postgresql
+2065 6961 sql-server-2008 sql-server-2008-r2 upgrade
+2066 6962 mysql database-design datatypes
+2070 6975 sql-server sql-server-2008-r2
+2084 7023 sql-server security certificate
+2088 7031 sql-server mysql sql-server-express
+2089 7036 database-design
+2090 7038 sql-server backup
+2097 7060 sql-server-2008-r2 memory process
+2099 7077 mysql database-design best-practices timestamp date-format
+2100 7080 oracle
+2103 7086 sql-server sql-server-2005 recovery
+2104 7087 sql-server oracle sql-server-2005
+2106 7093 sql-server sql-server-2005
+2123 7147 mysql postgresql hierarchy
+2126 7156 database-design
+2129 7164 sql-server performance maintenance
+2138 7186 sql-server data-warehouse
+2146 7205 sql-server performance sql-server-2008-r2 trigger delete
+2157 7233 sql-server
+2159 7239 t-sql view
+2162 7249 sql-server-2008 database-design ssms default-value
+2175 7301 sql-server order-by
+2189 7344 mysql
+2192 7350 sql-server performance insert clustered-index
+2195 7359 sql-server-2008-r2 transaction
+2201 7378 postgresql join
+2204 7390 database-design postgresql tools
+2219 7430 oracle performance oracle-se
+2226 7451 sql-server
+2243 7504 sql-server performance ssis sql-server-2008-r2
+2246 7515 sql-server-2008 sql-server-2005
+2262 7573 mongodb
+2270 7599 tools ssms visual-studio visual-studio-2010
+2272 7603 query sqlite subquery
+2287 7647 sql-server
+2289 7652 mysql innodb
+2291 7660 sql-server sql-server-2008
+2301 7696 sql-server sql-server-2005
+2317 7741 sql-server primary-key
+2318 7742 replication oracle-11g-r2
+2321 7753 sql-server
+2322 7754 mysql
+2329 7773 sql-server performance best-practices disk-structures
+2335 7796 sql-server stored-procedures
+2338 7806 mysql optimization
+2370 7906 sql-server-2005 index
+2371 7909 sql-server sql-server-2008 sql-server-agent
+2376 7924 mysql database-design
+2377 7927 sql-server
+2392 7983 performance optimization
+2395 7994 sql-server-2005
+2403 8011 mysql innodb
+2409 8028 sql-server sql-server-2005 performance fragmentation application-design
+2437 8111 postgresql pgadmin
+2439 8119 postgresql best-practices plpgsql
+2443 8128 sql-server ssis data-warehouse ssas dimensional-modeling
+2475 8239 mysql
+2497 8314 sql-server
+2501 8334 sql-server mysql primary-key uniqueidentifier surrogate-key
+2504 8351 sql-server-2005 primary-key deadlock logs upsert
+2508 8362 sql-server-2008 performance
+2511 8374 sql-server-2008 memory
+2548 8492 sql-server transaction ado.net
+2550 8496 sql-server clustered-index
+2552 8504 sql-server database-theory sorting
+2554 8511 sql-server best-practices
+2568 8563 sql-server partitioning
+2574 8580 postgresql
+2580 8599 sql-server
+2585 8614 sql-server-2008 logs
+2588 8627 sql-server sql-server-2008 locking isolation-level
+2603 8680 mysql replication mysql-5
+2613 8700 sql-server sql-server-2008
+2617 8708 sql-server configuration index-statistics
+2624 8747 normalization rdbms
+2625 8752 sql-server order-by pattern-matching
+2636 8771 oracle
+2641 8790 postgresql
+2649 8814 postgresql index primary-key
+2656 8828 oracle
+2671 8869 mysql backup restore mysqldump mysql-5
+2679 8885 sql-server stored-procedures optimization sql-server-2000
+2686 8902 mysql sql-server-2008
+2689 8917 sql-server sql-server-2008 schema best-practices
+2697 8938 sql-server
+2707 8978 mysql replication
+2716 9011 relational-theory
+2729 9047 performance index
+2751 9109 stored-procedures t-sql order-by case
+2754 9124 sql-server sql-server-2008 performance bookmark-lookup
+2759 9143 oracle query
+2779 9196 sql-server oracle index
+2780 9197 postgresql
+2795 9249 mysql mysqldump permissions
+2812 9293 oracle oracle-sql-developer
+2816 9302 sql-server sql-server-2008
+2817 9306 mysql backup mysqldump
+2835 9356 database-design erd
+2845 9380 sql-server stored-procedures
+2852 9406 sql-server index
+2862 9441 oracle exception
+2879 9494 sql-server-2008 null
+2926 9638 sql-server sql-server-2008 execution-plan recursive except
+2935 9662 mysql constraint
+2944 9689 mysql insert upsert
+2963 9746 mysql innodb alter-table ddl
+2968 9759 postgresql constraint null unique-constraint
+2969 9762 sql-server aggregate
+2971 9765 sql-server oracle
+2985 9813 sql-server sql-server-2005
+2988 9821 sql-server clustered-index
+2990 9829 sql-server clustered-index
+2991 9832 sql-server performance type-conversion
+2992 9835 sql-server sql-server-2008 sql-server-2005 query-performance
+2993 9840 sql-server
+2994 9852 mysql profiler tools
+3033 9962 mysql mysql-5 authentication
+3045 10005 database-design
+3058 10034 career
+3073 10090 mysql postgresql linux
+3078 10113 sql-server query-performance
+3082 10120 sql-server sql-server-2008 transaction-log index-maintenance
+3087 10146 sql-server sql-server-2008
+3092 10167 sql-server trigger
+3096 10178 development
+3103 10199 mysql relational-theory
+3107 10208 performance postgresql
+3108 10215 sql-server performance
+3130 10273 sql-server sql-server-2008-r2 mirroring
+3132 10277 sql-server best-practices permissions
+3136 10304 sql-server sql-server-2005 permissions
+3143 10331 database-design schema nosql
+3159 10383 sql-server database-design database-tuning database-theory
+3192 10474 postgresql
+3197 10492 postgresql plpgsql
+3215 10535 sql-server index maintenance fragmentation
+3235 10587 sql-server sql-server-2008-r2
+3258 10655 sql-server locking nolock
+3259 10657 mysql stored-procedures trigger
+3268 10694 postgresql performance index regular-expression pattern-matching
+3275 10716 sql-server view
+3281 10729 mysql
+3299 10776 sql-server scalability
+3311 10818 sql-server performance-testing
+3322 10852 mysql authentication
+3330 10873 sql-server sql-server-2008-r2 linked-server except
+3342 10912 sql-server-2008-r2 locking transaction
+3347 10931 mysql upgrade
+3358 10952 sql-server
+3365 10975 sql-server security windows
+3369 10990 sql-server sql-server-2008 index ssms
+3370 10991 sql-server-2008 index ssms
+3374 11005 sql-server sql-server-2008-r2 backup
+3384 11032 postgresql schema
+3387 11043 mysql innodb my.cnf
+3407 11101 sql-server-2008 database-design schema
+3415 11124 data-warehouse sql-server-2012
+3433 11175 sql-server sql-server-2005
+3434 11177 sql-server sql-server-2008 backup restore
+3448 11220 sql-server recovery
+3453 11233 sql-server sql-server-2008-r2 corruption dbcc
+3467 11275 sql-server
+3475 11299 sql-server sql-server-2008
+3482 11329 postgresql index
+3486 11341 sql-server-2008 database-design schema datatypes xml
+3509 11396 mysql backup mysqldump xtrabackup
+3514 11405 oracle
+3527 11444 sql-server-2008-r2 scripting
+3536 11475 oracle plsql
+3544 11506 sql-server
+3552 11527 sql-server sql-server-2008-r2 version-control source-control
+3586 11631 database-design normalization application-design
+3595 11664 sql-server-2008 database-design
+3596 11670 sql-server sql-server-2008 database-design architecture
+3598 11679 sql-server execution-plan
+3601 11689 sql-server index
+3603 11697 sql-server performance join optimization
+3632 11779 sql-server performance query scalability
+3639 11804 sql-server sql-server-2008 security windows authentication
+3641 11806 mysql mysqldump
+3672 11893 postgresql maintenance
+3682 11925 sql-server sql-server-2008
+3684 11933 database-design
+3689 11956 sql-server sql-server-2008 index sql-server-2008-r2
+3691 11962 mysql
+3712 12024 sql-server
+3728 12061 mysql
+3740 12099 oracle foreign-key index
+3770 12185 c# sql-server visual-studio-2010 sql-server-2008
+3773 12202 sql-server sql-server-2005 alter-table
+3801 12271 mysql license
+3804 12281 sql-standard
+3838 12388 sql-server-2008-r2 instance
+3855 12437 sql-server sql-server-2008-r2 restore
+3867 12479 sql-server c# sql-clr
+3873 12512 sql-server
+3895 12564 sql-server
+3897 12569 mysql select datatypes
+3901 12580 sql-server sql-server-2008 except
+3902 12581 postgresql trigger
+3916 12611 mysql performance innodb
+3918 12619 oracle select
+3930 12650 sql-server
+3931 12655 sql-server index statistics maintenance
+3949 12698 sql-server locking concurrency isolation-level
+3959 12725 sql-server sql-server-2008-r2 replication
+3965 12739 sql-server t-sql stored-procedures
+3972 12769 sql-server database-design
+3974 12779 sql-server sql-server-2008
+3984 12809 sql-server sql-server-2008 performance index-tuning
+3985 12810 sql-server locking concurrency
+3990 12864 sql-server locking lock-escalation
+3994 12913 sql-server index sql-server-2008-r2 partitioning
+3997 12922 sql-server sql-server-2005 sql-server-2008 index
+4002 12938 sql-server index
+4003 12941 sql-server null coalesce
+4044 13075 oracle sqlplus
+4045 13083 mysql permissions
+4054 13112 sql-server cte
+4073 13167 sql-server sql-server-2008 t-sql
+4090 13243 sql-server transaction-log
+4125 13375 sql-server sql-server-2008 concurrency
+4128 13392 sql-server temporary-tables
+4140 13446 mysql mysqldump
+4143 13455 database-design xml
+4145 13468 postgresql plpgsql upsert
+4147 13470 sql-server sql-server-2008 database-design sql-server-2008-r2
+4156 13522 sql-server-2008-r2 t-sql
+4157 13523 sql-server performance sql-server-2008
+4175 13600 oracle
+4191 13650 sql-server
+4196 13668 sql-server datatypes
+4206 13703 mysql rank
+4217 13730 database-design naming-convention
+4221 13742 postgresql
+4227 13757 sql-server backup delete transaction-log
+4232 13778 sql-server database-design
+4253 13851 sql-server
+4256 13859 database-design
+4263 13882 mysql database-design
+4276 13926 sql-server sql-server-2008
+4278 13931 scalability
+4307 14047 sql-server sql-server-2008 database-design sql-server-2008-r2
+4324 14095 postgresql backup
+4348 14155 mysql innodb foreign-key
+4376 14246 mysql innodb mysql-5.5
+4394 14295 sql-server configuration
+4395 14296 sql-server sql-server-2008-r2
+4396 14304 sql-server-2008
+4420 14372 sql-server-2008 performance index statistics
+4424 14388 sql-server-2008 constraint hierarchy
+4429 14402 delete
+4458 14490 sql-server cte
+4464 14511 oracle sql-injection
+4474 14535 database-design security
+4483 14565 mysql innodb optimization query-performance subquery
+4485 14570 oracle oracle-11g-r2
+4495 14600 sql-server ssas
+4513 14661 sql-server sql-server-2005
+4529 14716 mysql mysqldump
+4530 14720 sql-server
+4533 14730 sql-server sql-server-2008 sql-server-2008-r2 sql-server-2012
+4537 14740 postgresql psql
+4545 14757 sql-server
+4551 14774 sql-server-2008
+4552 14775 mysql performance mysql-5 myisam
+4555 14789 sql-server sql-server-2008-r2 execution-plan
+4556 14791 sql-server sql-server-2008-r2
+4576 14864 sql-server sql-server-2008 null
+4617 14989 sql-server sql-server-2008 query-performance subquery
+4620 14996 sql-server sql-server-2008 partitioning metadata
+4638 15052 sql-server sql-server-2008
+4658 15108 sql-server locking ms-access
+4673 15147 mysql sql-server
+4680 15186 database-design audit
+4684 15199 database-design eav
+4697 15231 oracle database-recommendation data-warehouse
+4703 15250 mysql select case-sensitive
+4732 15326 oracle oracle-11g-r2
+4736 15335 mysql performance innodb mysql-5 null
+4738 15342 sql-server restore
+4740 15348 oracle tablespaces
+4742 15350 sql-server sql-server-2008 alter-table
+4745 15363 sql-server sql-server-2005 view query-performance
+4747 15371 mysql performance execution-plan view
+4753 15388 database-design best-practices foreign-key
+4782 15463 mysql
+4800 15530 mysql innodb foreign-key constraint
+4801 15531 mysql innodb mysql-5.5 mysqldump myisam
+4815 15572 mysql primary-key unique-constraint
+4818 15583 sql-server sql-server-2008 t-sql window-functions rank
+4822 15595 mysql performance innodb percona percona-server
+4838 15645 sql-server sql-server-2008 date-format
+4854 15682 sql-server
+4870 15720 postgresql
+4874 15730 sql-server sql-server-2008 trigger
+4892 15769 mysql postgresql mysqldump
+4918 15846 sql-server sql-server-2008 role
+4922 15859 sql-server sql-server-2005 query-performance
+4923 15860 sql-server optimization
+4926 15878 sql-server database-design referential-integrity
+4931 15897 mysql performance innodb primary-key
+4933 15906 mysql innodb
+4958 15976 subquery
+4963 15994 oracle sqlplus
+4965 16002 database-design
+4968 16013 sql-server sql-server-2005 performance configuration
+5011 16127 sql-server sql-server-2008 restore
+5036 16208 mysql performance innodb linux
+5038 16211 nosql
+5080 16341 mysql innodb mysql-5.5
+5090 16372 mysql optimization view
+5095 16385 sql-server t-sql temporary-tables
+5098 16397 mysql permissions
+5107 16433 oracle functions informix
+5109 16437 postgresql performance postgresql-performance full-text-search query
+5117 16461 oracle oracle-11g timestamp date-format
+5127 16484 oracle stored-procedures oracle-10g
+5128 16492 sql-server perfmon
+5129 16493 sql-server sql-server-2008 statistics
+5130 16500 database-design schema data-warehouse
+5152 16554 normalization relational-theory surrogate-key
+5172 16612 postgresql performance index join primary-key
+5174 16616 identity naming-convention
+5189 16679 sql-server restore
+5205 16725 sql-server-2008 join
+5210 16745 sql-server database-design
+5216 16763 sql-server sql-server-2005 etl
+5222 16781 postgresql
+5243 16843 database-design constraint
+5244 16846 mysql database-design
+5253 16875 mysql innodb
+5259 16884 sql-server oracle
+5266 16895 sql-server
+5285 16956 sql-server sql-server-2008
+5290 16969 mysql database-design mysql-5.5
+5300 16993 postgresql pgadmin-3
+5314 17030 sql-server sql-server-2008
+5323 17057 postgresql delete alter-table database-size vacuum
+5327 17069 sql-server-2008 index clustered-index clustered-primary-key
+5332 17077 oracle permissions vpd
+5338 17092 mysql postgresql performance
+5342 17103 sql-server sql-server-2008-r2
+5363 17177 sql-server sql-server-2008 view remote
+5366 17197 mysql database-design
+5369 17209 postgresql performance index
+5371 17217 sql-server
+5378 17238 sql-server-2008 performance insert
+5387 17267 mysql aggregate functions
+5390 17277 sql-server disk-space maintenance shrink
+5396 17300 sql-server sql-server-2005 backup datafile
+5397 17302 sql-server sql-server-2008 hierarchy
+5407 17328 identity
+5408 17339 sql-server sql-server-2008 foreign-key constraint metadata
+5419 17367 mysql mysqldump import
+5420 17371 sql-server replication sql-server-2012 high-availability availability-groups
+5432 17398 oracle oracle-11g-r2
+5440 17426 mysql innodb
+5441 17431 mysql innodb myisam storage-engine
+5444 17439 database-recommendation ms-access
+5476 17529 mysql replication
+5506 17615 oracle referential-integrity truncate
+5519 17653 postgresql performance query-performance update
+5533 17691 postgresql
+5539 17706 postgresql alter-table
+5556 17761 mysql insert unique-constraint uniqueidentifier
+5569 17790 postgresql permissions
+5590 17853 database-design foreign-key referential-integrity
+5595 17867 mysql mysql-workbench datatypes
+5610 17921 sql-server sql-server-2005 query
+5612 17926 mysql innodb count
+5624 17976 sql-server sql-server-2012 dac
+5644 18042 sql-server sql-server-2008 t-sql datetime type-conversion
+5651 18059 sql-server index schema constraint metadata
+5679 18151 architecture
+5700 18208 index firebird
+5703 18215 sql-server
+5716 18239 oracle database-design oracle-10g best-practices
+5740 18300 postgresql database-design index query-performance
+5743 18310 sql-server sql-server-2012 service-broker
+5744 18315 sql-server sql-server-2008-r2 restore filestream
+5765 18372 sql-server index clustered-index fragmentation
+5771 18399 database-design
+5781 18433 mysql replication master-slave-replication
+5792 18463 sql-server sql-server-2008-r2 transaction-log
+5801 18484 postgresql memory
+5820 18528 sql-server sql-server-2008 sql-server-2005
+5825 18539 sql-server database-design metadata
+5832 18569 oracle locking wait-types
+5840 18593 sql-server sql-server-2000 migration
+5844 18610 sql-server sql-server-2008
+5854 18637 sql-server-2008-r2 query optimization
+5856 18639 oracle oracle-11g-r2
+5863 18664 postgresql etl vacuum
+5865 18669 database-design full-text-search
+5875 18700 database-theory terminology
+5882 18719 sql-server sql-server-2008 database-design database-internals
+5891 18762 sql-server sql-server-2008
+5928 18864 postgresql performance query-performance
+5934 18877 sql-server sql-server-2008 t-sql trigger identity
+5939 18887 sql-server t-sql datetime type-conversion
+5955 18934 sql-server performance query-performance
+5957 18943 sql-server database-design sql-server-2008 sql-server-2008-r2 index
+6002 19077 sql-server stored-procedures query-performance parameter
+6022 19130 sql-server performance maintenance statistics
+6033 19159 sql-server primary-key
+6034 19164 mysql innodb
+6042 19182 postgresql disk-space
+6069 19242 data-warehouse etl business-intelligence
+6108 19344 sql-server performance
+6141 19456 sql-server sql-server-2008
+6150 19488 sql-server sql-server-2005
+6152 19491 mongodb
+6167 19527 sql-server sql-server-2005
+6171 19544 sql-server performance sql-server-2005 perfmon
+6181 19564 sql-server sql-server-2008 stored-procedures
+6201 19632 postgresql default-value random
+6233 19719 sql-server sql-server-2008-r2 ssms
+6245 19749 sql-server
+6280 19870 sql-server sql-server-2008 sql-server-2005 transaction-log tempdb
+6287 19894 db2
+6294 19912 database-design normalization
+6301 19924 sql-server sql-server-2008 export configuration
+6357 20070 sql-server sql-server-2005 transaction-log
+6359 20078 sql-server backup restore
+6367 20099 sql-server sql-server-2008 ssas pivot
+6386 20151 sql-server
+6415 20240 mysql phpmyadmin
+6429 20275 business-intelligence reporting cognos eav
+6432 20283 sql-server performance functions ddl
+6449 20335 mysql database-design performance
+6470 20410 oracle
+6472 20416 sql-server sql-server-2008
+6473 20419 sql-server sql-server-2008 memory
+6483 20455 sql-server sql-server-2008-r2 logs error-handling
+6496 20499 sql-server sql-server-2008 t-sql
+6514 20566 mysql interface mysql-console
+6518 20588 sql-server sql-server-2008 sql-server-2012
+6531 20619 sql-server index query-performance maintenance dmv
+6563 20706 sql-server sql-server-2008 security
+6567 20714 sql-server sql-server-2008
+6573 20725 sql-server ssms sql-server-2012
+6574 20734 sql-server sql-server-2008-r2 tempdb
+6586 20759 database-design schema eav ontology
+6610 20832 mysql backup mysqldump
+6625 20867 sql-server feature-comparison high-availability rac oracle-rac
+6634 20898 mysql database-design
+6663 20973 sql-server sql-server-2008 sql-server-2005 memory
+6664 20974 postgresql performance datatypes varchar
+6695 21065 best-practices unit-test
+6696 21068 postgresql performance performance-testing vacuum
+6698 21075 mysql performance mysql-5.5 myisam locking
+6699 21078 sql-server sql-server-2008 t-sql functions
+6700 21087 mysql replication mysql-5.5
+6705 21119 mysql replication
+6716 21152 mysql update
+6725 21181 mysql auto-increment
+6727 21186 database-design sql-server-2008-r2 performance varchar type-conversion
+6728 21189 sql-server sql-server-2008 backup functions
+6741 21220 mysql explain
+6745 21226 sql-server sql-server-2008 t-sql group-by
+6776 21319 sql-server memory
+6815 21426 postgresql maintenance
+6817 21434 sql-server order-by
+6819 21443 mysql replication
+6846 21521 sql-server sql-server-2005 backup
+6853 21542 sql-server sql-server-2005 performance aggregate
+6867 21587 postgresql psql mac-os-x
+6871 21608 mysql optimization subquery
+6885 21650 sql-server sql-server-2008 t-sql
+6913 21735 mysql users
+6930 21779 sql-server sql-server-2012 t-sql ssms configuration
+6951 21837 sql-server sql-server-2012
+6960 21858 sql-server sql-server-2005 windows clustering
+6974 21895 sql-server tempdb
+6976 21897 postgresql
+6987 21925 mysql database-design
+7004 21965 sql-server alias
+7018 22002 sql-server-2008
+7027 22026 sql-server sqlcmd
+7053 22105 sql-server index statistics maintenance dbcc-checkdb
+7068 22148 sql-server query select
+7102 22250 sql-server sql-server-2012
+7137 22362 postgresql information-schema catalogs
+7172 22460 sql-server sql-server-2008 sql-server-2008-r2 c# sql-clr
+7189 22512 postgresql testing random bytea
+7202 22566 oracle best-practices
+7244 22688 sql-server sql-server-2008 index t-sql
+7275 22771 sql-server sql-server-2005
+7276 22779 sql-server transactional-replication
+7284 22799 postgresql
+7285 22803 sql-server sql-server-2008 security
+7287 22809 performance sql-server-2008 index
+7295 22833 sql-server-2000 sql-server-2012 ssms
+7326 22932 sql-server performance stored-procedures dynamic-sql sql-injection
+7328 22940 oracle database-design null
+7345 22989 sql-server t-sql php
+7360 23041 sql-server sql-server-2008 sql-server-2005
+7364 23053 postgresql backup restore
+7366 23058 sql-server-2008
+7371 23068 mysql query query-performance count
+7389 23124 mysql database-design datafile
+7391 23129 mysql select
+7393 23135 mysql select
+7403 23163 sql-server-2008-r2 query execution-plan
+7416 23203 mysql database-design optimization
+7430 23251 mysql
+7436 23265 mysql permissions
+7438 23279 mysql backup mysqldump
+7439 23280 oracle performance view
+7445 23305 sql-server sql-server-2008 sql-server-2008-r2 transaction-log best-practices
+7449 23313 sql-server sql-server-2008
+7456 23335 sql-server sql-server-2008
+7463 23355 postgresql performance functions plpgsql
+7468 23371 sql-server t-sql cte syntax
+7476 23390 oracle import
+7478 23399 sql-server profiler
+7496 23456 sql-server sql-clr
+7500 23465 sql-server performance optimization query-performance
+7501 23467 sql-server sql-server-2008-r2 deadlock merge
+7516 23509 sql-server sql-server-2008-r2 index optimization
+7518 23514 database-design query-performance datatypes
+7526 23532 sql-server oracle db2 express-edition
+7529 23547 sql-server clustered-index nonclustered-index
+7533 23566 sql-server-2008 t-sql
+7557 23637 postgresql duplication
+7580 23704 sql-server scripting
+7581 23705 oracle error-handling
+7592 23747 mysql linux command-line
+7600 23772 sql-server sql-server-2008-r2 backup configuration compression
+7604 23782 sql-server oracle migration syntax
+7605 23786 sql-server sql-server-2008-r2
+7607 23794 postgresql stored-procedures plpgsql
+7615 23806 sql-server sql-server-2008 sql-server-2005
+7619 23836 postgresql view postgresql-9.1
+7630 23879 postgresql performance disk-space postgresql-performance size
+7637 23908 mysql
+7662 23983 sql-server-2008 stored-procedures ssms
+7708 24124 mysql syntax
+7719 24165 sql-server sql-server-2008-r2 network
+7728 24197 sql-server sql-server-2008
+7733 24215 postgresql psql
+7760 24297 sql-server-2008
+7786 24371 mysql mysqldump import
+7790 24386 postgresql role
+7838 24496 sql-server stored-procedures
+7841 24507 sql-server sql-server-2008-r2 security
+7844 24518 postgresql psql
+7850 24531 mysql index if-not-exists
+7883 24617 sql-server query-performance ssms execution-plan
+7918 24714 sql-server sql-server-2005 dynamic-sql
+7929 24748 database-design schema database-recommendation normalization
+7938 24774 postgresql postgresql-9.1
+7960 24832 sql-server query-performance execution-plan optimization
+7967 24854 sql-server-2005
+7978 24883 sql-server t-sql transaction rollback
+7998 24937 oracle metadata documentation
+8036 25047 sql-server sql-server-2012 database-tuning-advisor
+8060 25103 sql-server command-line scripting smo
+8088 25192 sql-server sql-server-2008 ssms sql-server-agent
+8104 25226 sql-server sql-server-2012 ssms
+8123 25291 database-design postgresql index-tuning clustered-index referential-integrity
+8127 25304 sql-server sql-server-2008 index-tuning
+8128 25305 oracle
+8143 25348 sql-server-2008-r2 stored-procedures
+8168 25425 sql-server security
+8174 25448 postgresql psql
+8184 25472 mysql performance innodb deadlock insert
+8199 25513 postgresql performance index-tuning cache
+8205 25531 sql-server
+8251 25667 sql-server sql-server-2008 sql-server-2005 sql-server-2008-r2 information-schema
+8256 25683 database-design primary-key logs
+8296 25809 sql-server sql-server-2008 pivot
+8297 25811 sql-server sql-server-2008 hints
+8379 27045 oracle plsql
+8403 27100 sql-server query query-performance query-refactor
+8420 27153 mysql postgresql alter-table
+8455 27255 sql-server trigger
+8458 27265 sql-server-2005 query-refactor
+8475 27310 sql-server query-performance count netezza
+8480 27328 mysql innodb
+8524 27450 sql-server sql-server-2008 corruption
+8529 27467 sql-server-2008-r2 order-by
+8534 27477 postgresql postgresql-9.1
+8568 27558 sql-server mysql oracle postgresql sqlite
+8598 27659 mysql pivot
+8609 27688 postgresql locking concurrency serialization
+8622 27725 oracle
+8624 27732 postgresql
+8673 27879 sql-server-2012
+8680 27893 postgresql query-performance
+8701 27949 postgresql index query-performance
+8702 27950 sql-server sql-server-2008
+8738 28055 mysql myisam mariadb truncate
+8788 28187 sql-server sql-server-2005 utc-time timezone
+8790 28194 oracle best-practices
+8797 28213 sql-server sql-server-2008-r2 ssms profiler sql-server-express
+8838 28326 oracle
+8854 28360 sql-server sql-server-2005
+8859 28370 sql-server clustered-index heap
+8883 28431 database-design postgresql relational-division
+8890 28459 sql-server ssms
+8905 28512 database-design
+8910 28528 oracle select
+8920 28544 database-design
+8923 28556 postgresql database-size
+8979 28719 performance sql-server-2005 index
+8983 28730 sql-server-2008-r2 ssms execution-plan
+8991 28751 postgresql index java postgresql-9.1 performance-tuning
+9029 28862 sql-server-2005
+9095 29055 sql-server sql-server-2008-r2 exception
+9118 29116 sql-server database-design sql-server-2012 auto-increment identity
+9123 29132 sql-server-2012 ssms
+9181 29284 sql-server sql-server-2012
+9183 29289 sql-server locking ssrs
+9187 29300 sql-server full-text-search metadata
+9198 29323 sql-server deadlock sharepoint
+9200 29328 sql-server sql-server-2012 migration upgrade ssrs
+9211 29363 sql-server backup transaction-log recovery
+9226 29403 sql-server memory ssas
+9267 29522 sql-server sql-server-2008-r2 transaction-log alter-table null
+9269 29532 sql-server
+9271 29543 sql-server sql-server-2008 disk-space
+9311 29668 ms-access
+9326 29712 sql-server memory sql-server-express instance
+9344 29767 postgresql windows permissions
+9348 29775 sql-server t-sql join
+9358 29801 oracle constraint alter-table default-value
+9369 29829 sql-server transaction-log shrink auto-growth recovery-model
+9397 29903 sql-server sql-server-2012 availability-groups logins
+9401 29913 mysql innodb mysql-5.5 insert
+9416 29951 sql-server sql-server-2005 profiler
+9418 29961 postgresql
+9419 29963 mysql innodb windows configuration
+9454 30061 postgresql postgresql-9.1
+9469 30091 sql-server sql-server-2008-r2 permissions
+9481 30119 oracle oracle-11g linked-server pivot
+9485 30132 sql-server-2005 configuration materialized-view vendor-support
+9512 30210 sql-server sql-server-2012 execution-plan optimization offset-fetch
+9544 30317 sql-server schema
+9558 30349 sql-server-2008
+9566 30374 sql-server performance
+9570 30383 sql-server sql-server-2012 sql-server-localdb
+9631 30551 mysql amazon-rds aws
+9653 30609 postgresql replication
+9655 30621 sql-server sql-server-2005 service-broker
+9658 30626 postgresql replication backup
+9679 30692 sql-server sql-server-2005 backup
+9680 30696 sql-server-2008-r2 query-performance filtered-index
+9705 30768 mysql authentication users
+9713 30787 postgresql timestamp timezone
+9729 30824 sql-server sql-server-2008 performance disk-space shrink
+9736 30862 sql-server sql-server-2012 execution-plan xml database-internals
+9745 30891 postgresql cloud
+9760 30932 sql-server sql-server-agent windows-server scheduled-tasks
+9796 31045 mysql
+9811 31087 sql-server-express
+9813 31104 sql-server-2008-r2 jobs
+9851 31204 postgresql functions
+9900 31348 sql-server transaction-log recovery
+9904 31366 scripting unix
+9908 31378 sql-server sql-server-2008-r2 trigger
+9939 31460 sql-server-2012
+9954 31511 database-design performance index best-practices primary-key
+9955 31514 postgresql database-design index-tuning
+10020 31701 mysql innodb
+10025 31720 sql-server foreign-key metadata
+10037 31752 mysql performance innodb myisam
+10039 31760 sql-server pivot dynamic-sql
+10057 31805 sql-server terminology row record
+10065 31823 mysql innodb profiler
+10095 32905 sql-server maintenance
+10139 33021 sql-server sql-server-2008-r2 t-sql
+10157 33074 sql-server dmv
+10163 33085 sql-server index
+10210 33196 postgresql index index-tuning
+10238 33285 postgresql permissions
+10242 33297 sql-server sql-server-2008-r2 sql-server-agent
+10250 33319 postgresql postgresql-9.1 plpgsql upsert
+10255 33333 mysql mysql-workbench
+10289 33448 sql-server sql-server-2008-r2 storage tempdb disk-structures
+10327 33553 postgresql join select
+10331 33561 postgresql full-text-search postgresql-9.2
+10332 33564 sql-server sql-server-2008 backup restore
+10340 33596 sql-server
+10365 33669 performance mongodb amazon-ec2
+10374 33698 sql-server-2008 execution-plan cache
+10376 33700 sql-server sql-server-2008
+10377 33703 sql-server sql-server-2008 restore
+10379 33708 sql-server t-sql pivot
+10388 33737 database-design rdbms
+10397 33760 aggregate sql-standard
+10439 33894 postgresql database-design stored-procedures functions postgresql-9.1
+10455 33937 performance optimization
+10457 33943 postgresql best-practices postgresql-9.1
+10495 34047 sql-server
+10511 34079 sql-server-2012 change-data-capture
+10528 34132 sql-server sql-server-2008-r2
+10530 34136 postgresql postgresql-9.2 pgbouncer
+10538 34151 sql-server database-design foreign-key normalization relational-theory
+10565 34236 sql-server oracle index
+10605 34356 sql-server sql-server-2008-r2 etl except
+10606 34358 sql-server sql-server-2005
+10609 34381 mysql
+10624 34421 sql-server sql-server-2008 rdbms
+10642 34484 sql-server
+10657 34525 mysql amazon-rds
+10697 34633 sql-server sql-server-2008-r2 security xp-cmdshell
+10710 34673 mysql performance select subquery
+10727 34730 sql-server collation
+10738 34753 sql-server encryption transparent-data-encryption disaster-recovery
+10739 34754 sql-standard
+10742 34765 sql-server sql-server-2008 hardware san
+10775 34856 mysql
+10787 34887 mysql mysqldump
+10788 34892 clustering nosql scalability relational-theory
+10808 34947 sql-server sql-server-2005 stored-procedures
+10812 34955 database-design performance query-performance
+10817 34979 sql-server sql-server-2012 sequence
+10828 35015 sql-server sql-server-2008-r2
+10850 35081 mysql backup mysqldump
+10880 35165 oracle
+10885 35177 sql-server sql-server-2008
+10886 35182 sql-server-2008 transaction-log
+10897 35219 sql-server sql-server-2008-r2 t-sql hashing
+10915 35271 sql-server
+10918 35277 mysql query-performance join scalability
+10931 35316 postgresql permissions postgresql-9.2
+10934 35325 postgresql
+10935 35327 postgresql maintenance vacuum
+10955 35380 postgresql gaps-and-islands window-functions postgresql-9.0
+10969 35424 sql-server-2008 permissions active-directory
+10985 35459 postgresql
+10993 35480 sql-server t-sql best-practices
+11000 35497 postgresql usertypes catalogs
+11001 35500 sql-server performance query-performance memory cache
+11004 35520 mysql mysql-5.5
+11007 35529 sql-server-2008
+11018 35565 postgresql datatypes functions postgresql-9.1 array
+11025 35579 sql-server performance sql-server-2012
+11029 35595 sql-server sql-server-2012 tempdb dbcc-checkdb
+11030 35596 sql-server t-sql join optimization
+11032 35604 oracle trigger
+11034 35616 postgresql index functions plpgsql postgresql-8.4
+11100 35812 performance locking rdbms
+11103 35821 mysql index full-text-search varchar
+11130 35893 sql-server sql-server-2008 error-handling
+11136 35910 mysql oracle rdbms
+11192 36056 sql-server
+11202 36081 sql-server varchar
+11230 36163 sql-server
+11234 36178 sql-server linked-server
+11253 36244 sql-server sql-server-2012 t-sql
+11287 36345 mysql migration
+11319 36432 sql-server sql-server-2012 ssis
+11351 36522 sql-server configuration maxdop
+11357 36539 postgresql duplication
+11369 36573 mysql database-design subtypes
+11378 36603 sql-server deadlock
+11383 36612 oracle installation ubuntu startup
+11385 36618 sql-server sql-server-2008-r2
+11438 36811 postgresql
+11459 36870 postgresql permissions
+11460 36875 database-design relational-theory order-by database-agnostic
+11475 36917 oracle oracle-11g-r2 best-practices constraint
+11487 36943 postgresql group-by gaps-and-islands window-functions
+11498 36979 postgresql foreign-key primary-key pgadmin
+11510 37014 database-design datatypes
+11517 37034 postgresql performance delete postgresql-9.2
+11526 37058 sql-server security
+11555 37149 sql-server-2012 license
+11558 37162 sql-server hardware
+11585 37252 sql-server backup
+11596 37288 sql-server backup restore
+11620 37354 sql-server sql-server-2008
+11627 37379 sql-server sql-server-2012 security
+11642 37427 postgresql index constraint unique-constraint postgresql-8.4
+11705 37609 sql-server backup sql-server-2012
+11711 37627 sql-server sql-server-2005 except
+11769 38793 sql-server mongodb nosql rdbms cassandra
+11773 38808 sql-server-2012 ssis
+11792 38872 sql-server drop-table
+11824 38992 sql-server
+11850 39058 database-design foreign-key surrogate-key natural-key
+11857 39081 sql-server execution-plan union database-internals
+11875 39124 sql-server sql-server-2008 security
+11877 39128 sql-server sql-server-2008
+11909 39229 sql-server t-sql
+11941 39344 join select
+11965 39421 sql-server sql-server-2008 timezone
+12012 39572 sql-server sql-server-2012 sql-server-2000 linked-server
+12017 39589 postgresql index optimization postgresql-9.1 explain
+12020 39596 sql-server sql-server-2012 sql-server-2000
+12043 39652 postgresql
+12057 39689 sql-server execution-plan azure-sql-database
+12104 39815 postgresql update
+12107 39824 sql-server sql-server-2008 identity
+12112 39833 database-design
+12140 39936 sql-server database-design
+12150 39970 sql-server sql-server-2012
+12176 40045 postgresql schema postgresql-9.1
+12203 40130 mysql window-functions
+12212 40149 sql-server performance query-performance execution-plan
+12255 40280 sql-server performance
+12321 40481 sql-server sql-server-2008
+12323 40488 postgresql schema
+12325 40492 database-design database-recommendation mongodb nosql
+12331 40516 sql-server sqlcmd sql-server-2012 encoding
+12349 40567 mysql database-design
+12382 40656 sqlite
+12387 40669 sql-server sql-server-2012 identity
+12399 40703 sql-server sql-server-2005 temporary-tables
+12412 40738 sql-server isolation-level configuration
+12447 40830 sql-server sql-server-2008
+12448 40833 sql-server sql-server-2012 backup logs
+12491 40960 sql-server sql-server-2008-r2
+12497 40987 sql-server sql-server-2008 locking
+12516 41050 mysql replication
+12524 41067 postgresql select null
+12550 41141 mysql innodb mysql-5.5
+12564 41184 mysql
+12572 41215 sql-server transaction-log dbcc database-size shrink
+12618 41343 sql-server optimization sql-server-2008-r2
+12638 41413 mysql performance innodb
+12643 41427 mysql postgresql database-design
+12653 41458 postgresql windows command-line
+12658 41476 sql-server sql-server-2012 collation
+12692 41574 database-design
+12693 41577 db2 maintenance database-size db2-luw size
+12704 41608 ssis type-conversion
+12710 41623 mysql innodb tokudb
+12737 41709 sql-server-2008 transaction troubleshooting
+12752 41754 sql-server-2008 audit
+12754 41765 sql-server sql-server-2005 stored-procedures information-schema
+12759 41784 sql-server
+12761 41789 sql-server execution-plan statistics
+12784 41854 sql-server sql-server-2005 failover mirroring
+12815 41938 postgresql mac-os-x
+12817 41941 sql-server sql-server-2008
+12822 41961 sql-server sql-server-2005 string-searching
+12871 42104 sql-server sql-server-2005 sql-server-express limits
+12930 42290 postgresql query-performance postgresql-9.1
+13024 42539 sql-server sql-server-2008 disk-space
+13026 42553 sql-server sql-server-2005 performance index execution-plan
+13084 42721 sql-server optimization
+13114 42837 sql-server sql-server-2008 sql-server-2005 sql-server-2000 linked-server
+13124 42863 database-design schema normalization
+13149 42955 sql-server sql-server-2008 sql-server-2000
+13161 42998 performance join tuning application-design
+13192 43099 postgresql logs exception
+13240 43254 sql-server best-practices transaction
+13266 43335 sql-server
+13272 43352 sql-server t-sql case
+13301 43452 sql-server-2008 sql-server-2008-r2 sql-server-2012
+13303 43457 sql-server database-design merge-replication
+13340 43572 sql-server sql-server-2008 memory
+13342 43580 sql-server
+13348 43599 sql-server optimization join
+13352 43616 sql-server optimization join
+13397 43772 index rdbms
+13406 43802 sql-server sql-server-2008-r2 access-control
+13410 43812 mysql phpmyadmin auto-increment
+13417 43823 sql-server database-design azure-sql-database
+13425 43854 sql-server sql-server-2012 sql-server-2008-r2 installation
+13430 43875 sql-server sql-server-2008 stored-procedures maintenance
+13439 43910 sql-server alter-table ddl auto-increment identity
+13451 43937 postgresql jobs scheduled-tasks
+13499 44084 postgresql
+13530 44171 sql-server
+13533 44188 postgresql postgresql-9.2
+13573 44314 mysql innodb schema recovery
+13595 44386 sql-server security encryption
+13627 44498 sql-server ssas olap web-server
+13641 44533 sql-server performance query-performance
+13683 44657 postgresql vacuum
+13707 44721 mysql mysqldump restore
+13722 44764 sql-server sql-server-2008 index stored-procedures maintenance
+13731 44784 sql-server sql-server-2008-r2 t-sql
+13732 44785 metadata
+13735 44796 sql-server performance
+13739 44808 sql-server sql-server-2008-r2 index
+13773 44908 sql-server sql-server-2008-r2 compatibility-level
+13790 44956 mysql foreign-key
+13798 44992 sql-server database-design ssms
+13816 45051 sql-server ssms
+13828 45095 sql-server sql-server-2005 backup transaction-log
+13838 45137 sql-server sql-server-2012 sql-server-agent availability-groups
+13853 45179 sql-server sql-server-2008 aggregate window-functions
+13865 45224 postgresql performance
+13888 45302 sql-server database-design sql-server-2008 relational-division
+13935 45461 sql-server sql-server-2012 aggregate count
+13976 45579 sql-server-2008-r2
+13979 45589 postgresql
+14001 45655 sql-server ssas business-intelligence
+14005 45665 mysql replication mysql-5.5
+14019 45711 sql-server
+14020 45712 sql-server database-design sql-server-2005 performance index-tuning
+14064 45846 sql-server monitoring network
+14072 45870 postgresql backup windows postgresql-9.4
+14073 45876 sql-server sql-server-2008-r2 backup transaction-log
+14088 45926 sql-server sql-server-2008-r2 restore snapshot
+14118 46009 sql-server query-performance performance-tuning users
+14119 46011 mysql replication
+14140 46074 sql-server-2005 memory execution-plan
+14148 46102 sql-server-2008-r2 compression backup
+14154 46125 postgresql primary-key constraint postgresql-9.2
+14156 46127 mysql join select foreign-key
+14162 46140 postgresql
+14204 46261 sql-server stored-procedures
+14206 46273 sql-server full-text-search installation sql-server-2008-r2
+14211 46289 sql-server sql-server-2005 linked-server insert
+14235 46359 sql-server performance
+14239 46373 sql-server primary-key identity
+14249 46408 postgresql database-design index collation
+14250 46410 postgresql foreign-key postgresql-9.1 insert
+14294 46545 sql-server sql-server-2008-r2 alter-database
+14305 46577 sql-server t-sql
+14317 46630 sql-server sql-server-2005 index execution-plan linq
+14320 46643 sql-server
+14335 46680 sql-server shrink sql-server-2008-r2 maintenance
+14363 46780 postgresql postgresql-9.1 clustered-index vacuum
+14393 46860 oracle oracle-11g
+14415 46917 sql-server-2008-r2 index query-performance
+14424 46942 sql-server trace
+14434 46980 sql-server sql-server-2008-r2
+14452 47025 sql-server profiler
+14460 47046 mysql binlog mysqlbinlog
+14463 47051 sql-server security permissions
+14464 47058 sql-server database-mail
+14478 47098 postgresql
+14486 47127 sql-server sql-server-2005 optimization
+14516 47237 sql-server sql-server-2008-r2 parallelism
+14523 47266 sql-server
+14524 47267 sql-server-2008
+14533 47295 sql-server corruption materialized-view dbcc-checkdb
+14536 47304 sql-server backup ssms
+14552 47345 mysql amazon-rds
+14556 47357 sql-server sql-server-2008-r2
+14568 47396 mysql
+14571 47402 sql-server sql-server-2008 sql-server-2012
+14572 47404 sql-server network
+14578 47431 sql-server sql-server-2008-r2 memory
+14580 47444 sql-server sql-server-2008-r2 performance ssrs hardware
+14678 47718 sql-server execution-plan
+14682 47726 sql-server system-tables
+14703 47811 database-design index database-theory
+14716 47842 mysql authentication
+14721 47861 mysql
+14765 47993 sql-server sql-server-2008 sql-server-2008-r2
+14770 48011 sql-server sql-server-2008-r2 partitioning
+14787 48055 sql-server sql-server-2012 merge
+14791 48072 mysql innodb index optimization explain
+14802 48108 sql-server constraint
+14824 48166 mysql innodb windows linux mysql-5.6
+14855 48240 postgresql insert
+14896 48365 sql-server dbcc-checkdb vldb
+14904 48390 sql-server-2008 sql-server-2005 collation
+14909 48405 sql-server sql-server-2008-r2 backup restore
+14910 48408 sql-server sql-server-2008-r2 azure-sql-database entity-framework
+14928 48458 sql-server sql-server-2008-r2 primary-key clustered-index
+14929 48462 sql-server sql-server-2005 shrink
+14948 48537 sql-server sql-server-2012 ssms
+14964 48580 sql-server performance sql-server-2008-r2 trace maintenance
+14978 48630 postgresql performance index query-performance
+14983 48643 sql-server subquery null uniqueidentifier
+15002 48705 sql-server backup transaction-log
+15017 48760 sql-server best-practices shutdown
+15055 48872 sql-server-2008 null alter-table
+15067 48899 postgresql best-practices ddl dml
+15072 48912 sql-server sql-server-2005 error-handling
+15095 48991 sql-server index sql-server-2012 index-tuning statistics
+15142 49140 sql-server sql-server-2008-r2 deployment
+15222 49385 sql-server
+15226 49398 sql-server backup
+15274 49540 postgresql query-performance postgresql-performance greatest-n-per-group
+15297 49619 sql-server windows datafile
+15344 49744 oracle null empty-string
+15366 49811 sql-server-2008
+15402 49930 sql-server sql-server-2012 hardware
+15409 49947 sql-server stored-procedures query-performance t-sql performance-tuning
+15419 49984 postgresql performance update hardware
+15466 50127 sql-server
+15467 50135 postgresql upgrade
+15474 50158 oracle plsql
+15538 50355 sql-server sql-server-2008-r2 encryption
+15618 50602 postgresql
+15635 50652 database-design primary-key
+15639 50664 mysql mysqldump
+15651 50708 sql-server sql-server-2012 performance-testing surrogate-key natural-key
+15683 50797 sql-server sql-server-2008-r2 sqlcmd
+15710 50867 oracle-11g-r2 windows
+15721 50899 sql-server performance sql-server-2008
+15724 50906 postgresql postgresql-9.3
+15738 50951 sql-server-2008 database-design primary-key identity composite-types
+15802 51155 sql-server
+15820 51215 sql-server-2012 ssms scripting
+15821 51219 sql-server
+15866 51349 sql-server sql-server-2008 partitioning
+15894 51440 sql-server datatypes date time datetime2
+15966 51626 sql-server shrink
+16002 51729 sql-server backup replication log-shipping
+16072 51945 sql-server optimization index-tuning
+16081 51970 oracle index
+16090 52007 sql-server sql-server-2012 backup
+16127 52129 sql-server sql-server-2008 execution-plan computed-column bookmark-lookup
+16149 52195 postgresql permissions
+16168 52244 postgresql
+16190 52314 sql-server performance query-performance group-by
+16191 52317 sql-server sql-server-2012
+16207 52358 sql-server
+16258 52492 mysql
+16267 52517 postgresql storage ddl
+16300 52601 sql-server index-tuning clustered-index uniqueidentifier
+16311 52632 mongodb
+16315 52641 oracle
+16330 52691 backup postgresql-9.1 permissions
+16334 52698 sql-server sql-server-2008
+16362 52773 sql-server memory
+16384 52826 postgresql insert plpgsql functions record
+16386 52828 sql-server sql-server-2012 permissions
+16393 52845 sql-server index query-performance performance-tuning
+16394 52846 sql-server sql-server-2008
+16460 53068 sql-server
+16467 53085 sql-server sql-server-2012 t-sql dynamic-sql
+16474 53105 sql-server sql-server-2008-r2 sql-server-2012 transactional-replication
+16502 53185 postgresql backup postgresql-9.1
+16511 53201 mysql performance windows database-tuning temporary-tables
+16542 53309 postgresql encoding postgresql-8.4 string bytea
+16560 53348 sql-server sql-server-2012 optimization cte
+16597 53458 interview-question
+16598 53462 sql-server sql-server-2012 primary-key
+16659 53634 postgresql pgadmin configuration
+16687 53726 sql-server-2008-r2 query-performance
+16688 53727 sql-server ssrs ssrs-2008
+16692 53739 sql-server
+16713 53815 sql-server clustering transactional-replication failover availability-groups
+16740 53893 mysql replication corruption
+16741 53895 sql-server auto-growth
+16751 53924 oracle timestamp
+16769 53995 sql-server sql-server-2008-r2 permissions restore security
+16791 54059 sql-server sql-server-2008-r2 index index-tuning
+16824 54149 oracle sqlplus
+16843 54211 mysql index index-tuning
+16859 54261 postgresql
+16869 54283 postgresql postgresql-9.3 array json
+16902 54377 sql-server
+16927 54453 sql-server
+16979 54608 mysql innodb mysql-5.5 mysql-5.6 mysql-5
+17028 54767 sql-server windows
+17075 54893 sql-server sql-server-2012
+17095 54943 sql-server transaction isolation-level snapshot-isolation connection-pooling
+17099 54954 mysql-5.1
+17116 55019 postgresql query-performance parallelism
+17128 55059 mysql mysql-5.5 datatypes
+17158 55145 sql-server-2012
+17175 55198 sql-server sql-server-2005
+17222 55327 sql-server sql-server-2008 sql-server-2008-r2 ssis
+17234 55363 postgresql random
+17235 55368 sql-server
+17286 55498 mysql join
+17301 55550 oracle-10g delete instance
+17310 55568 postgresql
+17364 55762 postgresql dbcc
+17419 55958 mysql-5 mac-os-x errors
+17442 56023 postgresql configuration
+17450 56045 sql-server-2008
+17470 56096 postgresql users role postgresql-9.3 access-control
+17480 56123 oracle plsql
+17484 56130 oracle oracle-11g-r2 optimization
+17492 56169 sql-server sql-server-2008-r2 sql-server-2012
+17496 56182 sql-server high-availability
+17568 56374 postgresql vacuum
+17589 56441 mysql
+17609 56494 mysql innodb buffer-pool
+17617 56527 sql-server sql-server-2014 in-memory-database
+17624 56559 postgresql high-availability scalability pgbouncer load-balancing
+17641 56615 oracle-11g-r2 locking business-intelligence
+17642 56616 sql-server scripting
+17720 56844 sql-server sql-server-2008-r2 encryption information-schema dmv
+17741 56893 mysql
+17743 56897 postgresql view postgresql-9.2
+17790 57058 postgresql windows full-text-search
+17849 57211 sql-server db2 iseries
+17927 57418 mysql
+17951 57492 sql-server
+18209 58214 postgresql
+18231 58284 mysql myisam
+18239 58312 postgresql psql
+18268 58388 sql-server sql-server-2012 availability-groups
+18289 58455 postgresql trigger update plpgsql record
+18364 58659 sql-server sql-server-2008 query-performance temporary-tables derived-tables
+18408 58772 sql-server security export
+18450 58888 sql-server sql-server-2012
+18452 58894 postgresql foreign-key constraint ddl referential-integrity
+18486 59000 postgresql physical-design
+18491 59006 postgresql
+18506 59062 sql-server sql-server-2008-r2 dynamic-sql
+18536 59128 sql-server sql-server-2012 permissions sql-server-agent
+18553 59170 postgresql explain
+18559 59193 sql-server sql-server-2012 query-performance insert
+18618 59372 sql-server sql-server-2008 sql-server-2012
+18633 59407 mysql linux ubuntu mysql-workbench
+18659 59472 sql-server t-sql
+18671 59509 postgresql database-design normalization dimensional-modeling
+18789 59828 mysql ssd
+18800 59871 oracle security encryption toad
+18812 59904 sql-server sql-server-2008
+18816 59916 postgresql replication
+18837 59981 sql-server t-sql ssms
+18888 60108 sql-server sql-server-2008 mirroring maintenance ola-hallengren
+18894 60129 sql-server sql-server-2008 sql-server-2012
+18911 60179 sql-server performance sql-server-2008
+18948 60279 sql-server performance query-performance parallelism wait-types
+18970 60342 postgresql null postgresql-9.3
+19006 60449 sql-server-2012 compatibility-level
+19014 60465 postgresql postgresql-9.1
+19062 60590 sql-server locking sql-server-2012
+19067 60609 sql-server-2012 permissions
+19083 60651 sql-server performance
+19125 60777 postgresql index query-performance optimization postgresql-9.3
+19286 61212 database-design sql-server-2012
+19292 61240 mysql truncate drop-table
+19294 61246 sql-server ssms
+19416 61616 installation sql-server-2012
+19448 61703 sql-server sql-server-2005 tempdb
+19461 61739 sql-server linked-server excel
+19493 61817 sql-server change-data-capture data-versioning
+19497 61825 sql-server
+19502 61848 sql-server sql-server-2008-r2
+19560 62029 mysql query-performance execution-plan
+19565 62051 mysql mysql-5.5 mysql-5
+19590 62129 mysql log
+19598 62144 sql-server sql-server-2012 alter-table
+19605 62165 sql-server sql-server-2008
+19620 62208 database-design storage
+19677 62379 sql-server backup transaction-log
+19715 62500 postgresql performance index group-by count
+19719 62513 sql-server mac-os-x
+19756 62598 postgresql select greatest-n-per-group
+19776 62660 sql-server sql-server-2012 change-tracking
+19858 62884 mysql windows
+19890 62976 mongodb
+19947 63138 sql-server
+19986 63255 sql-server ssms attach
+20033 63404 mysql mysql-workbench
+20051 63449 oracle index query-performance
+20070 63506 sql-server
+20077 63518 sql-server sql-server-2008-r2 sql-server-2014
+20089 63553 sql-server sql-server-2008-r2
+20119 63641 sql-server datetime date-format
+20127 63661 postgresql functions aggregate greatest-n-per-group
+20133 63676 sql-server
+20180 63825 mysql index information-schema
+20263 64084 sql-server-2012 maintenance-plans
+20326 64270 constraint postgresql-9.3 json
+20481 64689 database-design data-warehouse eav star-schema redshift
+20493 64727 sql-server sql-server-2012 t-sql
+20539 64876 sql-server sql-server-2014 azure-sql-database
+20541 64878 sql-server sql-server-2008-r2
+20552 64919 sql-server
+20584 65032 oracle sqlplus string
+20659 65254 mysql permissions
+20662 65262 sql-server sql-server-2008
+20792 65609 terminology fields
+20813 65668 sql-server ssms
+20829 65734 sql-server database-design sql-server-2008-r2 index constraint
+20920 66014 sql-server authentication logins
+20954 66118 sql-server t-sql
+21003 66249 sql-server
+21045 66387 postgresql alter-table
+21081 66471 sql-server
+21104 66553 mysql postgresql group-by count
+21129 66616 sql-server sql-server-2008-r2
+21168 66741 sql-server t-sql
+21180 66774 mysql mysql-5 mysql-5.6 query-cache
+21198 66840 postgresql postgresql-9.3 alter-table
+21215 67875 postgresql postgresql-9.3 functions plpgsql
+21251 67985 sql-server
+21282 68077 postgresql pgadmin
+21285 68089 sql-server t-sql
+21349 68266 postgresql database-design datatypes
+21415 68440 sql-server t-sql
+21478 68639 sql-server clustered-index identity
+21504 68700 mysql database-design normalization
+21524 68771 sql-server oracle oracle-11g-r2 oracle-sql-developer
+21592 68991 sql-server sql-server-2012 transaction-log shrink recovery-model
+21612 69043 sql-server-2008-r2
+21627 69081 sql-server performance functions tuning
+21713 69354 sql-server
+21715 69361 sql-server sql-server-2012 select
+21807 69655 postgresql group-by json row
+21808 69656 mysql innodb
+22064 71393 sql-server performance optimization
+22133 71608 sql-server backup security
+22139 71626 sql-server-2008-r2 transaction
+22213 71852 mysql relational-theory
+22234 71924 primary-key unique-constraint candidate-key
+22246 71961 mysql innodb backup mysql-5.6 mysqldump
+22285 72083 sql-server t-sql null
+22299 72134 postgresql index postgresql-9.3
+22366 72320 sql-server sql-server-2008 size
+22369 72330 sql-server parallelism functions
+22422 72493 mysql performance select
+22469 72641 postgresql duplication
+22476 72661 performance memory ubuntu nosql redis
+22509 72750 mysql performance innodb import
+22517 72770 mysql logs binlog debian
+22528 72816 sql-server sql-server-2014 columnstore
+22541 72858 sql-server sql-server-2008-r2 security
+22543 72864 sql-server log-shipping
+22579 72974 sql-server sql-server-2012 vendor-support
+22714 73361 postgresql query-performance postgresql-9.3 postgresql-performance range-types
+22880 73826 sql-server sql-server-2012 ssms installation
+22888 73846 postgresql schema
+22890 73850 sql-server sql-server-2012 transaction-log shrink
+22914 73921 sql-server sql-server-2008-r2 transaction-log
+22964 74061 sql-server sql-server-2012 authentication
+23015 74237 sql-server t-sql raiserror
+23033 74283 postgresql order-by sorting natural-sort
+23096 74457 mysql database-design innodb foreign-key referential-integrity
+23098 74461 sql-server sql-server-2012 t-sql
+23157 74627 mysql innodb mysql-5.5 foreign-key
+23176 74679 sql-server security dbcc role
+23244 74879 postgresql index postgresql-9.3 index-statistics
+23317 75091 mysql performance innodb myisam
+23331 75142 mysql postgresql
+23356 75214 postgresql
+23394 75326 sql-server sql-server-2012 ssms
+23397 75335 sql-server
+23420 75408 sql-server index sql-server-2014 alter-table memory-optimized-tables
+23435 75451 mysql innodb select count
+23464 75550 mysql postgresql data-warehouse olap
+23545 75785 mysql sequence
+23557 75821 sql-server
+23610 75990 sql-server
+23628 76038 sql-server security best-practices
+23657 76130 replication backup mongodb
+23683 76207 sql-server dmv top
+23715 76302 sql-server
+23830 76628 sql-server sql-server-2008-r2
+23884 76781 sql-server collation encoding unicode
+23885 76788 mysql collation utf-8
+23905 76834 sql-server sql-server-2012
+23949 76973 mysql postgresql performance join
+24037 77247 sql-server ssis sql-server-2014 integration
+24054 77298 sql-server sql-server-2008-r2 sqlcmd
+24094 77402 database-design dimensional-modeling facttable
+24127 77489 sql-server sql-server-2012 truncate
+24168 77639 sql-server
+24176 77664 sql-server sql-server-2012 t-sql decimal
+24248 77894 sql-server permissions backup
+24263 77935 sql-server clustered-index
+24301 78061 sql-server locking network
+24360 78242 postgresql postgresql-9.3
+24384 78323 sql-server sql-server-2014 compression
+24390 78341 permissions ssis-2012 catalogs
+24516 78694 sql-server foreign-key data-warehouse sql-server-2014 columnstore
+24659 80140 mysql union
+24672 80184 sql-server stored-procedures sql-server-2008-r2
+24697 80264 sql-server powershell smo
+24735 80374 sql-server t-sql
+24780 80514 sql-server database-design constraint null unique-constraint
+24808 80618 sql-server database-design datatypes
+24835 80695 mysql replication delete
+24870 80806 mysql performance foreign-key primary-key varchar
+24876 80817 sql-server migration export datafile blob
+24942 81011 postgresql postgresql-9.3 transaction
+24948 81035 postgresql datetime
+24954 81065 sql-server sql-server-2008-r2 window-functions
+25008 81245 sql-server table
+25018 81277 sql-server sql-server-2014 sql-clr
+25028 81311 sql-server foreign-key primary-key
+25047 81372 sql-server ado.net
+25053 81388 sql-server error-log
+25076 81460 postgresql stored-procedures plpgsql cte
+25107 81552 installation sql-server-2008-r2
+25121 81595 sql-server sql-server-2008 permissions security logins
+25135 81631 sql-server performance insert clustered-index nonclustered-index
+25241 81947 sql-server sql-server-2014 columnstore
+25258 82000 sql-server sql-server-2008-r2 sql-server-2012
+25309 82161 postgresql postgresql-9.3 psql
+25386 82414 maintenance cassandra
+25451 82615 sql-server sql-server-2012 trigger audit
+25513 82824 sql-server
+25540 82921 sql-server sql-server-2008-r2 t-sql errors
+25608 83125 mysql backup innodb mysqldump
+25623 83164 postgresql linux postgresql-9.1
+25699 83386 database-design
+25707 83421 sql-server sql-server-2014 recursive
+25711 83429 postgresql learning
+25898 83984 postgresql php pg-hba.conf
+25934 84090 sql-server execution-plan
+25978 84234 sql-server sql-server-2008-r2 sql-server-2012
+25997 84297 sql-server t-sql
+26009 84333 sql-server index disk-space dmv
+26107 84642 sql-server linked-server sql-server-2014
+26128 84698 sql-server performance security sql-clr
+26158 84798 postgresql postgresql-9.3 pg-dump
+26316 86263 postgresql unique-constraint cte
+26318 86274 postgresql
+26326 86295 sql-server disk-space sql-server-2008-r2
+26331 86313 sql-server datetime type-conversion
+26356 86383 sql-server execution-plan memory-grant
+26368 86415 sql-server t-sql greatest-n-per-group
+26408 86526 sql-server t-sql stored-procedures
+26433 86596 sql-server
+26435 86609 mysql plsql group-by syntax
+26444 86636 mysql innodb locking transaction-log data-integrity
+26451 86668 sql-server delete tablespaces
+26468 86724 postgresql syntax
+26484 86779 postgresql postgresql-9.3 materialized-view postgresql-9.4
+26494 86802 mysql view permissions
+26511 86855 db2 order-by
+26528 86917 sql-server auto-increment
+26587 87089 mysql innodb full-text-search
+26597 87122 postgresql primary-key unique-constraint
+26641 87230 sql-server index optimization fragmentation
+26663 87288 sql-server
+26670 87317 sql-server index query-performance materialized-view
+26676 87330 sql-server sql-server-2012 execution-plan statistics
+26681 87351 sql-server t-sql sorting paging
+26683 87355 oracle query-refactor
+26714 87467 sql-server performance
+26794 87692 mysql innodb logs
+26807 88731 oracle stored-procedures
+26837 88810 sql-server sql-server-agent jobs
+26894 88987 sql-server
+26908 89031 sql-server sql-server-2014 window-functions
+26993 89278 sql-server
+27136 89676 sql-server sql-server-2008 best-practices data-warehouse
+27146 89696 sql-server merge upsert
+27163 89760 mysql
+27262 90033 sql-server ddl constraint
+27332 90258 postgresql backup restore
+27371 90354 sql-server restore migration log-shipping mirroring
+27412 90482 postgresql postgresql-9.3 json export dump
+27517 90800 mysql
+27659 91223 sql-server maintenance
+27662 91247 postgresql index optimization postgresql-performance
+27682 91312 sql-server ssms sqlcmd ssdt
+27688 91338 postgresql locking alter-table waits
+27703 91388 mysql innodb myisam delete mysql-5.0
+27735 91509 sql-server sql-server-2012 index
+27749 91565 sql-server primary-key unique-constraint
+27932 92117 mongodb best-practices sharding deployment docker
+27940 93127 sql-server sql-server-2008-r2 encryption ssl
+28079 93510 postgresql aggregate
+28105 93588 sql-server sql-server-2014 transaction-log memory-optimized-tables
+28256 94018 sql-server sql-server-2012 performance-tuning
+28438 94545 mysql row
+28441 94552 mysql backup mysql-5.5 restore mysqldump
+28553 94887 postgresql collation
+28630 95134 sql-server t-sql index-tuning
+28664 95236 sql-server sql-server-2008-r2 schema
+28777 95595 postgresql
+28779 95600 postgresql postgresql-9.3
+28928 96000 sql-server availability-groups distributed-transactions
+28940 96039 sql-server t-sql aggregate concat
+29009 96245 mysql performance-tuning
+29190 96743 postgresql postgresql-9.3 plpgsql error-handling exception
+29250 96917 mongodb mongodb-3.0
+29324 97171 sql-server sql-server-2008-r2 query-performance stored-procedures execution-plan
+29413 97412 sql-server disk-space monitoring perfmon
+29429 97470 mysql
+29524 97738 sql-server sql-server-2008-r2 alter-table database-internals
+29533 97773 mysql datetime date
+29557 97846 mysql backup mysqldump
+29767 98467 mysql errors connections startup
+29792 98529 mysql mysql-5.5 password
+29807 98575 sql-server t-sql sql-server-2014
+29868 98745 sql-server logins system-tables
+29934 98949 mysql mysql-5.5 permissions
+29988 99111 sql-server availability-groups log-shipping disaster-recovery recovery-model
+29991 99120 mysql
+30031 99245 sql-server mysql join
+30060 99326 sql-server stored-procedures xml database-mail
+30061 99334 sql-server sql-server-2012 restore migration sql-server-2000
+30157 100643 sql-server unicode
+30165 100665 postgresql datatypes type-conversion
+30190 100749 sql-server unique-constraint
+30253 100899 sql-server sql-server-2008-r2 t-sql pivot
+30272 100965 postgresql aggregate range-types
+30350 101211 sql-server disk-space shrink
+30581 101917 sql-server restore
+30623 102066 mysql
+30661 102160 sql-server locking blocking
+30677 102208 sql-server
+30710 102292 sql-server optimization execution-plan
+30739 102370 database-design
+30772 102463 postgresql trigger foreign-key postgresql-9.2
+30774 102467 sql-server sql-server-2014 statistics
+30782 102492 sql-server sql-server-2008 datetime date
+30820 102605 authentication connections azure-sql-database
+30827 102620 postgresql materialized-view postgresql-9.4 information-schema
+30849 102677 postgresql postgresql-performance postgresql-9.4 distinct
+30872 102745 sql-server sql-server-2008 sql-server-2008-r2
+30899 102828 sql-server sql-server-2008
+30921 102903 database-design foreign-key rdbms
+31044 103273 sql-server sql-server-2012 partitioning
+31148 103625 mysql linux debian
+31170 103688 sql-server stored-procedures
+31192 103756 postgresql configuration performance-tuning
+31211 103804 sql-server
+31214 103815 sql-server sql-server-2005 greatest-n-per-group
+31350 104172 postgresql postgresql-9.3 permissions ddl dynamic-sql
+31357 104192 sql-server sql-server-2005
+31420 104378 sql-server sql-server-2012 ssms connectivity
+31449 104460 sql-server sql-server-2012 backup sql-server-2014
+31465 104521 sql-server t-sql
+31482 104565 sql-server sql-server-2008
+31484 104573 sql-server
+31595 104898 sql-server sql-server-2014
+31624 104987 postgresql transaction unique-constraint
+31776 105431 memory configuration oracle-12c
+31809 105525 sql-server index t-sql join table
+31813 105537 postgresql index query-performance postgresql-9.4
+31902 105810 sql-server installation automation
+31958 105965 sql-server data-synchronization
+31972 106001 mysql database-design database-theory database-size
+31987 106037 sql-server t-sql
+32005 106085 mysql linux
+32022 106144 postgresql
+32064 106264 postgresql index postgresql-9.4 execution-plan
+32159 106539 primary-key unique-constraint
+32236 106762 sql-server sql-server-2012 primary-key deadlock
+32290 106898 sql-server
+32363 107096 oracle oracle-sql-developer
+32418 107238 sql-server sql-server-2008-r2 xml
+32470 107389 postgresql postgresql-9.4 best-practices postgresql-extensions
+32503 107475 postgresql datatypes timestamp timezone utc-time
+32532 107549 backup mongodb
+32535 107556 sql-server ssdt database-projects
+32547 107597 cassandra
+32579 107669 sql-server sql-server-2008 entity-framework
+32626 107820 sql-server security connectivity ssl
+32783 108266 sql-server ssis sql-server-2014 memory ssis-2014
+32791 108287 sql-server datetime
+32938 108710 postgresql postgresql-9.4 ssl
+32989 108881 sql-server index-tuning performance-tuning database-internals heap
+33014 108975 postgresql role metadata
+33086 109210 mysql optimization
+33119 109306 sql-server sql-server-2008-r2 installation
+33146 109392 sql-server
+33170 110460 postgresql query-performance view query-optimization
+33277 110774 sql-server ssis
+33280 110781 mysql update insert duplication
+33312 110880 postgresql
+33323 110911 sql-server sql-server-2008-r2 performance-tuning collation unicode
+33339 110949 mysql null concat
+33418 111187 postgresql pgadmin
+33435 111223 sql-server join union cross-apply
+33446 111258 sql-server performance monitoring
+33476 111334 mysql aggregate greatest-n-per-group
+33477 111335 sql-server performance execution-plan
+33483 111347 sql-server-2012 security windows-server-2012
+33509 111419 sql-server-2005 transaction-log
+33520 111462 sql-server memory numa
+33525 111477 postgresql amazon-rds postgresql-9.4
+33643 111830 sql-server
+33715 112061 postgresql database-design constraint ddl referential-integrity
+33760 112167 sql-server sql-server-2008-r2 ssms database-size
+33909 112576 database-design constraint
+33987 112810 postgresql index-tuning amazon-rds order-by
+34009 112876 sql-server index
+34012 112881 sql-server-2012 hints order-by
+34057 113017 mongodb
+34097 113122 postgresql database-design foreign-key constraint
+34142 114260 sql-server view null computed-column
+34168 114337 postgresql query-performance subquery postgresql-performance hibernate
+34181 114360 sql-server query-performance update
+34193 114403 sql-server sql-server-2012 query-performance t-sql window-functions
+34226 114503 sql-server virtualisation vmware
+34241 114555 sql-server optimization
+34251 114580 mysql database-design audit
+34286 114665 sql-server join
+34324 114774 postgresql
+34359 114856 postgresql postgresql-9.3 insert postgresql-performance write-ahead-logging
+34369 114902 interview-question
+34453 115139 mysql innodb buffer-pool
+34475 115201 sql-server sql-server-2008-r2 linked-server openrowset exec
+34502 115270 sql-server
+34509 115290 sql-server database-internals
+34514 115303 sql-server t-sql alter-database
+34524 115338 sql-server sql-server-2008-r2 permissions
+34525 115339 sql-server sql-server-2008 backup
+34598 115621 sql-server t-sql index query-performance filtered-index
+34620 115671 sql-server sql-server-2012 performance buffer-pool page-life-expectancy
+34640 115723 postgresql postgresql-performance
+34653 115765 sql-server t-sql sql-server-2014 ssms monitoring
+34710 115943 sql-server index dmv
+34721 115984 sql-server sql-server-2005 update subquery
+34771 116142 postgresql greatest-n-per-group distinct
+34805 116240 sql-server cursors
+34817 116280 primary-key unique-constraint dynamodb
+34836 116347 sql-server index sql-server-2014 computed-column filtered-index
+34840 116361 replication amazon-rds failover mysql-cluster standby
+34841 116365 relational-theory database-theory relational-calculus
+34843 116368 sql-server performance sql-server-2014 insert transaction-log
+34884 116494 mysql order-by
+34904 116552 join ms-access aggregate datetime
+34964 116731 sql-server sql-server-2008
+35032 116936 sql-server t-sql sql-server-2014
+35039 116965 sql-server oracle sql-server-2008 primary-key constraint
+35097 117146 sql-server migration
+35115 117193 sql-server performance index
+35152 117306 sql-server query-performance sql-server-2014 cardinality-estimates
+35180 117391 sql-server sql-server-2008-r2 shrink
+35209 117469 sql-server t-sql hierarchy random
+35246 117567 sql-server replication sql-server-2014 ssms
+35300 117734 sql-server sql-server-2008 backup restore snapshot
+35405 118057 sql-server t-sql type-conversion string decimal
+35435 118158 sql-server collation metadata
+35546 118452 sql-server sql-server-2012 sql-server-2014 ssms connectivity
+35551 118458 sql-server sql-server-2008-r2
+35624 118648 sql-server sql-server-2012 t-sql trigger row-modification-time
+35625 118649 sql-server sql-server-2008-r2 t-sql
+35654 118729 sql-server sql-server-2008-r2 dynamic-sql
+35658 118737 sql-server sql-server-2014 ssis ssis-2014 troubleshooting
+35682 118823 sql-server sql-server-2014 sql-server-express
+35686 118846 mysql backup mysqldump export
+35696 118880 sql-server sql-server-2012
+35739 119025 sql-server best-practices statistics index-statistics
+35930 119621 mysql performance mysql-5.6 update myisam
+36068 120060 sql-server xml xquery
+36069 120064 sql-server sql-server-2014 functions varchar cardinality-estimates
+36221 120488 sql-server sql-server-2012 date date-format
+36265 120628 sql-server
+36269 120635 postgresql update
+36307 120756 sql-server parameter table-variable table-valued-parameters
+36406 121034 sql-server join exists
+36441 121160 mongodb storage-engine mongodb-3.0
+36459 121208 sql-server permissions
+36466 121236 mysql innodb optimization logs configuration
+36516 121370 sql-server t-sql order-by
+36704 121941 sql-server sql-server-2008-r2 fragmentation index-maintenance
+36715 121982 sql-server-2008-r2 performance dmv
+36790 122198 sqlite json
+36819 122262 sql-server powershell sqlcmd sp-askbrent
+36915 122582 sql-server sql-server-2012 ssms linked-server
+36931 122623 postgresql default-value uuid
+36955 122707 sql-server-express
+36967 122756 sql-server join
+37116 123184 sql-server sql-server-2012 import integer
+37163 123327 sql-server sql-server-2012 t-sql
+37269 123664 sql-server sql-server-2008
+37343 123863 sql-server index index-tuning computed-column
+37383 123969 sql-server sql-server-2012 backup
+37384 123978 sql-server sql-server-2008 dynamic-sql
+37389 123987 mysql postgresql database-design design-pattern
+37419 124082 sql-server documentation
+37460 124204 sql-server sql-server-2008-r2
+37551 124473 sql-server sql-server-2008-r2 backup
+37565 124512 mysql index database-internals
+37651 124785 sql-server sql-server-2012 index-tuning
+37674 124835 sql-server instance
+37680 124847 sql-server sql-server-2008-r2 identity
+37695 124896 sql-server sql-server-2012 t-sql where
+37701 124915 sql-server ssms
+37710 124949 sql-server sql-server-2012 update
+37752 125069 sql-server sql-server-2005
+37786 125171 update
+37824 125279 sql-server sql-server-2012 connections
+37832 125300 sql-server index query-performance update
+37834 125308 sql-server sql-server-2014 partitioning
+37854 125363 sql-server sql-server-2008-r2 computed-column
+37865 125399 sql-server permissions role
+37874 125422 sql-server t-sql
+37880 125437 sql-server
+37939 125617 sql-server sql-server-2008 trigger
+37986 125771 sql-server sql-server-2008 t-sql
+38021 125886 sql-server sql-server-2012
+38029 125915 sql-server availability-groups disaster-recovery
+38051 125985 postgresql optimization view postgresql-9.4 postgresql-performance
+38060 126003 postgresql performance varchar
+38066 126030 sql-server database-design denormalization
+38087 126095 sql-server-2008-r2 parallelism timeout maxdop latch
+38100 126127 sql-server sql-server-2008-r2 t-sql replace
+38133 126235 sql-server performance exists
+38195 126446 sql-server migration uuid
+38209 126495 postgresql database-design constraint
+38258 126632 sql-server query-performance cardinality-estimates
+38328 126846 sql-server sql-server-2008 t-sql xp-cmdshell
+38368 126969 sql-server sql-server-2008-r2 isolation-level nolock
+38378 126996 sql-server
+38429 127158 sql-server locking
+38476 127303 sql-server sql-server-2012 aggregate
+38479 127316 database-design replication database-recommendation relations
+38507 127405 sql-server clustered-index metadata database-internals data-pages
+38550 127537 mysql linux centos
+38587 127639 sql-server sql-server-2008-r2 query-performance performance-tuning
+38617 127737 sql-server sql-server-2008-r2 sql-server-2005 upgrade
+38732 128119 postgresql database-design postgresql-9.2 null check-constraints
+38764 128229 postgresql rdbms unix
+38785 128287 innodb foreign-key constraint
+38798 128333 sql-server sql-server-2008 datatypes
+38828 128424 sql-server backup best-practices ola-hallengren
+38833 128433 sql-server primary-key auto-increment identity
+38844 128474 sql-server memory
+38866 128535 sql-server sql-server-2008
+38945 128768 sql-server t-sql query-performance greatest-n-per-group
+38988 128917 data-warehouse etl
+39043 129090 sql-server sql-server-2014 insert
+39134 129358 sql-server sql-server-2014
+39150 129398 sql-server ssms instance
+39188 129504 oracle clustered-index
+39202 129535 sql-server
+39231 129604 sql-server index nonclustered-index
+39248 129659 sql-server sql-server-2008-r2 execution-plan prepared-statement plan-cache
+39261 129694 mysql
+39280 129751 postgresql postgresql-9.4 datetime
+39285 129782 sql-server sql-server-2012
+39286 129785 mysql database-design normalization string
+39310 129854 sql-server t-sql type-conversion
+39353 130028 sql-server sql-server-2008-r2
+39366 130069 oracle oracle-11g-r2 plsql
+39377 130091 sql-server-2008-r2 backup
+39390 130141 sql-server sql-server-2008-r2 gaps-and-islands
+39474 130392 sql-server
+39477 130399 sql-server t-sql stored-procedures
+39493 130441 sql-server oracle
+39510 130495 sql-server query-performance sql-server-2014 memory
+39571 130659 oracle foreign-key oracle-11g
+39766 131204 sql-server sql-server-2012 aggregate window-functions
+39796 131310 postgresql postgresql-performance timestamp greatest-n-per-group
+39810 131350 sql-server subquery
+40033 132029 postgresql foreign-key alter-table
+40066 132155 oracle plsql
+40108 132293 sql-server sql-server-2014 fragmentation system-tables
+40164 132437 sql-server index query-performance
+40241 132673 sql-server-2012 t-sql stored-procedures multi-thread web-service
+40244 132689 sql-server query-performance sql-server-2014 optimization index-tuning
+40281 132789 sql-server sql-server-2012 backup
+40299 132851 postgresql postgresql-9.4 alter-table blocking
+40310 132874 sql-server condition
+40335 132951 mysql-5.5 timestamp date default-value
+40480 133384 mysql mysql-5.5 select
+40482 133387 security
+40521 133510 performance azure-sql-database
+40529 133546 database-design normalization best-practices address
+40533 133556 sql-server locking concurrency identity
+40573 133687 sql-server t-sql dbcc-checkdb
+40585 133712 sql-server query-performance
+40711 134129 sql-server sql-server-2012 t-sql stored-procedures transaction
+40776 134333 sql-server configuration recursive
+40831 134493 postgresql postgresql-9.5 upsert
+40843 134525 sql-server sql-server-2014 cte
+40853 134555 sql-server pivot
+40904 134704 sql-server sql-server-2012 dmv
+40946 134828 sql-server sql-server-2012 optimization view
+40960 134874 postgresql postgresql-9.1 pivot
+40971 134898 mysql index mongodb
+41014 135032 sql-server t-sql
+41055 135142 mysql mysql-5.5 ssl permissions
+41128 135365 sql-server stored-procedures datatypes
+41141 135420 sql-server sql-server-2012
+41149 135455 sql-server t-sql hints microsoft-dynamics
+41155 135478 backup mongodb restore
+41208 135645 null database-agnostic
+41227 135717 sql-server sql-server-2012 trigger permissions
+41228 135720 postgresql permissions redshift
+41281 135887 sql-server restore ssms
+41401 136235 sql-server sql-server-2008 gaps-and-islands
+41402 136239 sql-server permissions
+41411 136262 sql-server sql-server-2012 index optimization execution-plan
+41414 136268 sql-server hierarchy sql-clr
+41540 136674 sql-server performance xml blob
+41555 136733 sql-server computed-column
+41603 136894 sql-server sql-server-2008 t-sql
+41652 137045 sql-server sql-server-2008-r2 xml concat
+41663 137097 sql-server performance powershell smo alter-database
+41751 137388 sql-server sql-server-2012 t-sql functions
+41752 137391 sql-server optimization execution-plan
+41774 137472 sql-server performance statistics index-statistics
+41807 137565 sql-server database-design sql-server-2014 hierarchy
+41865 137752 sql-server
+41878 137791 database-design normalization distributed-transactions
+41915 137911 sql-server isolation-level blocking snapshot-isolation
+41974 138080 date-format database-agnostic
+42047 138311 olap mdx
+42048 138315 postgresql java timestamp
+42065 138357 sql-server sql-server-2012 openrowset
+42124 138522 mongodb nosql
+42188 138724 sql-server database-design sql-server-2012 t-sql
+42216 138792 sql-server query-performance sql-server-2014 bulk-insert
+42218 138800 sql-server
+42266 138929 sql-server query-performance execution-plan dmv
+42323 139106 sql-server sql-server-2012 t-sql regular-expression
+42335 139131 mysql replication mariadb
+42360 139213 sql-server functions etl azure-sql-data-warehouse
+42387 139290 sql-server sql-server-2008-r2
+42412 139358 sql-server stored-procedures auto-increment identity
+42420 139382 sql-server sql-server-2014
+42451 139480 oracle order-by union
+42525 139702 sql-server t-sql primary-key clustered-index
+42539 139746 sql-server sql-server-2014 availability-groups tempdb
+42544 139758 sql-server sql-server-2008-r2 transactional-replication
+42548 139776 sql-server sql-server-2012 backup
+42589 139912 sql-server execution-plan
+42610 139969 sql-server sql-server-2014 shrink database-size
+42709 140247 sql-server query-performance sql-server-2014 concat cardinality-estimates
+42741 140363 sql-server sql-server-2008 order-by null
+42743 140369 sql-server t-sql
+42758 140410 postgresql schema null
+42808 140558 sql-server uuid
+42811 140568 oracle windows
+42815 140576 sql-server sum
+42825 140604 sql-server database-design sql-server-2012 subtypes
+42831 140623 sql-server t-sql group-concatenation
+42835 140632 database-design primary-key
+42851 140682 sql-server sql-server-2014
+42891 140790 sql-server database-design performance datatypes varchar
+42928 140896 sql-server backup
+42930 140909 sql-server t-sql
+42942 140943 sql-server sql-server-2000 dbcc-checkdb
+42995 141092 sql-server trace-flags
+43004 141129 postgresql if-not-exists
+43018 141175 sql-server index partitioning
+43105 141430 ssis
+43113 141464 sql-server compression
+43150 141594 group-by query errors
+43222 141789 sql-server trigger insert limits row
+43237 141842 sql-server performance service-accounts
+43323 142080 sql-server database-mail sql-server-2016
+43326 142086 sql-server availability-groups
+43401 142282 sql-server database-design
+43410 142305 sql-server-2012 transaction
+43418 142330 oracle select subquery
+43470 142488 sql-server t-sql sql-server-2005 stored-procedures dmv
+43489 142552 sql-server sql-server-2008 t-sql
+43592 142825 database-design foreign-key primary-key best-practices
+43601 142872 sql-server
+43627 142960 sql-server ms-access
+43635 142984 sql-server functions
+43641 143008 mysql database-design
+43981 144070 sql-server performance query-performance sql-server-2014 performance-tuning
+43990 144096 sql-server users
+44336 145163 sql-server
+44347 145204 sql-server query-performance sql-server-2014 stored-procedures execution-plan
+44587 145982 sql-server statistics
+44708 146424 sql-server execution-plan sql-server-2016
+44801 146708 sql-server-2012 backup sql-server-2014 restore migration
+44815 146745 sql-server select group-by order-by
+44816 146750 sql-server index t-sql data-pages
+44936 147112 sql-server
+45235 148048 sql-server sql-server-2012 t-sql
+45411 148595 sql-server
+45448 148730 sql-server alter-table identity
+45597 149169 postgresql restore pgadmin pgadmin-4
+45610 149202 database-design
+45632 149288 sql-server sql-server-2008-r2 t-sql
+45690 149459 sql-server t-sql stored-procedures
+45719 149539 sql-server sql-server-2014 connectivity
+45744 149630 postgresql
+45800 149796 oracle oracle-12c
+45805 149811 sql-server sql-server-2014 optimization
+45923 150158 database-design datetime
+45977 150329 sql-server sql-server-2008-r2 t-sql view running-totals
+46267 151169 postgresql optimization view
+46272 151183 mariadb centos
+46278 151199 postgresql cte
+46349 151376 mysql index order-by mysql-5.7
+46363 151431 postgresql null postgresql-9.5 unique-constraint upsert
+46403 151550 sql-server sql-server-2008-r2 string
+46454 151691 sql-server sql-server-2008-r2 t-sql errors
+46494 151813 mysql postgresql innodb deadlock isolation-level
+46688 152414 sql-server sql-server-2012 uniqueidentifier uuid
+46715 152488 mysql database-design normalization relational-theory denormalization
+46771 152659 sql-server performance stored-procedures optimization plan-cache
+46961 153295 sql-server sql-server-2014 optimization statistics cardinality-estimates
+46995 153392 postgresql foreign-key constraint unique-constraint
+47002 153420 mysql database-design foreign-key constraint delete
+47031 153519 sql-server index sql-server-2014 columnstore
+47048 153586 sql-server aggregate null
+47151 153896 sql-server
+47160 153916 oracle flashback syntax
+47196 154032 sql-server sql-server-2012
+47204 154061 postgresql postgresql-9.5 pg-dump
+47258 154227 sql-server paging
+47267 154251 sql-server best-practices naming-convention
+47364 154574 sql-server database-design
+47464 154841 sql-server sql-server-2012 permissions security
+47617 155332 postgresql permissions
+47664 155495 sql-server-2016 service-pack
+47689 155580 sql-server sql-server-2008-r2 blocking
+47712 155650 sql-server performance operator
+47718 155684 sql-server configuration sql-server-2016
+47813 155998 sql-server greatest-n-per-group
+47821 156028 ssis temporary-tables
+47866 156164 sql-server sql-server-2012 t-sql errors database-internals
+47929 156359 sql-server foreign-key metadata
+47984 156545 sql-server t-sql
+48150 157045 constraint terminology data-integrity consistency
+48167 157115 sql-server
+48169 157138 duplication interview-question
+48234 157334 sql-server index optimization clustered-index nonclustered-index
+48284 157501 postgresql amazon-rds sequence
+48290 157515 sql-server sql-server-2008 database-design nonclustered-index check-constraints
+48345 157696 sql-server sql-server-2016 statistics
+48354 157715 postgresql aggregate postgresql-9.5
+48415 157912 sql-server-2008 t-sql
+48472 158092 sql-server t-sql sql-server-2014 merge
+48510 158201 sql-server sql-server-2012 cardinality-estimates
+48538 158291 sql-server index azure-sql-database nonclustered-index
+48638 158617 postgresql update
+48658 158693 sql-server xml pivot
+48722 158907 postgresql time
+48739 158957 database-design performance index hardware ssd
+48742 158964 postgresql
+48821 159227 sql-server t-sql null computed-column
+48822 159229 sql-server sql-server-2008-r2 identity
+48836 159280 postgresql pivot dynamic-sql
+48864 159357 sql-server sql-server-2016 constraint
+48882 159413 sql-server mysql postgresql oracle
+48901 159462 stored-procedures functions
+48951 159634 postgresql
+48974 159710 postgresql aggregate array benchmark
+49146 160281 postgresql optimization execution-plan subquery explain
+49148 160290 sql-server sql-server-2008-r2 shutdown
+49162 160343 postgresql constraint
+49164 160354 sql-server postgresql t-sql functions
+49222 160530 sql-server sql-server-2008-r2 filtered-index
+49326 160872 sql-server sql-server-2012 security authentication logins
+49359 160979 postgresql vacuum
+49627 161824 sql-server
+49632 161849 sql-server join database-internals
+49752 162232 sql-server sql-server-2014
+49761 162263 terminology
+49818 162452 sql-server sql-server-2012 memory database-internals buffer-pool
+49835 162514 sql-server t-sql xml
+49964 162906 sql-server sql-server-2008-r2 t-sql
+50029 163154 sql-server database-design sql-server-2014 identity
+50124 163448 sql-server pivot
+50151 163528 sql-server sql-server-2012 index computed-column
+50272 163875 sql-server
+50301 163941 sql-server t-sql
+50314 163993 sql-server mysql postgresql sqlite database-engine
+50324 164043 sql-server database-design sharding scalability multi-tenant
+50325 164046 sql-server sql-server-2008-r2 t-sql
+50358 164166 sql-server sql-server-2014 join sorting
+50389 164260 sql-server tools
+50405 164311 sql-server storage architecture mount-point
+50411 164329 sql-server t-sql
+50450 164463 sql-server optimization table-variable
+50466 164526 sql-server sql-server-2008-r2
+50566 164811 sql-server t-sql sql-server-2014
+50570 164835 sql-server query-performance pivot
+50593 164900 sql-server optimization sql-server-2016
+50601 164922 sql-server query-performance optimization execution-plan sort-operator
+50815 165522 mariadb json
+50849 165636 sql-server t-sql
+50901 165762 sql-server t-sql functions
+50912 165798 oracle join null
+50921 165816 sql-server sql-server-2016 errors windows-10
+50949 165912 sql-server sql-server-2012 performance trace
+50959 165929 sql-server sql-server-2008-r2 permissions
+50971 165966 sql-server sql-server-2014 execution-plan bulk-insert
+50993 166024 sql-server t-sql stored-procedures datetime
+51029 166117 postgresql database-design datetime
+51058 166205 sql-server
+51097 166331 sql-server logs shrink
+51111 166374 postgresql group-by window-functions gaps-and-islands postgresql-8.4
+51184 166561 sql-server sql-server-2008-r2 delete
+51225 166686 sql-server sp-blitzfirst
+51258 166792 postgresql computed-column
+51277 166843 postgresql index query-performance clustered-index postgresql-9.6
+51319 167000 sql-server sql-server-2012 query-performance view
+51325 167036 sql-server execution-plan
+51341 167086 sql-server optimization execution-plan union database-internals
+51379 167201 postgresql join
+51438 167384 oracle installation oracle-12c centos-7
+51477 167489 sql-server datatypes unicode
+51638 167970 sql-server rollback
+51650 168022 postgresql query-performance postgresql-9.4 subquery sqlalchemy
+51688 168134 postgresql postgresql-9.5 pattern-matching
+51730 168276 sql-server
+51741 168303 t-sql sql-server-2016 json
+51769 168402 postgresql enterprisedb
+51826 168590 database-design foreign-key constraint best-practices
+51827 168595 sql-standard
+51870 168726 sql-server optimization
+51899 168815 sql-server azure-sql-database
+51997 169123 sql-server performance clustering vmware hardware
+52054 169286 condition
+52079 169372 sql-server t-sql update
+52108 169458 mysql mysql-5.5 mysql-5.6 mysql-5.1
+52143 170579 sql-server sql-server-2008 like operator
+52157 170621 sql-server shrink datafile database-size
+52211 170803 sql-server foreign-key sql-server-2016
+52284 171030 sql-server sql-server-2012 query-performance window-functions
+52337 171194 sql-server sql-server-2016 enum
+52382 171337 sql-server performance index t-sql execution-plan
+52389 171365 sql-server database-design sql-server-2014 optimization partitioning
+52411 171425 t-sql transaction isolation-level
+52436 171510 sql-server sql-server-2008-r2 maintenance-plans maintenance
+52480 171654 sql-server sql-server-2016 cardinality-estimates
+52678 172275 sql-server ssis data-warehouse
+52685 172289 mysql spatial geometry
+52759 172521 oracle cte derived-tables
+52972 173190 sql-server insert import collation bulk-insert
+53010 173309 sql-server query-performance
+53018 173335 security users
+53028 173367 sql-server sql-server-2008-r2 t-sql
+53043 173435 sql-server database-design t-sql query-performance default-value
+53168 173831 postgresql postgresql-9.4
+53186 173895 sql-server varchar max
+53193 173928 sql-server sql-server-2012 performance-tuning wait-types waits
+53225 174026 sql-server execution-plan memory
+53232 174044 sql-server stored-procedures temporary-tables
+53239 174069 relational-theory terminology
+53287 174219 sql-server sql-server-2008-r2 trigger collation ddl
+53299 174249 sql-server sql-server-2012 execution-plan cardinality-estimates
+53334 174353 sql-server aggregate datatypes sql-server-2017
+53434 174678 sql-server blob
+53437 174694 sql-server join group-by
+53453 174739 sql-server
+53544 175000 sql-server sql-server-2008-r2
+53569 175073 sql-server trigger performance-tuning
+53757 175674 sql-server
+53760 175682 sql-server sql-server-2016 columnstore
+53866 176023 sql-server scheduled-tasks
+53944 176246 sql-server sql-server-2012 query-performance greatest-n-per-group
+54062 176582 performance index update orm
+54091 176666 sql-server sql-server-2016
+54210 177032 sql-server temporary-tables
+54224 177083 sql-server query-performance update
+54235 177114 postgresql
+54254 177162 postgresql query-performance greatest-n-per-group postgresql-9.6
+54341 177463 postgresql trigger table postgresql-10
+54622 178355 sql-server database-design constraint cascade
+54703 179623 sql-server
+54869 180136 sql-server sql-server-2012 performance
+54973 180461 sql-server sql-server-2012 statistics
+55016 181593 sql-server sql-server-2012 t-sql backup restore
+55018 181598 sql-server best-practices collation
+55059 181732 sql-server stored-procedures execution-plan
+55112 181891 sql-server backup
+55223 182227 sql-server sql-server-2016
+55237 182275 sql-server sql-server-2012 compression
+55260 182331 sql-server t-sql null case
+55283 182410 sql-server sql-server-2014 query-performance optimization
+55285 182420 dbms
+55337 182580 postgresql plpgsql upsert
+55382 182728 sql-server view type-conversion
+55383 182731 sql-server transaction primary-key
+55456 182952 sql-server configuration limits
+55485 183046 sql-server hashing
+55567 183275 sql-server database-design sql-server-2016 varchar enterprise-edition
+55767 183891 postgresql constraint null check-constraints
+55794 183984 sql-server sql-server-2014 maintenance
+55846 184149 mysql postgresql oracle order-by derived-tables
+55890 184288 sql-server sql-server-2005 datatypes decimal
+55965 184525 sql-server-2014 index-tuning uniqueidentifier
+55997 184617 sql-server scalability azure-vm
+56152 185123 t-sql sql-server-2014 where
+56330 185662 sql-server database-design
+56456 186029 sql-server ssrs business-intelligence sql-server-2017 powerbi
+56527 186257 postgresql plpgsql postgresql-9.5
+56556 186339 sql-server sql-server-2014 query-performance
+56640 186597 sql-server performance sql-server-2016 vmware
+56650 186631 sql-server t-sql ssms
+56652 186638 sql-server t-sql query-performance performance-tuning
+56697 186791 sql-server group-by order-by nonclustered-index
+56799 187090 sql-server t-sql feature-comparison
+56844 187207 sql-server sql-server-2008-r2 performance windows-server-2008-r2
+56883 187342 sql-server functions parallelism computed-column
+56893 187369 sql-server query-performance functions azure-sql-database string
+56960 187568 sql-server
+57044 187807 sql-server query-performance select
+57110 188044 sql-server t-sql
+57166 188231 terminology naming-convention
+57325 188667 database-design database-recommendation nosql
+57334 188712 sql-server t-sql sql-server-2014
+57360 188793 sql-server sql-server-2016 index-tuning nonclustered-index
+57584 189468 sql-server sql-server-2016 execution-plan memory-grant
+57588 189484 sql-server cache compression size
+57642 189676 sql-server permissions import bulk-insert
+57724 189928 backup mongodb restore
+57771 190090 sql-server installation sql-server-2017
+57993 190782 sql-server backup transaction-log disk-space network
+58111 191146 insert output-clause
+58182 191393 sql-server sql-server-localdb
+58189 191419 sql-server update service-pack patching
+58197 191440 mysql constraint
+58241 191595 sql-server sql-server-2008-r2 t-sql collation unicode
+58316 191825 sql-server sql-server-2016
+58444 192208 mysql json
+58534 192524 t-sql pivot
+58571 192645 sql-server t-sql except
+58721 193138 sql-server permissions sql-server-2016 security
+58766 193287 postgresql index datatypes unique-constraint
+58799 193394 database-design relations
+58936 193783 sql-server sql-server-2017 offset-fetch
+59189 194684 postgresql stored-procedures functions terminology sql-standard
+59279 194975 postgresql datatypes type-conversion
+59312 195075 sql-server oracle terminology
+59317 195085 sql-server database-design permissions best-practices
+59537 195763 sql-server sql-server-2016 datatypes table-variable
+59541 195775 sql-server sql-server-2016
+59589 195923 sql-server t-sql
+59595 195937 sql-server-2016 c# parameter ado.net
+59622 196030 join
+59666 196158 sql-server t-sql query-performance group-by aggregate
+59678 196219 sql-server sql-server-2016 msdb query-store
+59679 196220 postgresql postgresql-9.4
+59794 196570 sql-server datatypes character-set encoding unicode
+59804 196600 sql-server t-sql security
+59865 196770 sql-server service-broker
+60060 197360 sql-server powershell
+60061 197363 database-design primary-key unique-constraint
+60075 197407 sql-server sqlcmd
+60125 197562 postgresql constraint postgresql-9.5 referential-integrity
+60225 197870 sql-server sql-server-2012 count
+60238 197906 sql-server sql-server-2012 query-performance subquery
+60304 198105 sql-server delete profiler
+60322 198170 sql-server installation debian
+60417 198473 sql-server group-by
+60431 198513 sql-server where
+60460 198611 sql-server dbcc-checkdb columnstore filegroups read-only-database
+60655 199214 postgresql alias
+60781 199593 sql-server t-sql sql-server-2016 json
+60868 199842 sql-server locking blocking
+60873 199853 sql-server collation unicode
+60942 200048 sql-server t-sql stored-procedures
+60980 200161 sql-server update cte
+61018 200279 sql-server
+61027 200312 postgresql database-design foreign-key erd orm
+61117 201598 sql-server t-sql stored-procedures parameter unicode
+61289 202086 sql-server performance query-performance sql-server-2016
+61324 202211 sql-server query-performance sql-server-2016 functions
+61338 202254 postgresql join many-to-many
+61391 202419 sql-server index query-performance execution-plan
+61477 202707 sql-server t-sql query-performance
+61614 203130 sql-server t-sql sql-server-2014 optimization
+61695 203402 sql-server sql-server-2016
+61698 203415 sql-server t-sql
+61718 203476 sql-server transaction-log
+61841 203877 sql-server ssms
+61872 203966 sql-server permissions
+61877 203981 pgadmin mac-os-x pgadmin-4
+61912 204096 sql-server performance sql-server-2016 memory sp-blitz
+61988 204339 sql-server trigger update
+62057 204532 sql-server sql-server-2012
+62060 204545 sql-server sql-server-2008 computed-column
+62067 204565 sql-server query-performance execution-plan parameter-sniffing
+62075 204597 sql-server sql-server-2012
+62117 204736 sql-server sql-server-2012 xml
+62124 204757 mysql mysql-5.6 datatypes union decimal
+62184 204923 sql-server sql-server-2008
+62217 205012 postgresql postgresql-9.4
+62222 205026 sql-server sql-server-2017
+62238 205073 sql-server ssis command-line
+62281 205190 sql-server sql-server-2017 standard-edition enterprise-edition online-operations
+62327 205342 sql-server t-sql
+62368 205468 sql-server data-masking
+62440 205689 sql-server sql-server-2014 unique-constraint computed-column
+62457 205727 sql-server sql-server-2016 vmware
+62479 205790 sql-server t-sql sql-server-2016 substring
+62604 206170 mysql group-by greatest-n-per-group
+62626 206241 sql-server index clustered-index nonclustered-index
+62708 206485 sql-server deadlock concurrency isolation-level
+62804 206815 sql-server performance execution-plan
+62812 206832 sql-server-2012 t-sql
+62849 206934 mysql aggregate mysql-5.7
+62861 206975 sql-server ola-hallengren
+62962 207274 sql-server
+63021 207456 sql-server sql-server-2008-r2 compatibility-level
+63086 207671 sql-server query-performance sql-server-2016 cardinality-estimates
+63100 207706 mysql mysql-5.6
+63105 207720 sql-server index sorting
+63186 207984 postgresql json postgresql-10 string-representation
+63245 208170 mysql
+63249 208178 sql-server t-sql
+63310 208372 sql-server sql-server-2012 waits sp-blitzfirst
+63427 208731 t-sql group-by window-functions
+63541 209084 sql-server optimization
+63637 209384 sql-server stored-procedures
+63685 209546 sql-server collation like
+63695 209583 sql-server t-sql index-tuning sql-server-2017
+63735 209695 sql-server query-performance execution-plan cte
+63739 209709 sql-server null sql-server-2017 computed-column
+63827 209989 sql-server sql-server-2016 aggregate
+64114 210865 sql-server count where
+64170 211034 sql-server
+64288 211352 sql-server azure-sql-database sql-server-2017
+64455 211860 sql-server query cache
+64640 212435 sql-server crash
+64676 212533 sql-server msdb
+64736 212707 mysql join
+64756 212770 sql-server ssms json cursors
+64766 212797 sql-server stored-procedures
+64830 213010 sql-server performance memory cache buffer-pool
+64832 213013 sql-server ssms users
+64928 213317 oracle recovery
+64949 213397 mysql
+65050 213693 sql-server delete
+65078 213791 sql-server sql-server-2012 sql-server-2008
+65158 214030 mysql case
+65183 214110 postgresql database-design primary-key timestamp
+65416 214863 postgresql
+65481 215078 sql-server sql-server-2014 join sql-server-2017 sort-operator
+65510 215172 sql-server backup sql-server-2016 dynamic-data-masking
+65523 215212 postgresql performance-tuning
+65564 215382 sql-server backup sql-server-2016 ola-hallengren
+65598 215491 sql-server sql-server-2016 xml xquery sparse-column
+65612 215534 mongodb mongodump
+65665 215699 sql-server trigger view
+65900 216417 sql-server role system-tables
+66040 216816 sql-server number-formatting
+66076 216919 sql-server query-performance execution-plan
+66103 216999 sql-server stored-procedures
+66108 217019 sql-server range-types user-defined-type
+66244 217419 sql-server sql-server-2012 availability-groups ola-hallengren dbcc-checkdb
+66246 217424 sql-server identifier
+66298 217577 mysql query-cache mysql-8.0
+66320 217653 sql-server-2012 index execution-plan
+66529 218315 oracle sum
+66573 218479 sql-server datatypes unicode utf-8 sql-server-2019
+66712 218871 subquery
+66857 219337 sql-server sql-server-2012 t-sql stored-procedures
+67142 220261 sql-server collation
+67145 220266 sql-server sql-server-agent disaster-recovery
+67146 220270 sql-server security best-practices dynamic-ports
+67175 220363 sql-server sql-server-2016 partitioning columnstore
+67233 220560 sql-server sql-server-2012 computed-column
+67434 221191 sql-server t-sql ddl master-system-database
+67458 221290 sql-server order-by sql-server-2017 window-functions
+67478 221349 sql-server ssms
+68019 222987 sql-server sql-server-2012 nonclustered-index
+68152 223392 mysql identity auto-increment
+68182 223496 sql-server xml
+68633 224913 sql-server performance sql-server-2016
+68750 225240 sql-server
+68762 225274 sql-server database-design t-sql
+68931 225736 sql-server execution-plan plan-cache
+68981 225859 sql-server mysql postgresql oracle connections
+69002 225918 sql-server sql-server-2016 migration sql-standard
+69017 225953 sql-server optimization
+69181 226356 sql-server partitioning cardinality-estimates
+69273 226610 sql-server execution-plan sql-server-2017 type-conversion cardinality-estimates
+69341 226792 sql-server t-sql tempdb temporary-tables sql-server-localdb
+69360 226838 sql-server-2008-r2
+69399 226946 sql-server cte recursive
+69448 227095 postgresql postgresql-9.1 sql-standard reserved-word
+69520 227288 sql-server query-performance tempdb cardinality-estimates
+69583 227468 sql-server optimization sql-server-2017
+69839 228131 order-by data-integrity
+70014 228597 sql-server transaction tempdb temporary-tables
+70054 228695 sql-server t-sql
+70094 228789 sql-server sql-server-2016 etl sql-clr hashing
+70196 229064 mysql database-design index innodb mariadb
+70221 229124 sql-server sql-server-2014 query-performance execution-plan
+70390 229559 sql-server sql-server-2016
+70514 229892 sql-server sql-server-2017 string-searching physical-design string-splitting
+70679 230303 sql-server security best-practices
+70747 230491 sql-server sql-server-2016 insert rollback select-into
+70838 230722 sql-server sql-server-2017 database-internals
+71049 231228 sql-server permissions logins connections access-control
+71139 231460 sql-server azure-sql-database columnstore
+71146 231474 sql-server optimization partitioning configuration filegroups
+71194 231628 sql-server sql-server-2012 sql-server-2014 sql-server-2016 azure-sql-database
+71215 231682 sql-server sql-server-2017 query-store
+71356 232048 sql-server sql-server-2008-r2 transaction-log disk-space logs
+71384 232120 sql-server unique-constraint
+71589 232605 sql-server configuration windows resource-governor
+71726 232943 sql-server sql-server-2014 configuration maxdop
+71990 233610 sql-server t-sql null window-functions running-totals
+72017 233674 sql-server
+72031 233705 sql-server sql-server-2012 performance-tuning storage san
+72086 233851 sql-server sql-server-2012 stored-procedures
+72090 233861 sql-server query isnull
+72098 233884 sql-server cursors
+72175 234086 sql-server foreign-key
+72195 234144 sql-server sql-server-2016 stored-procedures datatypes table-variable
+72224 234221 sql-server sql-server-2008 backup transaction-log log
+72250 234303 sql-server deadlock
+72275 234368 sql-server sql-server-2008 order-by
+72590 235169 sql-server sql-server-2012 index
+72600 235197 sql-server sql-server-2012
+72609 235227 sql-server query-performance performance-tuning parallelism functions
+72680 235465 sql-server t-sql stored-procedures
+72780 236732 sql-server execution-plan sql-server-2017 parallelism
+72796 236768 sql-server sql-server-2008 sql-server-2014 constraint
+72896 237086 sql-server ssms ssms-18
+72911 237128 sql-server database-design varchar
+72977 237312 sql-server sql-server-2008 permissions sql-server-agent jobs
+73009 237418 sql-server sql-server-2012 greatest-n-per-group
+73027 237475 sql-server sql-server-2014 xml xquery
+73034 237494 sql-server sql-server-2008-r2 statistics cache plan-cache
+73036 237509 sql-server performance sql-server-2016
+73112 237671 sql-server performance query-performance availability-groups sql-server-2017
+73117 237684 sql-server sql-server-2017
+73211 237935 sql-server transaction sql-server-2017 ddl
+73242 238013 sql-server update xml xquery
+73497 238669 postgresql database-design query-performance optimization timestamp
+73515 238714 sql-server sql-server-2016 string-searching
+73539 238783 sql-server execution-plan statistics
+73578 238873 sql-server backup recovery-model
+73745 239314 sql-server t-sql order-by
+73843 239564 sql-server
+73934 239788 sql-server count window-functions
+74187 240469 performance performance-tuning sql-server-2017 storage
+74294 240742 index innodb mariadb covering-index
+74455 241140 sql-server availability-groups concurrency queue
+74514 241302 sql-server sql-server-2016 extended-events
+74552 241387 sql-server sql-server-2014 fragmentation index-maintenance
+74638 241607 sql-server t-sql dynamic-sql sql-injection
+75055 242662 sql-server json
+75110 242813 sql-server mysql join
+75144 242908 sql-server index-tuning database-internals unique-constraint
+75226 243115 sql-server sql-server-2016 stored-procedures enterprise-edition table-variable
+75363 243484 sql-server sql-server-2012
+75379 243534 sql-server sql-server-2008 datetime varchar
+75690 244345 postgresql select null concat
+76012 245148 sql-server sql-server-2016 ssms
+76023 245178 sql-server sql-server-2016 compression bcp
+76216 245699 t-sql cursors
+76242 245781 sql-server sql-server-agent vulnerability-assessment
+76316 245983 sql-server sql-server-2012
+76457 246372 sql-server sql-server-2014 backup ola-hallengren compression
+76484 246459 sql-server availability-groups raid
+76497 246495 sql-server xml
+76550 246649 sql-server sql-server-2012 query-performance execution-plan
+76587 246734 sql-server optimization execution-plan cte recursive
+76616 246804 sql-server sql-server-2016 sql-clr error-log
+76628 246832 sql-server sql-server-2017 ola-hallengren index-maintenance
+76644 246888 sql-server locking deadlock concurrency sql-server-2019
+76645 246889 sql-server tempdb troubleshooting
+76703 247040 sql-server sql-server-2012 backup availability-groups
+76725 247090 sql-server unique-constraint duplication sql-server-2019
+76844 247411 sql-server sql-server-2014 pivot
+76883 248503 sql-server t-sql
+76914 248570 sql-server
+76918 248587 sql-server availability-groups
+76928 248610 sql-server sql-server-2012 sql-server-express database-mail
+76951 248677 sql-server t-sql transaction
+76981 248749 sql-server sql-server-2017 alter-table
+77015 248830 mysql
+77258 249465 sql-server sql-server-2008-r2 backup sql-server-2016
+77316 249593 sql-server sql-server-2016 join view enterprise-edition
+77328 249617 postgresql query-performance index-tuning postgresql-9.6 paging
+77366 249715 sql-server collation
+77419 249838 sql-server isolation-level serialization
+77495 250010 sql-server
+77497 250016 sql-server sql-server-2008-r2
+77552 250166 sql-server performance backup
+77571 250215 sql-server database-design configuration sql-server-2017 collation
+77676 250490 sql-server sql-server-2014 archive vldb
+77870 251034 sql-server transaction-log tempdb
+78178 251805 sql-server sql-server-2017
+78244 251988 t-sql sql-server-2016 query
+78272 252047 sql-server index query-performance execution-plan xml
+78325 252191 sql-server sql-server-2012 backup transaction-log
+78667 253082 sql-server
+78702 253166 sql-server sql-server-2017 snapshot
+78965 253873 sql-server sql-server-2016 best-practices
+79130 254252 postgresql datatypes type-conversion documentation
